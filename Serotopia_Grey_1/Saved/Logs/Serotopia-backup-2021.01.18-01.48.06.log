@@ -1,0 +1,1804 @@
+﻿Log file open, 01/17/21 19:33:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Serotopia
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.809461
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz, GPU: NVIDIA GeForce GT 1030
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=Boxbard -epicuserid=bd71ef1772a743638ce7010a20fe739a -epiclocale=en
+LogInit: Base Directory: G:/UNREAL_ENGINE/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.18-00.33.12:846][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.18-00.33.12:846][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.18-00.33.12:846][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Engine.ini]
+[2021.01.18-00.33.12:846][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.18-00.33.12:846][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Engine.ini]
+[2021.01.18-00.33.12:846][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Engine.ini]
+[2021.01.18-00.33.12:846][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.18-00.33.12:846][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.18-00.33.12:846][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.18-00.33.12:846][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.18-00.33.12:846][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.18-00.33.12:846][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.18-00.33.12:846][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.18-00.33.12:846][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.18-00.33.12:846][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.18-00.33.12:846][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.18-00.33.12:846][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.18-00.33.12:846][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.18-00.33.12:847][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.18-00.33.12:847][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.18-00.33.12:847][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Engine.ini]
+[2021.01.18-00.33.12:847][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.18-00.33.12:847][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.18-00.33.12:847][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.18-00.33.12:847][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.18-00.33.12:847][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.18-00.33.12:847][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.18-00.33.12:847][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.18-00.33.12:847][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.18-00.33.12:847][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.18-00.33.12:847][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.18-00.33.12:847][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.18-00.33.12:847][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.18-00.33.12:847][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.18-00.33.12:847][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Engine.ini]
+[2021.01.18-00.33.12:847][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Engine.ini]
+[2021.01.18-00.33.12:850][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Scalability.ini]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Scalability.ini]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Scalability.ini]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Scalability.ini]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.18-00.33.12:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Scalability.ini]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Scalability.ini]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Scalability.ini]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Scalability.ini]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.18-00.33.12:851][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.18-00.33.12:851][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.18-00.33.12:851][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.18-00.33.12:855][  0]LogHAL: Display: Platform has ~ 32 GB [34323226624 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.18-00.33.12:855][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.18-00.33.12:855][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Scalability.ini]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Scalability.ini]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Scalability.ini]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Scalability.ini]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.18-00.33.12:855][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Scalability.ini]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Scalability.ini]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Scalability.ini]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Scalability.ini]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.18-00.33.12:856][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Serotopia/Serotopia_Grey_1/Saved/Config/Windows/Engine.ini]
+[2021.01.18-00.33.12:857][  0]LogInit: Computer: DESKTOP-TBF2N9T
+[2021.01.18-00.33.12:857][  0]LogInit: User: Casey
+[2021.01.18-00.33.12:857][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.01.18-00.33.12:857][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.18-00.33.12:857][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2021.01.18-00.33.12:857][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.18-00.33.12:857][  0]LogMemory: Process Physical Memory: 105.17 MB used, 105.18 MB peak
+[2021.01.18-00.33.12:857][  0]LogMemory: Process Virtual Memory: 99.88 MB used, 99.88 MB peak
+[2021.01.18-00.33.12:857][  0]LogMemory: Physical Memory: 12011.35 MB used,  20721.83 MB free, 32733.18 MB total
+[2021.01.18-00.33.12:857][  0]LogMemory: Virtual Memory: 5121.57 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2021.01.18-00.33.12:862][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.18-00.33.12:905][  0]LogInit: Using OS detected language (en-US).
+[2021.01.18-00.33.12:905][  0]LogInit: Using OS detected locale (en-US).
+[2021.01.18-00.33.12:906][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.01.18-00.33.13:107][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.18-00.33.13:137][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.18-00.33.13:137][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.18-00.33.13:384][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.18-00.33.13:384][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.18-00.33.13:384][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.18-00.33.13:384][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.18-00.33.13:473][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 1030' (Feature Level 11_0)
+[2021.01.18-00.33.13:473][  0]LogD3D11RHI:       1982/0/16366 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.01.18-00.33.13:478][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.18-00.33.13:478][  0]LogD3D11RHI:       0/0/16366 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.18-00.33.13:478][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.18-00.33.13:485][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.18-00.33.13:485][  0]LogD3D11RHI:     GPU DeviceId: 0x1d01 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.18-00.33.13:485][  0]LogWindows: EnumDisplayDevices:
+[2021.01.18-00.33.13:485][  0]LogWindows:    0. 'NVIDIA GeForce GT 1030' (P:0 D:1)
+[2021.01.18-00.33.13:485][  0]LogWindows:    1. 'NVIDIA GeForce GT 1030' (P:1 D:1)
+[2021.01.18-00.33.13:486][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2021.01.18-00.33.13:486][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 1030
+[2021.01.18-00.33.13:486][  0]LogD3D11RHI:   Driver Version: 461.09 (internal:27.21.14.6109, unified:461.09)
+[2021.01.18-00.33.13:486][  0]LogD3D11RHI:      Driver Date: 12-31-2020
+[2021.01.18-00.33.13:486][  0]LogRHI: Texture pool is 1387 MB (70% of 1982 MB)
+[2021.01.18-00.33.13:558][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.01.18-00.33.13:578][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.18-00.33.13:594][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.18-00.33.14:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.18-00.33.14:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.18-00.33.14:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.18-00.33.14:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2021.01.18-00.33.14:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.18-00.33.14:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2021.01.18-00.33.14:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2021.01.18-00.33.14:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.18-00.33.14:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2021.01.18-00.33.14:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.18-00.33.14:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.18-00.33.14:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2021.01.18-00.33.14:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.18-00.33.14:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2021.01.18-00.33.14:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2021.01.18-00.33.14:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.18-00.33.14:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2021.01.18-00.33.14:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.18-00.33.14:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.18-00.33.14:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.18-00.33.14:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.18-00.33.14:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.18-00.33.14:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.18-00.33.14:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.18-00.33.14:254][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.18-00.33.14:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.18-00.33.14:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.18-00.33.14:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.18-00.33.14:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.18-00.33.14:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.18-00.33.14:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.18-00.33.14:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.18-00.33.14:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.18-00.33.14:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.18-00.33.14:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.18-00.33.14:431][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.18-00.33.14:436][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.18-00.33.14:486][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (C:/Serotopia/Serotopia_Grey_1/Intermediate/Shaders/WorkingDirectory/18732/).
+[2021.01.18-00.33.14:486][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Casey/AppData/Local/Temp/UnrealShaderWorkingDir/51A37E914955A3DC92E06C8622956211/'.
+[2021.01.18-00.33.14:487][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.18-00.33.14:487][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.18-00.33.14:487][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.18-00.33.15:345][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.18-00.33.15:416][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Casey/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.01.18-00.33.15:416][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Casey/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2021.01.18-00.33.15:416][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Serotopia/Serotopia_Grey_1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.18-00.33.15:416][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.18-00.33.15:416][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Serotopia/Serotopia_Grey_1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.18-00.33.15:416][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.18-00.33.15:433][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.18-00.33.15:433][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.18-00.33.15:433][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.18-00.33.15:434][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Casey/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.18-00.33.15:434][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.18-00.33.15:434][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.18-00.33.15:463][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.01.18-00.33.15:465][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.18-00.33.15:466][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.18-00.33.15:538][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2021.01.18-00.33.15:891][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.18-00.33.16:189][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.18-00.33.16:189][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.18-00.33.16:189][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.18-00.33.16:189][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.18-00.33.16:189][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.18-00.33.16:206][  0]LogNetVersion: Serotopia 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2814185824)
+[2021.01.18-00.33.17:782][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.053168 seconds
+[2021.01.18-00.33.17:792][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2021.01.18-00.33.17:792][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2021.01.18-00.33.17:792][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.18-00.33.18:298][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.18-00.33.18:302][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.18-00.33.18:386][  0]SourceControl: Source control is disabled
+[2021.01.18-00.33.18:386][  0]SourceControl: Source control is disabled
+[2021.01.18-00.33.18:388][  0]SourceControl: Source control is disabled
+[2021.01.18-00.33.18:389][  0]SourceControl: Source control is disabled
+[2021.01.18-00.33.18:400][  0]SourceControl: Source control is disabled
+[2021.01.18-00.33.18:515][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.18-00.33.18:528][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.18-00.33.18:528][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.18-00.33.18:634][  0]LogOcInput: OculusInput pre-init called
+[2021.01.18-00.33.18:646][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.18-00.33.18:646][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.18-00.33.18:759][  0]LogEngine: Initializing Engine...
+[2021.01.18-00.33.18:761][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.18-00.33.18:762][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.18-00.33.19:188][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.18-00.33.19:195][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.18-00.33.19:213][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.18-00.33.19:213][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.18-00.33.19:213][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.18-00.33.19:213][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.18-00.33.19:213][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.18-00.33.19:213][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.18-00.33.19:213][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.18-00.33.19:213][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.18-00.33.19:214][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.18-00.33.19:214][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.18-00.33.19:247][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.18-00.33.19:247][  0]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2021.01.18-00.33.19:247][  0]LogAudioMixer: Display: Is Default: Yes
+[2021.01.18-00.33.19:247][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.18-00.33.19:247][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.18-00.33.19:247][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.18-00.33.19:247][  0]LogAudioMixer: Display: Channel Order:
+[2021.01.18-00.33.19:247][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.18-00.33.19:247][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.18-00.33.19:289][  0]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.01.18-00.33.19:313][  0]LogInit: FAudioDevice initialized.
+[2021.01.18-00.33.19:313][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.18-00.33.19:395][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Casey/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.01.18-00.33.19:405][  0]LogInit: Texture streaming: Enabled
+[2021.01.18-00.33.19:422][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.18-00.33.19:422][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.18-00.33.19:424][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.18-00.33.19:533][  0]LogInit: Transaction tracking system initialized
+[2021.01.18-00.33.19:555][  0]BlueprintLog: New page: Editor Load
+[2021.01.18-00.33.19:626][  0]LocalizationService: Localization service is disabled
+[2021.01.18-00.33.20:140][  0]LogFileCache: Scanning file cache for directory 'C:/Serotopia/Serotopia_Grey_1/Content/' took 0.06s
+[2021.01.18-00.33.20:140][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.18-00.33.20:140][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.18-00.33.21:131][  0]SourceControl: Source control is disabled
+[2021.01.18-00.33.21:131][  0]Cmd: MAP LOAD FILE="C:/Serotopia/Serotopia_Grey_1/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.18-00.33.21:139][  0]LightingResults: New page: Lighting Build
+[2021.01.18-00.33.21:140][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-00.33.21:140][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.18-00.33.21:140][  0]MapCheck: New page: Map Check
+[2021.01.18-00.33.21:140][  0]LightingResults: New page: Lighting Build
+[2021.01.18-00.33.21:490][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.01.18-00.33.22:166][  0]LogTexture: Display: Building textures: bar (BGRA8, 1993X159)
+[2021.01.18-00.33.22:181][  0]LogAIModule: Creating AISystem for world MainMenu
+[2021.01.18-00.33.22:222][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.18-00.33.22:278][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.01.18-00.33.22:279][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.18-00.33.22:279][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.172ms to complete.
+[2021.01.18-00.33.22:279][  0]LogFileHelpers: Loading map 'MainMenu' took 1.148
+[2021.01.18-00.33.23:103][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.18-00.33.23:112][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.18-00.33.23:130][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.18-00.33.23:149][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.18-00.33.23:207][  0]LogCollectionManager: Loaded 0 collections in 0.001878 seconds
+[2021.01.18-00.33.23:285][  0]LogFileCache: Scanning file cache for directory 'C:/Serotopia/Serotopia_Grey_1/Saved/Collections/' took 0.00s
+[2021.01.18-00.33.23:285][  0]LogFileCache: Scanning file cache for directory 'C:/Serotopia/Serotopia_Grey_1/Content/Developers/Casey/Collections/' took 0.00s
+[2021.01.18-00.33.23:285][  0]LogFileCache: Scanning file cache for directory 'C:/Serotopia/Serotopia_Grey_1/Content/Collections/' took 0.00s
+[2021.01.18-00.33.23:285][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 3015 classes and 717 folders.
+[2021.01.18-00.33.23:382][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.18-00.33.25:079][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.18-00.33.25:133][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2021.01.18-00.33.25:594][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.18-00.33.25:596][  0]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.18-00.33.25:628][  0]LogSlate: Took 0.019439 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.18-00.33.25:977][  0]LogRenderer: Reallocating scene render targets to support 828x320 Format 10 NumSamples 1 (Frame:1).
+[2021.01.18-00.33.27:564][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.18-00.33.27:564][  0]LogLoad: (Engine Initialization) Total time: 17.81 seconds
+[2021.01.18-00.33.27:564][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.18-00.33.27:814][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.18-00.33.27:914][  0]LogSlate: Took 0.012370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.18-00.33.28:658][ 22]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.18-00.33.37:998][628]LogFileCache: Retrieving MD5 hashes for directory 'C:/Serotopia/Serotopia_Grey_1/Content/' took 10.26s
+[2021.01.18-00.33.51:106][490]LogRenderer: Reallocating scene render targets to support 828x324 Format 10 NumSamples 1 (Frame:1435).
+[2021.01.18-00.33.51:155][491]LogRenderer: Reallocating scene render targets to support 828x336 Format 10 NumSamples 1 (Frame:1437).
+[2021.01.18-00.33.51:204][492]LogRenderer: Reallocating scene render targets to support 828x352 Format 10 NumSamples 1 (Frame:1439).
+[2021.01.18-00.33.51:265][493]LogRenderer: Reallocating scene render targets to support 828x364 Format 10 NumSamples 1 (Frame:1441).
+[2021.01.18-00.33.51:299][494]LogRenderer: Reallocating scene render targets to support 828x372 Format 10 NumSamples 1 (Frame:1443).
+[2021.01.18-00.33.51:335][495]LogRenderer: Reallocating scene render targets to support 828x376 Format 10 NumSamples 1 (Frame:1445).
+[2021.01.18-00.33.51:368][496]LogRenderer: Reallocating scene render targets to support 828x384 Format 10 NumSamples 1 (Frame:1447).
+[2021.01.18-00.33.51:401][497]LogRenderer: Reallocating scene render targets to support 828x388 Format 10 NumSamples 1 (Frame:1449).
+[2021.01.18-00.33.51:462][498]LogRenderer: Reallocating scene render targets to support 828x396 Format 10 NumSamples 1 (Frame:1451).
+[2021.01.18-00.33.51:514][499]LogRenderer: Reallocating scene render targets to support 828x408 Format 10 NumSamples 1 (Frame:1453).
+[2021.01.18-00.33.51:584][500]LogRenderer: Reallocating scene render targets to support 828x424 Format 10 NumSamples 1 (Frame:1455).
+[2021.01.18-00.33.51:619][501]LogRenderer: Reallocating scene render targets to support 828x440 Format 10 NumSamples 1 (Frame:1457).
+[2021.01.18-00.33.51:665][502]LogRenderer: Reallocating scene render targets to support 828x452 Format 10 NumSamples 1 (Frame:1459).
+[2021.01.18-00.33.51:727][503]LogRenderer: Reallocating scene render targets to support 828x460 Format 10 NumSamples 1 (Frame:1461).
+[2021.01.18-00.33.51:809][504]LogRenderer: Reallocating scene render targets to support 828x468 Format 10 NumSamples 1 (Frame:1463).
+[2021.01.18-00.33.51:959][513]LogRenderer: Reallocating scene render targets to support 828x472 Format 10 NumSamples 1 (Frame:1469).
+[2021.01.18-00.33.51:999][514]LogRenderer: Reallocating scene render targets to support 828x480 Format 10 NumSamples 1 (Frame:1471).
+[2021.01.18-00.33.52:034][515]LogRenderer: Reallocating scene render targets to support 828x484 Format 10 NumSamples 1 (Frame:1473).
+[2021.01.18-00.33.52:058][516]LogRenderer: Reallocating scene render targets to support 828x488 Format 10 NumSamples 1 (Frame:1475).
+[2021.01.18-00.34.03:517][675]LogAssetRegistry: Asset discovery search completed in 47.9792 seconds
+[2021.01.18-00.34.03:526][675]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000012 seconds (updated 0 objects)
+[2021.01.18-00.34.58:699][ 56]LogSlate: Last resort fallback font was requested. Font: '/Game/Blueprints/UI/ManicMondayRegular.ManicMondayRegular', Character: '_ (U+005f)'
+[2021.01.18-00.34.58:758][ 56]LogSlate: Took 0.057364 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2021.01.18-00.35.22:123][188]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Animation/MC_ForEngine_V3_lambert2_BaseColor.MC_ForEngine_V3_lambert2_BaseColor was invalid. The texture will be rebuild.
+[2021.01.18-00.35.22:123][188]LogTexture: Display: Building textures: MC_ForEngine_V3_lambert2_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-00.35.22:123][188]LogTexture: Display: Building textures: MC_ForEngine_V3_lambert2_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-00.35.22:123][188]LogTexture: Display: Building textures: MC_ForEngine_V3_lambert2_BaseColor__2_ (AutoDXT, 1024X1024)
+[2021.01.18-00.35.22:123][188]LogTexture: Display: Building textures: MC_ForEngine_V3_lambert2_BaseColor__1_ (AutoDXT, 1024X1024)
+[2021.01.18-00.35.22:123][188]LogTexture: Display: Building textures: MC_ForEngine_V3_lambert2_BaseColor__4_ (AutoDXT, 1024X1024)
+[2021.01.18-00.35.22:123][188]LogTexture: Display: Building textures: MC_ForEngine_V3_lambert2_BaseColor__3_ (AutoDXT, 1024X1024)
+[2021.01.18-00.35.22:123][188]LogMaterial: Display: Missing cached shader map for material PlayerCharacterMag, compiling. 
+[2021.01.18-00.35.22:267][188]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 48
+[2021.01.18-00.35.22:267][188]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2021.01.18-00.35.22:267][188]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2021.01.18-00.35.22:267][188]LogMaterial: Display: Missing cached shader map for material PlayerCharacterBlue, compiling. 
+[2021.01.18-00.35.22:419][188]LogMaterial: Display: Missing cached shader map for material paint1, compiling. 
+[2021.01.18-00.35.22:592][188]LogMaterial: Display: Missing cached shader map for material PlayerCharacterV9_lambert1_BaseColor_Mat, compiling. 
+[2021.01.18-00.35.22:703][188]LogMaterial: Display: Missing cached shader map for material PlayerCharacterYellow, compiling. 
+[2021.01.18-00.35.22:744][188]LogMaterial: Display: Missing cached shader map for material playerCharacterRed, compiling. 
+[2021.01.18-00.35.22:864][188]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AO1E.AO1E
+[2021.01.18-00.35.23:482][188]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2021.01.18-00.35.25:493][188]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.18-00.35.26:269][189]LogSlate: Took 0.013217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.18-00.36.34:303][ 33]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 342
+[2021.01.18-00.36.39:401][459]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 332
+[2021.01.18-00.36.43:487][779]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 322
+[2021.01.18-00.37.49:772][343]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 312
+[2021.01.18-00.37.54:604][749]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 302
+[2021.01.18-00.38.35:636][327]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 292
+[2021.01.18-00.38.49:667][203]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.01.18-00.38.55:554][576]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.01.18-00.39.12:727][862]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 282
+[2021.01.18-00.39.30:373][161]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 272
+[2021.01.18-00.39.52:397][874]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 262
+[2021.01.18-00.40.04:768][816]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 252
+[2021.01.18-00.40.23:490][189]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 242
+[2021.01.18-00.41.18:638][902]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 232
+[2021.01.18-00.41.20:843][ 57]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 222
+[2021.01.18-00.41.42:892][475]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 212
+[2021.01.18-00.42.38:490][145]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 202
+[2021.01.18-00.43.10:777][387]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 192
+[2021.01.18-00.43.14:018][641]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 182
+[2021.01.18-00.43.31:734][856]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 172
+[2021.01.18-00.43.56:238][424]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 162
+[2021.01.18-00.44.49:936][326]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 152
+[2021.01.18-00.44.56:401][839]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 142
+[2021.01.18-00.45.44:806][568]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 132
+[2021.01.18-00.46.15:521][936]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 122
+[2021.01.18-00.46.32:055][231]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 112
+[2021.01.18-00.46.59:216][358]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 102
+[2021.01.18-00.47.14:605][521]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 92
+[2021.01.18-00.47.39:261][375]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 82
+[2021.01.18-00.48.03:049][237]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 72
+[2021.01.18-00.48.41:677][280]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 62
+[2021.01.18-00.48.57:026][429]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 52
+[2021.01.18-00.49.11:572][521]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2021.01.18-00.49.55:273][734]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2021.01.18-00.50.02:121][239]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.01.18-00.50.20:320][593]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.01.18-00.50.33:391][561]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.01.18-00.50.36:041][757]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.01.18-00.50.37:134][837]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.01.18-00.50.42:355][211]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.01.18-00.53.23:823][233]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.01.18-00.53.23:826][233]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenu' took 0.069
+[2021.01.18-00.53.23:846][233]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AO1E] ([1] browsable assets)...
+[2021.01.18-00.53.23:875][233]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AO1E.AO1E]
+[2021.01.18-00.53.23:875][233]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AO1E]
+[2021.01.18-00.53.23:875][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AO1E" FILE="C:/Serotopia/Serotopia_Grey_1/Saved/Autosaves/Game/Blueprints/AO1E_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.01.18-00.53.24:103][233]LogSavePackage: Moving 'C:/Serotopia/Serotopia_Grey_1/Saved/AO1E_Auto1966EC8C147F45D12E29B5DA75EFA6254.tmp' to 'C:/Serotopia/Serotopia_Grey_1/Saved/Autosaves/Game/Blueprints/AO1E_Auto1.uasset'
+[2021.01.18-00.53.24:121][233]LogFileHelpers: Auto-saving content packages took 0.295
+[2021.01.18-00.53.26:296][386]LogSlate: Took 0.025735 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.01.18-01.01.08:870][916]LogRenderer: Reallocating scene render targets to support 828x596 Format 10 NumSamples 1 (Frame:1).
+[2021.01.18-01.03.24:292][341]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.01.18-01.03.24:293][341]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenu' took 0.044
+[2021.01.18-01.03.24:294][341]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AO1E] ([1] browsable assets)...
+[2021.01.18-01.03.24:327][341]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AO1E.AO1E]
+[2021.01.18-01.03.24:327][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AO1E]
+[2021.01.18-01.03.24:327][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AO1E" FILE="C:/Serotopia/Serotopia_Grey_1/Saved/Autosaves/Game/Blueprints/AO1E_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.01.18-01.03.24:427][341]LogSavePackage: Moving 'C:/Serotopia/Serotopia_Grey_1/Saved/AO1E_Auto270334D8B44311D60EBA58CA79FE5D664.tmp' to 'C:/Serotopia/Serotopia_Grey_1/Saved/Autosaves/Game/Blueprints/AO1E_Auto2.uasset'
+[2021.01.18-01.03.24:428][341]LogFileHelpers: Auto-saving content packages took 0.134
+[2021.01.18-01.12.59:927][943]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.01.18-01.13.25:604][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.01.18-01.13.25:627][646]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenu' took 0.064
+[2021.01.18-01.13.25:628][646]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AO1E] ([1] browsable assets)...
+[2021.01.18-01.13.25:641][646]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AO1E.AO1E]
+[2021.01.18-01.13.25:641][646]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AO1E]
+[2021.01.18-01.13.25:641][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AO1E" FILE="C:/Serotopia/Serotopia_Grey_1/Saved/Autosaves/Game/Blueprints/AO1E_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.01.18-01.13.25:745][646]LogSavePackage: Moving 'C:/Serotopia/Serotopia_Grey_1/Saved/AO1E_Auto3E691618C4E7E20DA365B269DCCDE453A.tmp' to 'C:/Serotopia/Serotopia_Grey_1/Saved/Autosaves/Game/Blueprints/AO1E_Auto3.uasset'
+[2021.01.18-01.13.25:746][646]LogFileHelpers: Auto-saving content packages took 0.119
+[2021.01.18-01.15.14:642][796]LogSlate: Window 'AO1E' being destroyed
+[2021.01.18-01.18.19:792][656]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AOE_Decal.AOE_Decal
+[2021.01.18-01.32.00:482][646]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.01.18-01.32.00:484][646]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenu' took 0.046
+[2021.01.18-01.32.00:485][646]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AOE_Decal] ([1] browsable assets)...
+[2021.01.18-01.32.00:485][646]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AOE_Decal]
+[2021.01.18-01.32.00:485][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AOE_Decal" FILE="C:/Serotopia/Serotopia_Grey_1/Saved/Autosaves/Game/Blueprints/AOE_Decal_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2021.01.18-01.32.00:591][646]LogSavePackage: Moving 'C:/Serotopia/Serotopia_Grey_1/Saved/AOE_Decal_Auto4D1C4D06741294BC06FB6AEADF40095B7.tmp' to 'C:/Serotopia/Serotopia_Grey_1/Saved/Autosaves/Game/Blueprints/AOE_Decal_Auto4.uasset'
+[2021.01.18-01.32.00:593][646]LogFileHelpers: Auto-saving content packages took 0.110
+[2021.01.18-01.32.23:274][ 27]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/MainMenu.MainMenu
+[2021.01.18-01.34.08:671][658]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.34.08:671][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.18-01.34.08:734][658]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.34.08:734][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.18-01.34.10:847][775]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.34.10:847][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.18-01.34.12:014][864]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.18-01.34.12:014][864]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.34.12:014][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.18-01.34.40:652][ 42]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Mechanic_Test.Mechanic_Test
+[2021.01.18-01.34.43:752][294]LogSlate: Window 'Mechanic_Test' being destroyed
+[2021.01.18-01.36.22:788][593]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2021.01.18-01.37.08:162][608]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.37.08:162][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.18-01.37.09:671][759]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.37.09:671][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.18-01.37.24:611][264]LogLinker: Warning: While loading 'C:/Serotopia/Serotopia_Grey_1/Content/Levels/Forest.umap' failed to load '/Game/Levels/Forest_BuiltData': Can't find file.
+[2021.01.18-01.37.24:613][264]LogLinker: Warning: While loading 'C:/Serotopia/Serotopia_Grey_1/Content/Levels/Forest.umap' failed to load '/Game/Levels/Forest_BuiltData': Can't find file.
+[2021.01.18-01.37.24:917][264]LogLinker: Warning: While loading 'C:/Serotopia/Serotopia_Grey_1/Content/Levels/Forest.umap' failed to load '/Game/Levels/Forest_BuiltData': Can't find file.
+[2021.01.18-01.37.24:917][264]LogLinker: Warning: While loading 'C:/Serotopia/Serotopia_Grey_1/Content/Levels/Forest.umap' failed to load '/Game/Levels/Forest_BuiltData': Can't find file.
+[2021.01.18-01.37.25:087][264]LogLinker: Warning: Failed to load '/Game/Levels/Forest_BuiltData': Can't find file.
+[2021.01.18-01.37.25:087][264]LogLinker: Warning: Failed to load '/Game/Levels/Forest_BuiltData': Can't find file.
+[2021.01.18-01.37.25:087][264]LogLinker: Warning: Failed to load '/Game/Levels/Forest_BuiltData': Can't find file.
+[2021.01.18-01.37.25:088][264]LogLinker: Warning: Failed to load '/Game/Levels/Forest_BuiltData': Can't find file.
+[2021.01.18-01.37.25:449][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/MushroomBoys/Mush3/MushMan3V2_lambert7_BaseColor.MushMan3V2_lambert7_BaseColor was invalid. The texture will be rebuild.
+[2021.01.18-01.37.25:449][264]LogTexture: Display: Building textures: MushMan3V2_lambert6_BaseColor (AutoDXT, 2048X2048)
+[2021.01.18-01.37.25:449][264]LogTexture: Display: Building textures: MushMan3V2_lambert7_BaseColor (AutoDXT, 2048X2048)
+[2021.01.18-01.37.25:450][264]LogLinker: Warning: While loading 'C:/Serotopia/Serotopia_Grey_1/Content/Levels/Forest.umap' failed to load '/Game/Levels/Forest_BuiltData': Can't find file.
+[2021.01.18-01.37.25:450][264]LoadErrors: Failed to load /Game/Levels/Forest_BuiltData.Forest_BuiltData Referenced by PersistentLevel
+[2021.01.18-01.37.25:450][264]LogLinker: Warning: While loading 'C:/Serotopia/Serotopia_Grey_1/Content/Levels/Forest.umap' failed to load '/Game/Levels/Forest_BuiltData': Can't find file.
+[2021.01.18-01.37.26:176][264]LogTexture: Display: Building textures: Twisted_Grass_Plant_Low_stem_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2021.01.18-01.37.26:176][264]LogTexture: Display: Building textures: Twisted_Grass_Plant_Low_stem_Normal (BC5, 1024X1024)
+[2021.01.18-01.37.26:176][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Texture/T_Hedge_N.T_Hedge_N was invalid. The texture will be rebuild.
+[2021.01.18-01.37.26:176][264]LogMaterial: Display: Missing cached shader map for material lambert7, compiling. 
+[2021.01.18-01.37.26:272][264]LogTexture: Display: Building textures: DualFlowers_lambert1_Normal (BC5, 1024X1024)
+[2021.01.18-01.37.26:272][264]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2021.01.18-01.37.26:272][264]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2021.01.18-01.37.26:272][264]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2021.01.18-01.37.26:272][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Materials/T_ocean_foam.T_ocean_foam was invalid. The texture will be rebuild.
+[2021.01.18-01.37.26:315][264]LogTexture: Display: Building textures: T_ocean_foam (AutoDXT, 1024X1024)
+[2021.01.18-01.37.29:274][264]LogTexture: Display: Building textures: DualFlowers_lambert1_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.37.29:274][264]LogTexture: Display: Building textures: T_Hedge_N (BC5, 2048X2048)
+[2021.01.18-01.37.29:274][264]LogTexture: Display: Building textures: lambert1_Normal_OpenGL (BC5, 1024X1024)
+[2021.01.18-01.37.29:274][264]LogTexture: Display: Building textures: lambert1_MetallicALT (AutoDXT, 1024X1024)
+[2021.01.18-01.37.29:274][264]LogTexture: Display: Building textures: lambert1_RoughnessALT (AutoDXT, 1024X1024)
+[2021.01.18-01.37.29:274][264]LogTexture: Display: Building textures: lambert1_Mixed_AO (AutoDXT, 1024X1024)
+[2021.01.18-01.37.29:274][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Gnome_Animated/SpringGnome/gnome_spring_lambert1_BaseColor.gnome_spring_lambert1_BaseColor was invalid. The texture will be rebuild.
+[2021.01.18-01.37.29:274][264]LogTexture: Display: Building textures: gnome_spring_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2021.01.18-01.37.29:274][264]LogTexture: Display: Building textures: lambert28_Base_Color (AutoDXT, 1024X1024)
+[2021.01.18-01.37.29:274][264]LogTexture: Display: Building textures: lambert28_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.37.29:274][264]LogTexture: Display: Building textures: lambert26_Normal (BC5, 1024X1024)
+[2021.01.18-01.37.29:274][264]LogTexture: Display: Building textures: lambert26_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.37.29:274][264]LogTexture: Display: Building textures: lambert28_Normal (BC5, 1024X1024)
+[2021.01.18-01.37.29:274][264]LogTexture: Display: Building textures: GalaxyBox (BGRA8, 2048X2048)
+[2021.01.18-01.37.29:515][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Mushrooms/MushroomB/alt_HoangMushroomB_lambert1_BaseColor.alt_HoangMushroomB_lambert1_BaseColor was invalid. The texture will be rebuild.
+[2021.01.18-01.37.29:515][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Materials/t_water_norm.t_water_norm was invalid. The texture will be rebuild.
+[2021.01.18-01.37.29:525][264]LogTexture: Display: Building textures: t_water_norm (BC5, 512X512)
+[2021.01.18-01.37.29:607][264]LogTexture: Display: Building textures: t_flowmap (BC5, 1024X1024)
+[2021.01.18-01.37.29:881][264]LogTexture: Display: Building textures: alt_HoangMushroomB_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2021.01.18-01.37.29:899][264]LogMaterial: Display: Missing cached shader map for material Mat_Water, compiling. 
+[2021.01.18-01.37.30:217][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Mushrooms/MushroomB/alt_HoangMushroomB_lambert1_Normal.alt_HoangMushroomB_lambert1_Normal was invalid. The texture will be rebuild.
+[2021.01.18-01.37.30:217][264]LogTexture: Display: Building textures: alt_HoangMushroomB_lambert1_Normal (BC5, 2048X2048)
+[2021.01.18-01.37.30:217][264]LogStaticMesh: Building static mesh SM_Island1_L...
+[2021.01.18-01.37.31:749][264]LogTexture: Display: Building textures: T_RGB_D (AutoDXT, 2000X100)
+[2021.01.18-01.37.31:749][264]LogTexture: Display: Building textures: Blue_Rose_Plant_Low_stem_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2021.01.18-01.37.31:749][264]LogTexture: Display: Building textures: Blue_Rose_Plant_Low_stem_Normal (BC5, 1024X1024)
+[2021.01.18-01.37.31:749][264]LogTexture: Display: Building textures: DualFlowers_lambert1_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.37.31:749][264]LogTexture: Display: Building textures: DualFlowers_lambert1_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.37.31:749][264]LogTexture: Display: Building textures: NoiseMat (AutoDXT, 1080X1080)
+[2021.01.18-01.37.31:749][264]LogTexture: Display: Building textures: CloudyCels (AutoDXT, 1080X1080)
+[2021.01.18-01.37.31:749][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Gnome_Animated/FallGnome/Gnome_Fall_Low_lambert1_BaseColor.Gnome_Fall_Low_lambert1_BaseColor was invalid. The texture will be rebuild.
+[2021.01.18-01.37.31:749][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Mushrooms/MushroomE/HoangMushroomE_lambert1_BaseColor.HoangMushroomE_lambert1_BaseColor was invalid. The texture will be rebuild.
+[2021.01.18-01.37.31:749][264]LogTexture: Display: Building textures: Gnome_Fall_Low_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2021.01.18-01.37.31:749][264]LogTexture: Display: Building textures: HoangMushroomE_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2021.01.18-01.37.31:750][264]LogTexture: Display: Building textures: HoangMushroomE_lambert1_Normal (BC5, 2048X2048)
+[2021.01.18-01.37.31:750][264]LogStaticMesh: Built static mesh [1.53s] /Game/Geometry/Meshes/SM_Island1_L.SM_Island1_L
+[2021.01.18-01.37.32:134][264]LogMaterial: Display: Missing cached shader map for material Mat_Hedge, compiling. 
+[2021.01.18-01.37.32:155][264]LogStaticMesh: Building static mesh SM_Grass_L...
+[2021.01.18-01.37.32:160][264]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/SM_Grass_L.SM_Grass_L
+[2021.01.18-01.37.32:436][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Mushrooms/MushroomE/HoangMushroomE_lambert1_OcclusionRoughnessMetallic.HoangMushroomE_lambert1_OcclusionRoughnessMetallic was invalid. The texture will be rebuild.
+[2021.01.18-01.37.32:436][264]LogTexture: Display: Building textures: HoangMushroomE_lambert1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.18-01.37.32:436][264]LogTexture: Display: Building textures: T_Leaf_D (AutoDXT, 2000X2000)
+[2021.01.18-01.37.32:436][264]LogTexture: Display: Building textures: Short_Wide_Plant_Low_Anther_Normal (BC5, 1024X1024)
+[2021.01.18-01.37.32:651][264]LogTexture: Display: Building textures: T_Leaf_A (AutoDXT, 2000X2000)
+[2021.01.18-01.37.32:656][264]LogTexture: Display: Building textures: Short_Wide_Plant_Low_Anther_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.37.32:812][264]LogTexture: Display: Building textures: HoangMushroomF_lambert1_Normal (BC5, 2048X2048)
+[2021.01.18-01.37.32:812][264]LogTexture: Display: Building textures: Short_Wide_Plant_Low_Anther_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2021.01.18-01.37.33:029][264]LogMaterial: Display: Missing cached shader map for material Short_Wide_Plant_Anther, compiling. 
+[2021.01.18-01.37.33:821][264]LogTexture: Display: Building textures: HoangMushroomF_lambert1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.18-01.37.33:821][264]LogTexture: Display: Building textures: HoangMushroomG_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2021.01.18-01.37.33:821][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Mushrooms/MushroomF/HoangMushroomF_lambert1_BaseColor.HoangMushroomF_lambert1_BaseColor was invalid. The texture will be rebuild.
+[2021.01.18-01.37.33:821][264]LogTexture: Display: Building textures: HoangMushroomF_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2021.01.18-01.37.33:821][264]LogTexture: Display: Building textures: Blue_Rose_Plant_Low_leaf_Normal (BC5, 1024X1024)
+[2021.01.18-01.37.33:821][264]LogMaterial: Display: Missing cached shader map for material lambert11, compiling. 
+[2021.01.18-01.37.33:868][264]LogTexture: Display: Building textures: lambert28_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.37.34:190][264]LogTexture: Display: Building textures: Blue_Rose_Plant_Low_leaf_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.37.34:190][264]LogTexture: Display: Building textures: Blue_Rose_Plant_Low_leaf_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2021.01.18-01.37.34:190][264]LogTexture: Display: Building textures: Blue_Rose_Plant_Low_stem_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.37.34:190][264]LogTexture: Display: Building textures: FixedFence_lp_HP_Fixed_Fence_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.37.34:190][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/FixedFence/FixedFence_lp_HP_Fixed_Fence_Roughness.FixedFence_lp_HP_Fixed_Fence_Roughness was invalid. The texture will be rebuild.
+[2021.01.18-01.37.34:199][264]LogMaterial: Display: Missing cached shader map for material lambert28, compiling. 
+[2021.01.18-01.37.34:321][264]LogTexture: Display: Building textures: FixedFence_lp_HP_Fixed_Fence_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.37.34:321][264]LogTexture: Display: Building textures: FixedFence_lp_HP_Fixed_Fence_Normal (BC5, 1024X1024)
+[2021.01.18-01.37.34:321][264]LogStaticMesh: Building static mesh MushroomB...
+[2021.01.18-01.37.34:341][264]LogStaticMesh: Built static mesh [0.02s] /Game/Mushrooms/MushroomB/MushroomB.MushroomB
+[2021.01.18-01.37.34:567][264]LogTexture: Display: Building textures: lambert1_Normal (BC5, 1024X1024)
+[2021.01.18-01.37.34:567][264]LogTexture: Display: Building textures: alt_HoangMushroomB_lambert1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.18-01.37.34:884][264]LogTexture: Display: Building textures: lambert1_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.37.34:884][264]LogTexture: Display: Building textures: lambert1_Base_Color (AutoDXT, 1024X1024)
+[2021.01.18-01.37.34:884][264]LogTexture: Display: Building textures: Short_Wide_Plant_Low_leaf_Normal (BC5, 1024X1024)
+[2021.01.18-01.37.34:892][264]LogMaterial: Display: Missing cached shader map for material alt_HoangMushroomB_lambert1_BaseColor_Mat, compiling. 
+[2021.01.18-01.37.35:156][264]LogTexture: Display: Building textures: Short_Wide_Plant_Low_Flower_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2021.01.18-01.37.35:156][264]LogStaticMesh: Building static mesh Forest_Dual_Flowers_LP...
+[2021.01.18-01.37.35:238][264]LogStaticMesh: Built static mesh [0.08s] /Game/Geometry/Meshes/Plants/DualFlowers/Forest_Dual_Flowers_LP.Forest_Dual_Flowers_LP
+[2021.01.18-01.37.35:276][264]LogMaterial: Display: Missing cached shader map for material DualFlowers, compiling. 
+[2021.01.18-01.37.35:651][264]LogTexture: Display: Building textures: Short_Wide_Plant_Low_leaf_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2021.01.18-01.37.35:651][264]LogTexture: Display: Building textures: Short_Wide_Plant_Low_Flower_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.37.35:652][264]LogTexture: Display: Building textures: Short_Wide_Plant_Low_leaf_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.37.35:652][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Texture/T_Island5_N.T_Island5_N was invalid. The texture will be rebuild.
+[2021.01.18-01.37.35:780][264]LogTexture: Display: Building textures: Short_Wide_Plant_Low_Flower_Normal (BC5, 1024X1024)
+[2021.01.18-01.37.35:780][264]LogTexture: Display: Building textures: T_Island5_N (BC5, 2048X2048)
+[2021.01.18-01.37.36:670][264]LogTexture: Display: Building textures: Gnome_Mushroom_Low_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2021.01.18-01.37.36:670][264]LogTexture: Display: Building textures: Twisted_Grass_Plant_Low_Flower_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.37.36:670][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Texture/Plants/Twisted_Grass_Plant_Texture/Twisted_Grass_Plant_Low_Flower_OcclusionRoughnessMetallic.Twisted_Grass_Plant_Low_Flower_OcclusionRoughnessMetallic was invalid. The texture will be rebuild.
+[2021.01.18-01.37.36:670][264]LogTexture: Display: Building textures: Twisted_Grass_Plant_Low_Flower_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2021.01.18-01.37.36:670][264]LogTexture: Display: Building textures: Twisted_Grass_Plant_Low_Flower_Normal (BC5, 1024X1024)
+[2021.01.18-01.37.36:670][264]LogTexture: Display: Building textures: lambert29_Base_Color (AutoDXT, 1024X1024)
+[2021.01.18-01.37.36:670][264]LogTexture: Display: Building textures: lambert30_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.37.36:734][264]LogTexture: Display: Building textures: PLANEEEEE_lambert2_Normal (BC5, 1024X1024)
+[2021.01.18-01.37.37:030][264]LogTexture: Display: Building textures: lambert1_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.37.37:030][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Tower_texture_final_03.Tower_texture_final_03 was invalid. The texture will be rebuild.
+[2021.01.18-01.37.37:157][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Materials/DIRT_Textures/PLANEEEEE_lambert2_Roughness.PLANEEEEE_lambert2_Roughness was invalid. The texture will be rebuild.
+[2021.01.18-01.37.37:178][264]LogTexture: Display: Building textures: PLANEEEEE_lambert2_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.37.39:790][264]LogTexture: Display: Building textures: Tower_texture_final_03 (AutoDXT, 4096X4096)
+[2021.01.18-01.37.39:790][264]LogTexture: Display: Building textures: Tower_floor_final_3 (AutoDXT, 4096X4096)
+[2021.01.18-01.37.40:626][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Materials/DIRT_Textures/dirt.dirt was invalid. The texture will be rebuild.
+[2021.01.18-01.37.41:209][264]LogTexture: Display: Building textures: dirt (AutoDXT, 4096X4096)
+[2021.01.18-01.37.45:115][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Materials/DIRT_Textures/PLANEEEEE_lambert2_Metallic.PLANEEEEE_lambert2_Metallic was invalid. The texture will be rebuild.
+[2021.01.18-01.37.45:116][264]LogTexture: Display: Building textures: PLANEEEEE_lambert2_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.37.45:191][264]LogMaterial: Display: Missing cached shader map for material Mat_Island5, compiling. 
+[2021.01.18-01.37.45:653][264]LogStaticMesh: Building static mesh SM_Island5_L...
+[2021.01.18-01.37.45:818][264]LogStaticMesh: Built static mesh [0.17s] /Game/Geometry/Meshes/SM_Island5_L.SM_Island5_L
+[2021.01.18-01.37.46:229][264]LogMaterial: Display: Missing cached shader map for material Mat_ToonShade, compiling. 
+[2021.01.18-01.37.46:261][264]LogMaterial: Display: Missing cached shader map for material lambert7, compiling. 
+[2021.01.18-01.37.46:302][264]LogMaterial: Display: Missing cached shader map for material Mat_DoorShadows, compiling. 
+[2021.01.18-01.37.46:387][264]LogMaterial: Display: Missing cached shader map for material HoangMushroomF_lambert1_BaseColor_Mat, compiling. 
+[2021.01.18-01.37.46:403][264]LogStaticMesh: Building static mesh MushroomF...
+[2021.01.18-01.37.46:428][264]LogStaticMesh: Built static mesh [0.03s] /Game/Mushrooms/MushroomF/MushroomF.MushroomF
+[2021.01.18-01.37.46:504][264]LogTexture: Display: Building textures: T_FieldGrass_02_M (AutoDXT, 1024X1024)
+[2021.01.18-01.37.47:971][264]LogTexture: Display: Building textures: T_Island4_1_N (BC5, 2048X2048)
+[2021.01.18-01.37.47:972][264]LogTexture: Display: Building textures: lambert32_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.37.47:972][264]LogTexture: Display: Building textures: lambert32_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.37.47:972][264]LogTexture: Display: Building textures: lambert31_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.37.47:972][264]LogTexture: Display: Building textures: lambert32_Normal (BC5, 1024X1024)
+[2021.01.18-01.37.47:972][264]LogTexture: Display: Building textures: lambert32_Base_Color (AutoDXT, 1024X1024)
+[2021.01.18-01.37.47:972][264]LogTexture: Display: Building textures: tree4_lambert1_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.37.48:395][264]LogStaticMesh: Building static mesh SM_WaterFall_L...
+[2021.01.18-01.37.48:396][264]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/SM_WaterFall_L.SM_WaterFall_L
+[2021.01.18-01.37.48:402][264]LogMaterial: Display: Missing cached shader map for material Default_Material, compiling. 
+[2021.01.18-01.37.48:463][264]LogTexture: Display: Building textures: tree4_lambert1_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.37.48:463][264]LogTexture: Display: Building textures: tree4_lambert1_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.37.48:463][264]LogTexture: Display: Building textures: king_statue_test_1__lambert2_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.37.49:325][264]LogTexture: Display: Building textures: tree4_lambert1_Normal (BC5, 1024X1024)
+[2021.01.18-01.37.49:325][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Texture/Plants/Twisted_Grass_Plant_Texture/Twisted_Grass_Plant_Low_leaf_OcclusionRoughnessMetallic.Twisted_Grass_Plant_Low_leaf_OcclusionRoughnessMetallic was invalid. The texture will be rebuild.
+[2021.01.18-01.37.49:325][264]LogTexture: Display: Building textures: Twisted_Grass_Plant_Low_leaf_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2021.01.18-01.37.49:325][264]LogTexture: Display: Building textures: Twisted_Grass_Plant_Low_leaf_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.37.49:538][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Texture/Plants/Twisted_Grass_Plant_Texture/Twisted_Grass_Plant_Low_leaf_Normal.Twisted_Grass_Plant_Low_leaf_Normal was invalid. The texture will be rebuild.
+[2021.01.18-01.37.49:538][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/King_Textures/king_statue_test_1__lambert2_Normal.king_statue_test_1__lambert2_Normal was invalid. The texture will be rebuild.
+[2021.01.18-01.37.49:583][264]LogTexture: Display: Building textures: Twisted_Grass_Plant_Low_leaf_Normal (BC5, 1024X1024)
+[2021.01.18-01.37.49:583][264]LogTexture: Display: Building textures: king_statue_test_1__lambert2_Normal (BC5, 1024X1024)
+[2021.01.18-01.37.49:833][264]LogTexture: Display: Building textures: FixedFence_lp_HP_Fixed_Fence_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.37.49:862][264]LogTexture: Display: Building textures: king_statue_test_1__lambert2_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.37.50:610][264]LogTexture: Display: Building textures: king_statue_test_1__lambert2_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.37.50:850][264]LogTexture: Display: Building textures: Twisted_Grass_Plant_Low_stem_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.37.50:855][264]LogMaterial: Display: Missing cached shader map for material King, compiling. 
+[2021.01.18-01.37.50:886][264]LogTexture: Display: Building textures: HoangMushroomH_lambert1_Normal (BC5, 2048X2048)
+[2021.01.18-01.37.50:886][264]LogMaterial: Display: Missing cached shader map for material Mat_RedPaintPickup, compiling. 
+[2021.01.18-01.37.51:354][264]LogTexture: Display: Building textures: HoangMushroomG_lambert1_Normal (BC5, 2048X2048)
+[2021.01.18-01.37.52:164][264]LogTexture: Display: Building textures: HoangMushroomH_lambert1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.18-01.37.52:164][264]LogTexture: Display: Building textures: HoangMushroomH_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2021.01.18-01.37.52:164][264]LogTexture: Display: Building textures: MushMan4V2_MM4B_BaseColor (AutoDXT, 2048X2048)
+[2021.01.18-01.37.53:003][264]LogTexture: Display: Building textures: HoangMushroomG_lambert1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.18-01.37.53:317][264]LogTexture: Display: Building textures: MushMan2V2_lambert1_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.37.53:423][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/MushroomBoys/Mush2/MushMan2V2_MM1Top_BaseColor.MushMan2V2_MM1Top_BaseColor was invalid. The texture will be rebuild.
+[2021.01.18-01.37.53:423][264]LogTexture: Display: Building textures: MushMan2V2_MM1Top_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.37.53:423][264]LogStaticMesh: Building static mesh MushroomG...
+[2021.01.18-01.37.53:435][264]LogStaticMesh: Built static mesh [0.01s] /Game/Mushrooms/MushroomG/MushroomG.MushroomG
+[2021.01.18-01.37.53:487][264]LogMaterial: Display: Missing cached shader map for material Blue_Rose_Plant_Stem, compiling. 
+[2021.01.18-01.37.53:740][264]LogTexture: Display: Building textures: Gnome_Winter_Poly_lambert2_BaseColor (AutoDXT, 2048X2048)
+[2021.01.18-01.37.53:740][264]LogMaterial: Display: Missing cached shader map for material Mat_YellowPaintPickup, compiling. 
+[2021.01.18-01.37.53:790][264]LogTexture: Display: Building textures: Blue_Rose_Plant_Low_Flower_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.37.53:966][264]LogTexture: Display: Building textures: Blue_Rose_Plant_Low_Flower_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2021.01.18-01.37.54:424][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Texture/Plants/Blue_Rose_Plant_Texture/Blue_Rose_Plant_Low_Flower_Normal.Blue_Rose_Plant_Low_Flower_Normal was invalid. The texture will be rebuild.
+[2021.01.18-01.37.54:464][264]LogTexture: Display: Building textures: Blue_Rose_Plant_Low_Flower_Normal (BC5, 1024X1024)
+[2021.01.18-01.37.54:633][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Trees/BigTree/lambert1_Normal_DirectX.lambert1_Normal_DirectX was invalid. The texture will be rebuild.
+[2021.01.18-01.37.54:884][264]LogTexture: Display: Building textures: lambert1_Normal_DirectX (BC5, 1024X1024)
+[2021.01.18-01.37.54:885][264]LogTexture: Display: Building textures: lambert1_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.37.54:885][264]LogStaticMesh: Building static mesh Blue_Rose_Plant...
+[2021.01.18-01.37.54:976][264]LogStaticMesh: Built static mesh [0.09s] /Game/Geometry/Meshes/Plants/Blue_Rose_Plant.Blue_Rose_Plant
+[2021.01.18-01.37.55:096][264]LogMaterial: Display: Missing cached shader map for material lambert12, compiling. 
+[2021.01.18-01.37.55:142][264]LogSkeletalMesh: Building Skeletal Mesh FALL_GNOME_TEXTURED_WALKING...
+[2021.01.18-01.37.55:383][264]LogTexture: Display: Building textures: lambert1_Mixed_AO (AutoDXT, 1024X1024)
+[2021.01.18-01.37.55:383][264]LogTexture: Display: Building textures: lambert1_Base_Color (AutoDXT, 1024X1024)
+[2021.01.18-01.37.55:393][264]LogSkeletalMesh: Section 0: 1925 vertices, 20 active bones
+[2021.01.18-01.37.55:393][264]LogSkeletalMesh: Section 0: Material=0, 3428 triangles
+[2021.01.18-01.37.55:413][264]LogSkeletalMesh: Built Skeletal Mesh [0.27s] /Game/Gnome_Animated/FallGnome/FALL_GNOME_TEXTURED_WALKING.FALL_GNOME_TEXTURED_WALKING
+[2021.01.18-01.37.55:431][264]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Gnome_Animated/MushGnome/MUSH_GNOME_TEXTURED_IDLE_Anim_mixamo_com.MUSH_GNOME_TEXTURED_IDLE_Anim_mixamo_com
+[2021.01.18-01.37.55:435][264]LogAnimationCompression: Recompressing (AnimSequence /Game/Gnome_Animated/MushGnome/MUSH_GNOME_TEXTURED_IDLE_Anim_mixamo_com.MUSH_GNOME_TEXTURED_IDLE_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2021.01.18-01.37.55:439][264]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Gnome_Animated/MushGnome/MUSH_GNOME_TEXTURED_WALKING_Anim_mixamo_com.MUSH_GNOME_TEXTURED_WALKING_Anim_mixamo_com
+[2021.01.18-01.37.55:439][264]LogAnimationCompression: Recompressing (AnimSequence /Game/Gnome_Animated/MushGnome/MUSH_GNOME_TEXTURED_WALKING_Anim_mixamo_com.MUSH_GNOME_TEXTURED_WALKING_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2021.01.18-01.37.55:531][264]LogTexture: Display: Building textures: lambert1_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.37.55:531][264]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Gnome_Animated/FallGnome/FALL_GNOME_TEXTURED_IDLE_Anim_mixamo_com.FALL_GNOME_TEXTURED_IDLE_Anim_mixamo_com
+[2021.01.18-01.37.55:531][264]LogAnimationCompression: Recompressing (AnimSequence /Game/Gnome_Animated/FallGnome/FALL_GNOME_TEXTURED_IDLE_Anim_mixamo_com.FALL_GNOME_TEXTURED_IDLE_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2021.01.18-01.37.55:551][264]LogStaticMesh: Building static mesh SM_Grass...
+[2021.01.18-01.37.55:559][264]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/Plants/SM_Grass.SM_Grass
+[2021.01.18-01.37.55:571][264]LogStaticMesh: Building static mesh Twisted_Grass_Plant...
+[2021.01.18-01.37.55:612][264]LogStaticMesh: Built static mesh [0.04s] /Game/Geometry/Meshes/Plants/Twisted_Grass_Plant.Twisted_Grass_Plant
+[2021.01.18-01.37.55:617][264]LogStaticMesh: Building static mesh Log2...
+[2021.01.18-01.37.55:641][264]LogStaticMesh: Built static mesh [0.03s] /Game/Logs/Log2/Log2.Log2
+[2021.01.18-01.37.55:643][264]LogStaticMesh: Building static mesh Log1_Forest_Low...
+[2021.01.18-01.37.55:651][264]LogStaticMesh: Built static mesh [0.01s] /Game/Logs/Log1/Log1_Forest_Low.Log1_Forest_Low
+[2021.01.18-01.37.55:654][264]LogStaticMesh: Building static mesh rock1_retop_Uv...
+[2021.01.18-01.37.55:771][264]LogStaticMesh: Built static mesh [0.12s] /Game/Rocks/rock1/rock1_retop_Uv.rock1_retop_Uv
+[2021.01.18-01.37.56:066][264]LogTexture: Display: Building textures: lambert1_Base_Color (AutoDXT, 1024X1024)
+[2021.01.18-01.37.56:066][264]LogStaticMesh: Building static mesh rock2_Retop...
+[2021.01.18-01.37.56:315][264]LogStaticMesh: Built static mesh [0.25s] /Game/Rocks/rock2/rock2_Retop.rock2_Retop
+[2021.01.18-01.37.56:558][264]LogStaticMesh: Building static mesh rock3_retop...
+[2021.01.18-01.37.56:654][264]LogStaticMesh: Built static mesh [0.10s] /Game/Rocks/rock3/rock3_retop.rock3_retop
+[2021.01.18-01.37.56:669][264]LogStaticMesh: Building static mesh rock4_retopo...
+[2021.01.18-01.37.56:765][264]LogStaticMesh: Built static mesh [0.10s] /Game/Rocks/rock4/rock4_retopo.rock4_retopo
+[2021.01.18-01.37.56:786][264]LogStaticMesh: Building static mesh SM_TreeLeaves...
+[2021.01.18-01.37.56:789][264]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/SM_TreeLeaves.SM_TreeLeaves
+[2021.01.18-01.37.57:064][264]LogTexture: Display: Building textures: T_ToonGrass_D (AutoDXT, 1024X1024)
+[2021.01.18-01.37.57:064][264]LogTexture: Display: Building textures: T_Drop_A (AutoDXT, 2000X2000)
+[2021.01.18-01.37.57:489][264]LogMaterial: Display: Missing cached shader map for material Mat_Drops, compiling. 
+[2021.01.18-01.37.58:065][264]LogTexture: Display: Building textures: MushMan5V2_Top5_BaseColor (AutoDXT, 2048X2048)
+[2021.01.18-01.37.58:065][264]LogTexture: Display: Building textures: T_Leaf_D (AutoDXT, 3000X3000)
+[2021.01.18-01.38.01:741][264]LogTexture: Display: Building textures: lambert24_Base_Color (AutoDXT, 1024X1024)
+[2021.01.18-01.38.01:741][264]LogTexture: Display: Building textures: lambert24_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.01:741][264]LogTexture: Display: Building textures: lambert24_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.01:741][264]LogTexture: Display: Building textures: lambert24_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.01:741][264]LogTexture: Display: Building textures: lambert27_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.01:741][264]LogTexture: Display: Building textures: lambert27_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.01:741][264]LogTexture: Display: Building textures: lambert27_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.01:741][264]LogTexture: Display: Building textures: lambert27_Base_Color (AutoDXT, 1024X1024)
+[2021.01.18-01.38.01:975][264]LogMaterial: Display: Missing cached shader map for material Mat_Leaves, compiling. 
+[2021.01.18-01.38.02:047][264]LogMaterial: Display: Missing cached shader map for material Mat_Waterfall, compiling. 
+[2021.01.18-01.38.02:099][264]LogStaticMesh: Building static mesh Axe_Forest_Low...
+[2021.01.18-01.38.02:111][264]LogStaticMesh: Built static mesh [0.01s] /Game/Axe/Axe_Forest_Low.Axe_Forest_Low
+[2021.01.18-01.38.02:864][264]LogStaticMesh: Building static mesh Bridge_Edge1...
+[2021.01.18-01.38.02:885][264]LogStaticMesh: Built static mesh [0.02s] /Game/Bridge/Bridge_Edge1.Bridge_Edge1
+[2021.01.18-01.38.03:105][264]LogStaticMesh: Building static mesh Bridge_Edge2...
+[2021.01.18-01.38.03:144][264]LogStaticMesh: Built static mesh [0.04s] /Game/Bridge/Bridge_Edge2.Bridge_Edge2
+[2021.01.18-01.38.03:153][264]LogStaticMesh: Building static mesh Bridge_Middle...
+[2021.01.18-01.38.03:271][264]LogStaticMesh: Built static mesh [0.12s] /Game/Bridge/Bridge_Middle.Bridge_Middle
+[2021.01.18-01.38.03:280][264]LogStaticMesh: Building static mesh Broken_Stairs_LP...
+[2021.01.18-01.38.03:294][264]LogStaticMesh: Built static mesh [0.01s] /Game/Stairs/Broken_Stairs_LP.Broken_Stairs_LP
+[2021.01.18-01.38.03:301][264]LogStaticMesh: Building static mesh Broken_Stairs_LP_Rail_01...
+[2021.01.18-01.38.03:306][264]LogStaticMesh: Built static mesh [0.00s] /Game/Stairs/Broken_Stairs_LP_Rail_01.Broken_Stairs_LP_Rail_01
+[2021.01.18-01.38.03:306][264]LogStaticMesh: Building static mesh Broken_Stairs_LP_Rail_Pole_03...
+[2021.01.18-01.38.03:329][264]LogStaticMesh: Built static mesh [0.02s] /Game/Stairs/Broken_Stairs_LP_Rail_Pole_03.Broken_Stairs_LP_Rail_Pole_03
+[2021.01.18-01.38.03:330][264]LogStaticMesh: Building static mesh Broken_Stairs_LP_Step_02...
+[2021.01.18-01.38.03:333][264]LogStaticMesh: Built static mesh [0.00s] /Game/Stairs/Broken_Stairs_LP_Step_02.Broken_Stairs_LP_Step_02
+[2021.01.18-01.38.03:334][264]LogStaticMesh: Building static mesh Broken_Stairs_LP_Step_03...
+[2021.01.18-01.38.03:336][264]LogStaticMesh: Built static mesh [0.00s] /Game/Stairs/Broken_Stairs_LP_Step_03.Broken_Stairs_LP_Step_03
+[2021.01.18-01.38.03:337][264]LogStaticMesh: Building static mesh Broken_Stairs_LP_Step_04...
+[2021.01.18-01.38.03:339][264]LogStaticMesh: Built static mesh [0.00s] /Game/Stairs/Broken_Stairs_LP_Step_04.Broken_Stairs_LP_Step_04
+[2021.01.18-01.38.03:340][264]LogStaticMesh: Building static mesh Broken_Stairs_LP_Step_05...
+[2021.01.18-01.38.03:343][264]LogStaticMesh: Built static mesh [0.00s] /Game/Stairs/Broken_Stairs_LP_Step_05.Broken_Stairs_LP_Step_05
+[2021.01.18-01.38.03:744][264]LogTexture: Display: Building textures: lambert30_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.03:744][264]LogStaticMesh: Building static mesh Drawbridge_non-animated_part_Bridge_LP_Combined_Gate_opening...
+[2021.01.18-01.38.03:760][264]LogStaticMesh: Built static mesh [0.02s] /Game/Drawbridge/Drawbridge_non-animated_part_Bridge_LP_Combined_Gate_opening.Drawbridge_non-animated_part_Bridge_LP_Combined_Gate_opening
+[2021.01.18-01.38.03:762][264]LogStaticMesh: Building static mesh Drawbridge_non-animated_part_Bridge_LP_Combined_Inside_bridge_piece...
+[2021.01.18-01.38.03:786][264]LogTexture: Display: Building textures: lambert30_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.03:786][264]LogStaticMesh: Built static mesh [0.02s] /Game/Drawbridge/Drawbridge_non-animated_part_Bridge_LP_Combined_Inside_bridge_piece.Drawbridge_non-animated_part_Bridge_LP_Combined_Inside_bridge_piece
+[2021.01.18-01.38.03:787][264]LogStaticMesh: Building static mesh Drawbridge_non-animated_part_Bridge_LP_Combined_Pillars...
+[2021.01.18-01.38.03:792][264]LogStaticMesh: Built static mesh [0.01s] /Game/Drawbridge/Drawbridge_non-animated_part_Bridge_LP_Combined_Pillars.Drawbridge_non-animated_part_Bridge_LP_Combined_Pillars
+[2021.01.18-01.38.03:793][264]LogStaticMesh: Building static mesh Drawbridge_non-animated_part_Bridge_LP_Combined_Stones_L...
+[2021.01.18-01.38.03:838][264]LogStaticMesh: Built static mesh [0.04s] /Game/Drawbridge/Drawbridge_non-animated_part_Bridge_LP_Combined_Stones_L.Drawbridge_non-animated_part_Bridge_LP_Combined_Stones_L
+[2021.01.18-01.38.03:840][264]LogStaticMesh: Building static mesh Drawbridge_non-animated_part_Bridge_LP_Combined_Stones_R...
+[2021.01.18-01.38.03:859][264]LogStaticMesh: Built static mesh [0.02s] /Game/Drawbridge/Drawbridge_non-animated_part_Bridge_LP_Combined_Stones_R.Drawbridge_non-animated_part_Bridge_LP_Combined_Stones_R
+[2021.01.18-01.38.03:882][264]LogStaticMesh: Building static mesh FixedFence...
+[2021.01.18-01.38.03:971][264]LogTexture: Display: Building textures: lambert23_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.03:971][264]LogStaticMesh: Built static mesh [0.09s] /Game/FixedFence/FixedFence.FixedFence
+[2021.01.18-01.38.03:997][264]LogStaticMesh: Building static mesh Forest_Tower_LP...
+[2021.01.18-01.38.04:129][264]LogStaticMesh: Built static mesh [0.13s] /Game/Tower/Forest_Tower_LP.Forest_Tower_LP
+[2021.01.18-01.38.04:158][264]LogStaticMesh: Building static mesh HoangMushroomA...
+[2021.01.18-01.38.04:172][264]LogStaticMesh: Built static mesh [0.01s] /Game/Mushrooms/MushroomA/HoangMushroomA.HoangMushroomA
+[2021.01.18-01.38.04:176][264]LogStaticMesh: Building static mesh MedFence...
+[2021.01.18-01.38.04:254][264]LogStaticMesh: Built static mesh [0.08s] /Game/MedFence/MedFence.MedFence
+[2021.01.18-01.38.04:346][264]LogStaticMesh: Building static mesh MushroomC...
+[2021.01.18-01.38.04:357][264]LogStaticMesh: Built static mesh [0.01s] /Game/Mushrooms/MushroomC/MushroomC.MushroomC
+[2021.01.18-01.38.04:393][264]LogStaticMesh: Building static mesh MushroomD...
+[2021.01.18-01.38.04:401][264]LogStaticMesh: Built static mesh [0.01s] /Game/Mushrooms/MushroomD/MushroomD.MushroomD
+[2021.01.18-01.38.04:444][264]LogStaticMesh: Building static mesh MushroomE...
+[2021.01.18-01.38.04:469][264]LogStaticMesh: Built static mesh [0.02s] /Game/Mushrooms/MushroomE/MushroomE.MushroomE
+[2021.01.18-01.38.04:505][264]LogStaticMesh: Building static mesh MushroomH...
+[2021.01.18-01.38.04:514][264]LogStaticMesh: Built static mesh [0.01s] /Game/Mushrooms/MushroomH/MushroomH.MushroomH
+[2021.01.18-01.38.04:843][264]LogTexture: Display: Building textures: lambert30_Base_Color (AutoDXT, 1024X1024)
+[2021.01.18-01.38.04:843][264]LogTexture: Display: Building textures: Forest_Tower_LP_mat_Window_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.04:843][264]LogStaticMesh: Building static mesh Princess...
+[2021.01.18-01.38.04:920][264]LogTexture: Display: Building textures: Forest_Tower_LP_mat_Window_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.38.04:920][264]LogStaticMesh: Built static mesh [0.08s] /Game/PrincessTextures/Princess.Princess
+[2021.01.18-01.38.04:929][264]LogStaticMesh: Building static mesh SM_Island2_L...
+[2021.01.18-01.38.05:246][264]LogStaticMesh: Built static mesh [0.32s] /Game/Geometry/Meshes/SM_Island2_L.SM_Island2_L
+[2021.01.18-01.38.05:305][264]LogStaticMesh: Building static mesh SM_Island3_1_L...
+[2021.01.18-01.38.05:942][264]LogTexture: Display: Building textures: Forest_Tower_LP_mat_Window_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.05:942][264]LogTexture: Display: Building textures: Forest_Tower_LP_mat_Window_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.05:942][264]LogTexture: Display: Building textures: MushMan4V2_MM4T_BaseColor (AutoDXT, 2048X2048)
+[2021.01.18-01.38.05:942][264]LogStaticMesh: Built static mesh [0.64s] /Game/Geometry/Meshes/SM_Island3_1_L.SM_Island3_1_L
+[2021.01.18-01.38.06:099][264]LogStaticMesh: Building static mesh SM_Island6_1_L...
+[2021.01.18-01.38.06:181][264]LogStaticMesh: Built static mesh [0.08s] /Game/Geometry/Meshes/SM_Island6_1_L.SM_Island6_1_L
+[2021.01.18-01.38.06:212][264]LogStaticMesh: Building static mesh SM_MERGED_Forest_Well_LP_Old_Well_Low_57...
+[2021.01.18-01.38.06:330][264]LogStaticMesh: Built static mesh [0.12s] /Game/OldWell/SM_MERGED_Forest_Well_LP_Old_Well_Low_57.SM_MERGED_Forest_Well_LP_Old_Well_Low_57
+[2021.01.18-01.38.06:335][264]LogStaticMesh: Building static mesh SmallFence...
+[2021.01.18-01.38.06:434][264]LogStaticMesh: Built static mesh [0.10s] /Game/SmallFence/SmallFence.SmallFence
+[2021.01.18-01.38.06:448][264]LogStaticMesh: Building static mesh Staircase...
+[2021.01.18-01.38.06:451][264]LogStaticMesh: Built static mesh [0.00s] /Game/Blueprints/Staircase.Staircase
+[2021.01.18-01.38.06:489][264]LogStaticMesh: Building static mesh tree5...
+[2021.01.18-01.38.06:589][264]LogStaticMesh: Built static mesh [0.10s] /Game/Trees/Tree5/tree5.tree5
+[2021.01.18-01.38.06:604][264]LogStaticMesh: Building static mesh Tree1V3...
+[2021.01.18-01.38.06:692][264]LogStaticMesh: Built static mesh [0.09s] /Game/Trees/Tree1/Tree1V3.Tree1V3
+[2021.01.18-01.38.06:704][264]LogStaticMesh: Building static mesh tree6...
+[2021.01.18-01.38.06:810][264]LogTexture: Display: Building textures: Bridge_low_Bridge_BaseColor (AutoDXT, 2048X2048)
+[2021.01.18-01.38.06:810][264]LogStaticMesh: Built static mesh [0.11s] /Game/Trees/Tree6/tree6.tree6
+[2021.01.18-01.38.06:860][264]LogStaticMesh: Building static mesh WoodenCart...
+[2021.01.18-01.38.07:013][264]LogStaticMesh: Built static mesh [0.15s] /Game/WoodenCart/WoodenCart.WoodenCart
+[2021.01.18-01.38.07:029][264]LogMaterial: Display: Missing cached shader map for material Twisted_Grass_Plant_Leaf, compiling. 
+[2021.01.18-01.38.07:084][264]LogTexture: Display: Building textures: lambert29_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.07:305][264]LogTexture: Display: Building textures: lambert29_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.07:525][264]LogTexture: Display: Building textures: lambert29_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.08:534][264]LogMaterial: Display: Missing cached shader map for material lambert29, compiling. 
+[2021.01.18-01.38.12:512][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Tower/stone_material/Forest_Tower_LP_mat_Stones_BaseColor.Forest_Tower_LP_mat_Stones_BaseColor was invalid. The texture will be rebuild.
+[2021.01.18-01.38.12:512][264]LogMaterial: Display: Missing cached shader map for material Tower_floor_final_3_Mat, compiling. 
+[2021.01.18-01.38.12:547][264]LogTexture: Display: Building textures: Forest_Tower_LP_mat_Stones_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.38.12:547][264]LogMaterial: Display: Missing cached shader map for material Tower_texture_final_03_Mat, compiling. 
+[2021.01.18-01.38.12:589][264]LogMaterial: Display: Missing cached shader map for material tree4_Mat, compiling. 
+[2021.01.18-01.38.12:628][264]LogMaterial: Display: Missing cached shader map for material Mat_Platforms, compiling. 
+[2021.01.18-01.38.12:648][264]LogMaterial: Display: Missing cached shader map for material lambert32, compiling. 
+[2021.01.18-01.38.12:702][264]LogMaterial: Display: Missing cached shader map for material Mat_CloudDeck, compiling. 
+[2021.01.18-01.38.12:799][264]LogMaterial: Display: Missing cached shader map for material Mat_Sky, compiling. 
+[2021.01.18-01.38.12:811][264]LogMaterial: Display: Missing cached shader map for material FixedFenceMat, compiling. 
+[2021.01.18-01.38.12:970][264]LogTexture: Display: Building textures: Forest_Tower_LP_mat_Stones_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.12:970][264]LogTexture: Display: Building textures: lambert1_Base_Color (AutoDXT, 1024X1024)
+[2021.01.18-01.38.12:970][264]LogSkeletalMesh: Building Skeletal Mesh MUSH_GNOME_TEXTURED_WALKING...
+[2021.01.18-01.38.13:133][264]LogSkeletalMesh: Section 0: 1899 vertices, 20 active bones
+[2021.01.18-01.38.13:133][264]LogSkeletalMesh: Section 0: Material=0, 3374 triangles
+[2021.01.18-01.38.13:153][264]LogSkeletalMesh: Built Skeletal Mesh [0.18s] /Game/Gnome_Animated/MushGnome/MUSH_GNOME_TEXTURED_WALKING.MUSH_GNOME_TEXTURED_WALKING
+[2021.01.18-01.38.13:162][264]LogTexture: Display: Building textures: Forest_Well_LP_mat_Planks_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.38.13:450][264]LogTexture: Display: Building textures: Forest_Well_LP_mat_Planks_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.13:569][264]LogTexture: Display: Building textures: Forest_Well_LP_mat_Planks_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.13:810][264]LogTexture: Display: Building textures: Forest_Well_LP_mat_Planks_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.13:941][264]LogMaterial: Display: Missing cached shader map for material mat_Planks, compiling. 
+[2021.01.18-01.38.13:962][264]LogTexture: Display: Building textures: lambert1_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.13:962][264]LogMaterial: Display: Missing cached shader map for material MM4B, compiling. 
+[2021.01.18-01.38.14:011][264]LogMaterial: Display: Missing cached shader map for material lambert5, compiling. 
+[2021.01.18-01.38.14:052][264]LogSkeletalMesh: Building Skeletal Mesh mush2...
+[2021.01.18-01.38.14:114][264]LogSkeletalMesh: Section 0: 903 vertices, 15 active bones
+[2021.01.18-01.38.14:114][264]LogSkeletalMesh: Section 1: 450 vertices, 7 active bones
+[2021.01.18-01.38.14:114][264]LogSkeletalMesh: Section 0: Material=0, 1376 triangles
+[2021.01.18-01.38.14:114][264]LogSkeletalMesh: Section 1: Material=1, 768 triangles
+[2021.01.18-01.38.14:142][264]LogSkeletalMesh: Built Skeletal Mesh [0.09s] /Game/MushroomBoys/Mush2/Mush2.mush2
+[2021.01.18-01.38.14:148][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Logs/Log1/lambert1_Roughness.lambert1_Roughness was invalid. The texture will be rebuild.
+[2021.01.18-01.38.14:148][264]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2021.01.18-01.38.14:173][264]LogTexture: Display: Building textures: lambert1_Mixed_AO (AutoDXT, 1024X1024)
+[2021.01.18-01.38.14:173][264]LogSkeletalMesh: Building Skeletal Mesh WINTER_GNOME_TEXTURED_WALKING...
+[2021.01.18-01.38.14:339][264]LogTexture: Display: Building textures: lambert1_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.14:351][264]LogSkeletalMesh: Section 0: 1687 vertices, 20 active bones
+[2021.01.18-01.38.14:351][264]LogSkeletalMesh: Section 0: Material=0, 2902 triangles
+[2021.01.18-01.38.14:356][264]LogSkeletalMesh: Built Skeletal Mesh [0.18s] /Game/Gnome_Animated/WinterGnome/WINTER_GNOME_TEXTURED_WALKING.WINTER_GNOME_TEXTURED_WALKING
+[2021.01.18-01.38.14:374][264]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2021.01.18-01.38.14:404][264]LogMaterial: Display: Missing cached shader map for material BigTree, compiling. 
+[2021.01.18-01.38.14:436][264]LogTexture: Display: Building textures: lambert4_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.14:436][264]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave ForestnoStatic...
+[2021.01.18-01.38.14:560][264]LogTexture: Display: Building textures: MedFence_lp_HP_Worn_Fence_Med_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.38.14:560][264]LogTexture: Display: Building textures: lambert4_Normal_OpenGL (BC5, 1024X1024)
+[2021.01.18-01.38.14:561][264]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Music/ForestnoStatic.ForestnoStatic will be modified from 40 to 40.
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: MedFence_lp_HP_Worn_Fence_Med_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.20:903][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/MedFence/MedFence_lp_HP_Worn_Fence_Med_Normal.MedFence_lp_HP_Worn_Fence_Med_Normal was invalid. The texture will be rebuild.
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: MedFence_lp_HP_Worn_Fence_Med_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: lambert4_Mixed_AO (AutoDXT, 1024X1024)
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: lambert4_Base_Color (AutoDXT, 1024X1024)
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: lambert4_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: HoangMushroomC_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: HoangMushroomC_lambert1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: HoangMushroomC_lambert1_Normal (BC5, 2048X2048)
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: Forest_Well_LP_mat_Well_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: Forest_Well_LP_mat_Well_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.38.20:903][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/OldWell/Forest_Well_LP_mat_Well_Metallic.Forest_Well_LP_mat_Well_Metallic was invalid. The texture will be rebuild.
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: Forest_Well_LP_mat_Well_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.20:903][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/OldWell/Forest_Well_LP_mat_Wood_BaseColor.Forest_Well_LP_mat_Wood_BaseColor was invalid. The texture will be rebuild.
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: Forest_Well_LP_mat_Wood_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.38.20:903][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/OldWell/Forest_Well_LP_mat_Well_Normal.Forest_Well_LP_mat_Well_Normal was invalid. The texture will be rebuild.
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: Forest_Well_LP_mat_Well_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: alt_HoangMushroomD_lambert1_Normal (BC5, 2048X2048)
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: alt_HoangMushroomD_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2021.01.18-01.38.20:903][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Mushrooms/MushroomD/alt_HoangMushroomD_lambert1_OcclusionRoughnessMetallic.alt_HoangMushroomD_lambert1_OcclusionRoughnessMetallic was invalid. The texture will be rebuild.
+[2021.01.18-01.38.20:903][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Mushrooms/MushroomA/HoangMushroomA_HP_lambert1_OcclusionRoughnessMetallic.HoangMushroomA_HP_lambert1_OcclusionRoughnessMetallic was invalid. The texture will be rebuild.
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: alt_HoangMushroomD_lambert1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: HoangMushroomA_HP_lambert1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: MedFence_lp_HP_Worn_Fence_Med_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.20:903][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Mushrooms/MushroomA/HoangMushroomA_HP_lambert1_BaseColor.HoangMushroomA_HP_lambert1_BaseColor was invalid. The texture will be rebuild.
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: HoangMushroomA_HP_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: HoangMushroomA_HP_lambert1_Normal (BC5, 2048X2048)
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: MushMan1V2_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2021.01.18-01.38.20:903][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/WoodenCart/WoodenCart_WoodenCart_Roughness.WoodenCart_WoodenCart_Roughness was invalid. The texture will be rebuild.
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: WoodenCart_WoodenCart_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: WoodenCart_WoodenCart_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: WoodenCart_WoodenCart_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.38.20:903][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Trees/Tree6/tree6_lambert1_Roughness.tree6_lambert1_Roughness was invalid. The texture will be rebuild.
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: tree6_lambert1_Roughness (AutoDXT, 2048X2048)
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: WoodenCart_WoodenCart_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: Forest_Well_LP_mat_Stones1_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: Forest_Well_LP_mat_Stones1_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: Forest_Well_LP_mat_Stones1_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: Forest_Well_LP_mat_Stones1_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.20:903][264]LogTexture: Display: Building textures: lambert1_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.20:903][264]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 36418064 while cooking SoundWave /Game/Audio/Music/ForestnoStatic.ForestnoStatic.
+[2021.01.18-01.38.20:917][264]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2021.01.18-01.38.21:012][264]LogTexture: Display: Building textures: lambert1_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.21:012][264]LogMaterial: Display: Missing cached shader map for material Twisted_Grass_Plant_Flower, compiling. 
+[2021.01.18-01.38.21:088][264]LogTexture: Display: Building textures: lambert1_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.21:088][264]LogMaterial: Display: Missing cached shader map for material Short_Wide_Plant_Flower, compiling. 
+[2021.01.18-01.38.21:135][264]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MushroomBoys/Mush4/mush4_Idle_Anim.mush4_Idle_Anim
+[2021.01.18-01.38.21:135][264]LogAnimationCompression: Recompressing (AnimSequence /Game/MushroomBoys/Mush4/mush4_Idle_Anim.mush4_Idle_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2021.01.18-01.38.21:135][264]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MushroomBoys/Mush5/mush5_idle_Anim.mush5_idle_Anim
+[2021.01.18-01.38.21:136][264]LogAnimationCompression: Recompressing (AnimSequence /Game/MushroomBoys/Mush5/mush5_idle_Anim.mush5_idle_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2021.01.18-01.38.21:136][264]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MushroomBoys/Mush2/mush2_Anim.mush2_Anim
+[2021.01.18-01.38.21:136][264]LogAnimationCompression: Recompressing (AnimSequence /Game/MushroomBoys/Mush2/mush2_Anim.mush2_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2021.01.18-01.38.21:136][264]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MushroomBoys/Mush3/mush3_walk_Anim.mush3_walk_Anim
+[2021.01.18-01.38.21:136][264]LogAnimationCompression: Recompressing (AnimSequence /Game/MushroomBoys/Mush3/mush3_walk_Anim.mush3_walk_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2021.01.18-01.38.21:210][264]LogTexture: Display: Building textures: lambert1_Base_Color (AutoDXT, 1024X1024)
+[2021.01.18-01.38.21:210][264]LogMaterial: Display: Missing cached shader map for material Top5, compiling. 
+[2021.01.18-01.38.21:250][264]LogSkeletalMesh: Building Skeletal Mesh mush5_idle...
+[2021.01.18-01.38.21:343][264]LogSkeletalMesh: Section 0: 1061 vertices, 15 active bones
+[2021.01.18-01.38.21:343][264]LogSkeletalMesh: Section 1: 426 vertices, 4 active bones
+[2021.01.18-01.38.21:343][264]LogSkeletalMesh: Section 0: Material=0, 1632 triangles
+[2021.01.18-01.38.21:343][264]LogSkeletalMesh: Section 1: Material=1, 768 triangles
+[2021.01.18-01.38.21:347][264]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/MushroomBoys/Mush5/mush5_idle.mush5_idle
+[2021.01.18-01.38.21:348][264]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Gnome_Animated/WinterGnome/WINTER_GNOME_TEXTURED_IDLE_Anim_mixamo_com.WINTER_GNOME_TEXTURED_IDLE_Anim_mixamo_com
+[2021.01.18-01.38.21:348][264]LogAnimationCompression: Recompressing (AnimSequence /Game/Gnome_Animated/WinterGnome/WINTER_GNOME_TEXTURED_IDLE_Anim_mixamo_com.WINTER_GNOME_TEXTURED_IDLE_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2021.01.18-01.38.21:367][264]LogMaterial: Display: Missing cached shader map for material HoangMushroomH_lambert1_BaseColor_Mat, compiling. 
+[2021.01.18-01.38.21:390][264]LogMaterial: Display: Missing cached shader map for material lambert24, compiling. 
+[2021.01.18-01.38.21:429][264]LogMaterial: Display: Missing cached shader map for material lambert27, compiling. 
+[2021.01.18-01.38.21:445][264]LogMaterial: Display: Missing cached shader map for material lambert30, compiling. 
+[2021.01.18-01.38.21:531][264]LogTexture: Display: Building textures: SmallFence_lp_1__lambert4_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.21:531][264]LogTexture: Display: Building textures: Forest_Tower_LP_mat_Wood_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.38.23:786][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/SmallFence/SmallFence_lp_1__lambert4_Normal.SmallFence_lp_1__lambert4_Normal was invalid. The texture will be rebuild.
+[2021.01.18-01.38.23:786][264]LogTexture: Display: Building textures: SmallFence_lp_1__lambert4_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.23:786][264]LogTexture: Display: Building textures: SmallFence_lp_1__lambert4_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.38.23:786][264]LogTexture: Display: Building textures: SmallFence_lp_1__lambert4_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.23:786][264]LogTexture: Display: Building textures: Sunflower_LP_lambert1_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.23:786][264]LogTexture: Display: Building textures: Sunflower_LP_lambert1_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.23:786][264]LogTexture: Display: Building textures: Sunflower_LP_lambert1_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.38.23:786][264]LogTexture: Display: Building textures: Sunflower_LP_lambert1_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.23:786][264]LogTexture: Display: Building textures: tree5_lambert1_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.38.23:786][264]LogTexture: Display: Building textures: tree5_lambert1_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.23:786][264]LogTexture: Display: Building textures: Tree1V3_Tree1_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.23:787][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Rocks/rock2/lambert2_Metallic.lambert2_Metallic was invalid. The texture will be rebuild.
+[2021.01.18-01.38.23:787][264]LogTexture: Display: Building textures: lambert2_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.23:787][264]LogTexture: Display: Building textures: lambert2_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.23:787][264]LogTexture: Display: Building textures: lambert2_Mixed_AO (AutoDXT, 1024X1024)
+[2021.01.18-01.38.23:787][264]LogTexture: Display: Building textures: lambert2_Base_Color (AutoDXT, 1024X1024)
+[2021.01.18-01.38.23:787][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Rocks/rock2/lambert2_Roughness.lambert2_Roughness was invalid. The texture will be rebuild.
+[2021.01.18-01.38.23:787][264]LogTexture: Display: Building textures: lambert2_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.23:911][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Tower/wood_support_material/Forest_Tower_LP_mat_Wood_Metallic.Forest_Tower_LP_mat_Wood_Metallic was invalid. The texture will be rebuild.
+[2021.01.18-01.38.23:912][264]LogTexture: Display: Building textures: Forest_Tower_LP_mat_Wood_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.23:992][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Rocks/rock1/lambert2_Metallic.lambert2_Metallic was invalid. The texture will be rebuild.
+[2021.01.18-01.38.23:992][264]LogTexture: Display: Building textures: lambert2_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.24:005][264]LogTexture: Display: Building textures: Forest_Tower_LP_mat_Wood_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.25:277][264]LogTexture: Display: Building textures: lambert2_Base_Color (AutoDXT, 1024X1024)
+[2021.01.18-01.38.25:277][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Rocks/rock1/lambert2_Roughness.lambert2_Roughness was invalid. The texture will be rebuild.
+[2021.01.18-01.38.25:277][264]LogTexture: Display: Building textures: lambert2_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.25:277][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Rocks/rock1/lambert2_Normal.lambert2_Normal was invalid. The texture will be rebuild.
+[2021.01.18-01.38.25:277][264]LogTexture: Display: Building textures: lambert2_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.25:277][264]LogTexture: Display: Building textures: lambert2_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.25:334][264]LogTexture: Display: Building textures: Forest_Tower_LP_mat_Wood_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.25:661][264]LogTexture: Display: Building textures: lambert2_Mixed_AO (AutoDXT, 1024X1024)
+[2021.01.18-01.38.25:667][264]LogMaterial: Display: Missing cached shader map for material mat_Wood, compiling. 
+[2021.01.18-01.38.25:686][264]LogMaterial: Display: Missing cached shader map for material mat_Window, compiling. 
+[2021.01.18-01.38.25:724][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Rocks/rock4/lambert2_Metallic.lambert2_Metallic was invalid. The texture will be rebuild.
+[2021.01.18-01.38.25:724][264]LogTexture: Display: Building textures: lambert2_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.25:724][264]LogMaterial: Display: Missing cached shader map for material Mat_WaterPikcup, compiling. 
+[2021.01.18-01.38.25:958][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Rocks/rock4/lambert2_Normal.lambert2_Normal was invalid. The texture will be rebuild.
+[2021.01.18-01.38.25:958][264]LogTexture: Display: Building textures: lambert2_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.25:958][264]LogMaterial: Display: Missing cached shader map for material MM4T, compiling. 
+[2021.01.18-01.38.26:047][264]LogTexture: Display: Building textures: lambert2_Mixed_AO (AutoDXT, 1024X1024)
+[2021.01.18-01.38.26:047][264]LogTexture: Display: Building textures: lambert2_Base_Color (AutoDXT, 1024X1024)
+[2021.01.18-01.38.26:047][264]LogTexture: Display: Building textures: lambert2_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.26:047][264]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2021.01.18-01.38.26:118][264]LogTexture: Display: Building textures: Forest_Tower_LP_mat_Stones_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.26:308][264]LogTexture: Display: Building textures: lambert2_Base_Color (AutoDXT, 1024X1024)
+[2021.01.18-01.38.26:331][264]LogTexture: Display: Building textures: Forest_Tower_LP_mat_Stones_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.26:532][264]LogMaterial: Display: Missing cached shader map for material mat_Stones, compiling. 
+[2021.01.18-01.38.26:549][264]LogSkeletalMesh: Building Skeletal Mesh SPRING_GNOME_TEXTURED_WALKING...
+[2021.01.18-01.38.26:702][264]LogSkeletalMesh: Section 0: 1928 vertices, 21 active bones
+[2021.01.18-01.38.26:702][264]LogSkeletalMesh: Section 0: Material=0, 3432 triangles
+[2021.01.18-01.38.26:730][264]LogSkeletalMesh: Built Skeletal Mesh [0.18s] /Game/Gnome_Animated/SpringGnome/SPRING_GNOME_TEXTURED_WALKING.SPRING_GNOME_TEXTURED_WALKING
+[2021.01.18-01.38.26:736][264]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2021.01.18-01.38.26:937][264]LogMaterial: Display: Missing cached shader map for material MedWood, compiling. 
+[2021.01.18-01.38.26:957][264]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2021.01.18-01.38.27:241][264]LogTexture: Display: Building textures: lambert2_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.27:241][264]LogMaterial: Display: Missing cached shader map for material HoangMushroomC_lambert1_BaseColor_Mat, compiling. 
+[2021.01.18-01.38.27:643][264]LogTexture: Display: Building textures: lambert2_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.27:644][264]LogTexture: Display: Building textures: Forest_Well_LP_mat_Wood_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.27:644][264]LogTexture: Display: Building textures: Forest_Well_LP_mat_Wood_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.27:644][264]LogTexture: Display: Building textures: Forest_Well_LP_mat_Wood_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.27:644][264]LogTexture: Display: Building textures: lambert31_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.27:644][264]LogMaterial: Display: Missing cached shader map for material mat_Wood, compiling. 
+[2021.01.18-01.38.27:686][264]LogMaterial: Display: Missing cached shader map for material alt_HoangMushroomD_lambert1_BaseColor_Mat, compiling. 
+[2021.01.18-01.38.27:714][264]LogMaterial: Display: Missing cached shader map for material HoangMushroomE_lambert1_BaseColor_Mat, compiling. 
+[2021.01.18-01.38.27:769][264]LogTexture: Display: Building textures: lambert31_Base_Color (AutoDXT, 1024X1024)
+[2021.01.18-01.38.27:769][264]LogMaterial: Display: Missing cached shader map for material HoangMushroomA_HP_lambert1_BaseColor_Mat, compiling. 
+[2021.01.18-01.38.27:863][264]LogTexture: Display: Building textures: lambert31_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.27:863][264]LogMaterial: Display: Missing cached shader map for material Blue_Rose_Plant_Leaf, compiling. 
+[2021.01.18-01.38.27:908][264]LogMaterial: Display: Missing cached shader map for material Default_Material, compiling. 
+[2021.01.18-01.38.27:950][264]LogTexture: Display: Building textures: lambert23_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.27:950][264]LogMaterial: Display: Missing cached shader map for material mat_Well, compiling. 
+[2021.01.18-01.38.27:990][264]LogMaterial: Display: Missing cached shader map for material Mat_Stairs, compiling. 
+[2021.01.18-01.38.28:042][264]LogTexture: Display: Building textures: lambert23_Base_Color (AutoDXT, 1024X1024)
+[2021.01.18-01.38.28:042][264]LogMaterial: Display: Missing cached shader map for material Stair_Mat_Main, compiling. 
+[2021.01.18-01.38.28:078][264]LogMaterial: Display: Missing cached shader map for material WoodSmall, compiling. 
+[2021.01.18-01.38.28:160][264]LogTexture: Display: Building textures: lambert23_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.28:160][264]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.18-01.38.28:374][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Pedestal/Pedestal_Textures/lambert1_Roughness.lambert1_Roughness was invalid. The texture will be rebuild.
+[2021.01.18-01.38.28:374][264]LogTexture: Display: Building textures: lambert1_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.28:374][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Trees/Tree5/tree5_lambert1_Normal.tree5_lambert1_Normal was invalid. The texture will be rebuild.
+[2021.01.18-01.38.28:419][264]LogTexture: Display: Building textures: tree5_lambert1_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.28:633][264]LogTexture: Display: Building textures: lambert1_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.28:685][264]LogTexture: Display: Building textures: tree5_lambert1_Roughness (AutoDXT, 2048X2048)
+[2021.01.18-01.38.30:242][264]LogTexture: Display: Building textures: lambert1_Base_Color (AutoDXT, 1024X1024)
+[2021.01.18-01.38.30:242][264]LogTexture: Display: Building textures: lambert1_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.30:242][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Pedestal/Pedestal_Textures/lambert1_Mixed_AO.lambert1_Mixed_AO was invalid. The texture will be rebuild.
+[2021.01.18-01.38.30:242][264]LogTexture: Display: Building textures: lambert1_Mixed_AO (AutoDXT, 1024X1024)
+[2021.01.18-01.38.30:242][264]LogTexture: Display: Building textures: Low_Princess_lambert3_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.30:242][264]LogTexture: Display: Building textures: Low_Princess_lambert3_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.38.30:242][264]LogTexture: Display: Building textures: Low_Princess_lambert3_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.30:248][264]LogMaterial: Display: Missing cached shader map for material tree5_mat, compiling. 
+[2021.01.18-01.38.30:268][264]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2021.01.18-01.38.30:345][264]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2021.01.18-01.38.30:785][264]LogTexture: Display: Building textures: Low_Princess_lambert3_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.30:785][264]LogTexture: Display: Building textures: lambert25_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.30:785][264]LogTexture: Display: Building textures: lambert25_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.30:785][264]LogTexture: Display: Building textures: lambert26_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.30:785][264]LogTexture: Display: Building textures: lambert25_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.30:785][264]LogTexture: Display: Building textures: lambert26_Base_Color (AutoDXT, 1024X1024)
+[2021.01.18-01.38.30:785][264]LogTexture: Display: Building textures: lambert25_Base_Color (AutoDXT, 1024X1024)
+[2021.01.18-01.38.30:785][264]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2021.01.18-01.38.31:003][264]LogTexture: Display: Building textures: Forest_Tower_LP_mat_Tower_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.38.31:003][264]LogTexture: Display: Building textures: T_Island2_N (BC5, 1024X1024)
+[2021.01.18-01.38.31:003][264]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2021.01.18-01.38.31:036][264]LogMaterial: Display: Missing cached shader map for material lambert31, compiling. 
+[2021.01.18-01.38.31:084][264]LogMaterial: Display: Missing cached shader map for material lambert23, compiling. 
+[2021.01.18-01.38.31:101][264]LogMaterial: Display: Missing cached shader map for material Princess1, compiling. 
+[2021.01.18-01.38.31:138][264]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2021.01.18-01.38.31:187][264]LogMaterial: Display: Missing cached shader map for material lambert26, compiling. 
+[2021.01.18-01.38.31:231][264]LogSkeletalMesh: Building Skeletal Mesh Drawbridge_animated_Bridge_LP_Combined_Moving_bridge_piece...
+[2021.01.18-01.38.31:255][264]LogSkeletalMesh: Section 0: 1228 vertices, 3 active bones
+[2021.01.18-01.38.31:255][264]LogSkeletalMesh: Section 1: 1428 vertices, 3 active bones
+[2021.01.18-01.38.31:255][264]LogSkeletalMesh: Section 0: Material=0, 614 triangles
+[2021.01.18-01.38.31:255][264]LogSkeletalMesh: Section 1: Material=1, 708 triangles
+[2021.01.18-01.38.31:261][264]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Drawbridge/Drawbridge_animated.Drawbridge_animated_Bridge_LP_Combined_Moving_bridge_piece
+[2021.01.18-01.38.31:262][264]LogSkeletalMesh: Building Skeletal Mesh Drawbridge_animated_Bridge_LP_Combined_Ropes...
+[2021.01.18-01.38.31:272][264]LogSkeletalMesh: Section 0: 484 vertices, 22 active bones
+[2021.01.18-01.38.31:272][264]LogSkeletalMesh: Section 0: Material=0, 440 triangles
+[2021.01.18-01.38.31:273][264]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Drawbridge/Drawbridge_animated.Drawbridge_animated_Bridge_LP_Combined_Ropes
+[2021.01.18-01.38.31:284][264]LogTexture: Display: Building textures: T_Island3_N (BC5, 2048X2048)
+[2021.01.18-01.38.31:284][264]LogSkeletalMesh: Building Skeletal Mesh Drawbridge_animated_door...
+[2021.01.18-01.38.31:287][264]LogSkeletalMesh: Section 0: 136 vertices, 2 active bones
+[2021.01.18-01.38.31:287][264]LogSkeletalMesh: Section 1: 148 vertices, 2 active bones
+[2021.01.18-01.38.31:288][264]LogSkeletalMesh: Section 0: Material=0, 68 triangles
+[2021.01.18-01.38.31:288][264]LogSkeletalMesh: Section 1: Material=1, 92 triangles
+[2021.01.18-01.38.31:288][264]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Drawbridge/Drawbridge_animated.Drawbridge_animated_door
+[2021.01.18-01.38.31:293][264]LogMaterial: Display: Missing cached shader map for material lambert25, compiling. 
+[2021.01.18-01.38.31:466][264]LogTexture: Display: Building textures: Forest_Tower_LP_mat_Tower_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.31:550][264]LogTexture: Display: Building textures: Forest_Tower_LP_mat_Tower_Roughness (AutoDXT, 1024X1024)
+[2021.01.18-01.38.31:724][264]LogTexture: Display: Building textures: T_Island1_N (BC5, 2048X2048)
+[2021.01.18-01.38.31:724][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Tower/tower_material/Forest_Tower_LP_mat_Tower_Normal.Forest_Tower_LP_mat_Tower_Normal was invalid. The texture will be rebuild.
+[2021.01.18-01.38.31:803][264]LogTexture: Display: Building textures: Forest_Tower_LP_mat_Tower_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.32:160][264]LogMaterial: Display: Missing cached shader map for material Disappear, compiling. 
+[2021.01.18-01.38.32:206][264]LogMaterial: Display: Missing cached shader map for material Mat_Island2, compiling. 
+[2021.01.18-01.38.32:585][264]LogTexture: Display: Building textures: T_Island6_1_N (BC5, 2048X2048)
+[2021.01.18-01.38.32:585][264]LogMaterial: Display: Missing cached shader map for material Mat_Island1, compiling. 
+[2021.01.18-01.38.32:606][264]LogMaterial: Display: Missing cached shader map for material Mat_Island3, compiling. 
+[2021.01.18-01.38.32:634][264]LogMaterial: Display: Missing cached shader map for material lambert6, compiling. 
+[2021.01.18-01.38.32:681][264]LogSkeletalMesh: Building Skeletal Mesh mush3_walk...
+[2021.01.18-01.38.32:701][264]LogTexture: Display: Building textures: tree6_lambert1_Normal (BC5, 2048X2048)
+[2021.01.18-01.38.32:832][264]LogSkeletalMesh: Section 0: 1277 vertices, 16 active bones
+[2021.01.18-01.38.32:832][264]LogSkeletalMesh: Section 1: 422 vertices, 5 active bones
+[2021.01.18-01.38.32:832][264]LogSkeletalMesh: Section 0: Material=0, 2016 triangles
+[2021.01.18-01.38.32:832][264]LogSkeletalMesh: Section 1: Material=1, 768 triangles
+[2021.01.18-01.38.32:837][264]LogSkeletalMesh: Built Skeletal Mesh [0.16s] /Game/MushroomBoys/Mush3/mush3_walk.mush3_walk
+[2021.01.18-01.38.34:748][264]LogTexture: Display: Building textures: tree6_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2021.01.18-01.38.34:748][264]LogTexture: Display: Building textures: tree6_lambert1_Metallic (AutoDXT, 2048X2048)
+[2021.01.18-01.38.34:748][264]LogTexture: Display: Building textures: Tree1V3_Tree1_Metallic (AutoDXT, 1024X1024)
+[2021.01.18-01.38.34:748][264]LogTexture: Display: Building textures: Tree1V3_Tree1_Normal (BC5, 1024X1024)
+[2021.01.18-01.38.34:748][264]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Trees/Tree1/Tree1/Tree1V3_Tree1_BaseColor.Tree1V3_Tree1_BaseColor was invalid. The texture will be rebuild.
+[2021.01.18-01.38.34:748][264]LogTexture: Display: Building textures: Tree1V3_Tree1_BaseColor (AutoDXT, 1024X1024)
+[2021.01.18-01.38.34:748][264]LogMaterial: Display: Missing cached shader map for material tree6_mat, compiling. 
+[2021.01.18-01.38.34:774][264]LogMaterial: Display: Missing cached shader map for material treeTexture, compiling. 
+[2021.01.18-01.38.34:920][264]LogAIModule: Creating AISystem for world Forest
+[2021.01.18-01.38.35:252][264]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Forest.Forest
+[2021.01.18-01.38.35:579][264]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2021.01.18-01.38.39:236][264]LogSlate: Window 'Save Content' being destroyed
+[2021.01.18-01.38.39:241][264]Cmd: MAP LOAD FILE="C:/Serotopia/Serotopia_Grey_1/Content/Levels/Forest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.18-01.38.39:242][264]LightingResults: New page: Lighting Build
+[2021.01.18-01.38.39:244][264]LoadErrors: New page: Loading map: Forest.umap
+[2021.01.18-01.38.39:255][264]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.38.39:267][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.18-01.38.39:268][264]MapCheck: New page: Map Check
+[2021.01.18-01.38.39:268][264]LightingResults: New page: Lighting Build
+[2021.01.18-01.38.39:335][264]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.01.18-01.38.39:468][264]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.18-01.38.39:591][264]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.01.18-01.38.39:654][264]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.18-01.38.39:656][264]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.706ms to complete.
+[2021.01.18-01.38.39:656][264]LogFileHelpers: Loading map 'Forest' took 0.416
+[2021.01.18-01.38.40:628][267]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.01.18-01.38.45:333][267]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2969
+[2021.01.18-01.38.45:698][272]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2959
+[2021.01.18-01.38.47:070][307]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2949
+[2021.01.18-01.38.53:866][309]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2939
+[2021.01.18-01.38.54:100][309]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2929
+[2021.01.18-01.38.55:094][309]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2919
+[2021.01.18-01.39.00:919][331]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2909
+[2021.01.18-01.39.05:954][579]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Forest.Forest:PersistentLevel.Forest
+[2021.01.18-01.39.09:003][633]LogSlate: Window 'Forest' being destroyed
+[2021.01.18-01.39.11:549][778]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.01.18-01.40.00:406][965]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2899
+[2021.01.18-01.40.50:091][921]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2889
+[2021.01.18-01.41.36:557][475]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2879
+[2021.01.18-01.42.56:380][756]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2869
+[2021.01.18-01.43.06:206][689]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2859
+[2021.01.18-01.43.19:651][940]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2849
+[2021.01.18-01.43.20:130][984]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2839
+[2021.01.18-01.43.35:162][422]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2829
+[2021.01.18-01.43.44:273][296]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2819
+[2021.01.18-01.43.48:095][680]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2809
+[2021.01.18-01.44.00:335][796]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2799
+[2021.01.18-01.44.18:482][405]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2789
+[2021.01.18-01.44.24:371][963]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2779
+[2021.01.18-01.44.30:503][568]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2769
+[2021.01.18-01.44.39:764][423]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2759
+[2021.01.18-01.44.39:880][434]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2749
+[2021.01.18-01.44.44:102][797]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2739
+[2021.01.18-01.45.07:264][993]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2729
+[2021.01.18-01.45.10:666][274]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2719
+[2021.01.18-01.45.13:178][498]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2709
+[2021.01.18-01.45.28:299][997]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2699
+[2021.01.18-01.45.34:065][546]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2689
+[2021.01.18-01.45.36:802][810]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2679
+[2021.01.18-01.45.47:692][899]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2669
+[2021.01.18-01.45.52:996][436]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2659
+[2021.01.18-01.45.54:782][612]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2649
+[2021.01.18-01.46.15:678][490]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2639
+[2021.01.18-01.46.20:584][828]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2629
+[2021.01.18-01.46.25:311][153]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2619
+[2021.01.18-01.46.33:325][698]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.46.33:325][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.18-01.46.37:994][701]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2609
+[2021.01.18-01.46.39:999][710]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2599
+[2021.01.18-01.46.40:614][716]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2589
+[2021.01.18-01.46.47:931][736]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2579
+[2021.01.18-01.46.48:216][739]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2569
+[2021.01.18-01.46.48:326][740]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2559
+[2021.01.18-01.46.51:125][768]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2549
+[2021.01.18-01.46.51:661][773]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2539
+[2021.01.18-01.46.51:711][773]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2529
+[2021.01.18-01.46.57:958][834]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2519
+[2021.01.18-01.46.59:254][844]LogEditorViewport: Clicking on Actor (LMB): Skybox_C (Skybox)
+[2021.01.18-01.46.59:826][844]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2509
+[2021.01.18-01.47.00:823][844]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2499
+[2021.01.18-01.47.12:722][881]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s)
+[2021.01.18-01.47.14:192][888]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2489
+[2021.01.18-01.47.15:241][898]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2479
+[2021.01.18-01.47.16:674][912]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2469
+[2021.01.18-01.47.22:792][ 17]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2459
+[2021.01.18-01.47.23:171][ 20]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2449
+[2021.01.18-01.47.23:441][ 23]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2439
+[2021.01.18-01.47.29:455][ 79]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2429
+[2021.01.18-01.47.32:133][103]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2419
+[2021.01.18-01.47.32:369][104]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2409
+[2021.01.18-01.47.39:803][429]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2399
+[2021.01.18-01.47.53:786][533]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2389
+[2021.01.18-01.47.54:534][538]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2379
+[2021.01.18-01.47.55:172][546]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2369
+[2021.01.18-01.47.57:655][708]Cmd: CLOSE_SLATE_MAINFRAME
+[2021.01.18-01.47.57:753][708]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2021.01.18-01.48.00:487][708]LogSlate: Window 'Save Content' being destroyed
+[2021.01.18-01.48.00:626][708]LogSlate: Window 'Serotopia - Unreal Editor' being destroyed
+[2021.01.18-01.48.01:126][709]Cmd: QUIT_EDITOR
+[2021.01.18-01.48.01:126][709]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.01.18-01.48.01:205][709]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.01.18-01.48.01:212][709]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.18-01.48.01:222][709]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.18-01.48.01:434][709]LogExit: Preparing to exit.
+[2021.01.18-01.48.01:833][709]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.48.01:837][709]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.48.01:844][709]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.48.01:847][709]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.48.01:851][709]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.48.01:863][709]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.48.01:868][709]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.48.01:878][709]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.48.01:885][709]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.48.01:889][709]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.48.01:893][709]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.48.01:900][709]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.48.01:909][709]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.48.01:919][709]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.48.01:929][709]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.48.01:932][709]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.48.01:946][709]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.48.01:950][709]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.48.01:959][709]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.48.01:963][709]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.48.01:982][709]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.48.02:219][709]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.01.18-01.48.02:421][709]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.01.18-01.48.02:429][709]LogExit: Editor shut down
+[2021.01.18-01.48.02:452][709]LogExit: Transaction tracking system shut down
+[2021.01.18-01.48.04:655][709]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2359
+[2021.01.18-01.48.04:655][709]LogExit: Object subsystem successfully closed.
+[2021.01.18-01.48.04:949][709]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.01.18-01.48.05:048][709]LogModuleManager: Shutting down and abandoning module MeshBuilder (702)
+[2021.01.18-01.48.05:048][709]LogModuleManager: Shutting down and abandoning module SequencerWidgets (700)
+[2021.01.18-01.48.05:048][709]LogModuleManager: Shutting down and abandoning module BlueprintGraph (698)
+[2021.01.18-01.48.05:048][709]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (696)
+[2021.01.18-01.48.05:048][709]LogModuleManager: Shutting down and abandoning module SceneOutliner (694)
+[2021.01.18-01.48.05:048][709]LogModuleManager: Shutting down and abandoning module AddContentDialog (692)
+[2021.01.18-01.48.05:049][709]LogModuleManager: Shutting down and abandoning module WidgetCarousel (691)
+[2021.01.18-01.48.05:049][709]LogModuleManager: Shutting down and abandoning module EditorWidgets (688)
+[2021.01.18-01.48.05:049][709]LogModuleManager: Shutting down and abandoning module CollectionManager (686)
+[2021.01.18-01.48.05:050][709]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2021.01.18-01.48.05:050][709]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2021.01.18-01.48.05:050][709]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2021.01.18-01.48.05:050][709]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2021.01.18-01.48.05:050][709]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2021.01.18-01.48.05:050][709]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2021.01.18-01.48.05:050][709]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2021.01.18-01.48.05:050][709]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2021.01.18-01.48.05:050][709]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2021.01.18-01.48.05:050][709]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2021.01.18-01.48.05:050][709]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2021.01.18-01.48.05:050][709]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2021.01.18-01.48.05:051][709]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2021.01.18-01.48.05:052][709]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2021.01.18-01.48.06:380][709]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2021.01.18-01.48.06:380][709]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2021.01.18-01.48.06:380][709]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2021.01.18-01.48.06:380][709]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2021.01.18-01.48.06:380][709]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2021.01.18-01.48.06:380][709]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2021.01.18-01.48.06:380][709]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2021.01.18-01.48.06:380][709]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2021.01.18-01.48.06:380][709]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2021.01.18-01.48.06:381][709]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2021.01.18-01.48.06:381][709]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2021.01.18-01.48.06:381][709]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2021.01.18-01.48.06:381][709]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2021.01.18-01.48.06:381][709]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2021.01.18-01.48.06:381][709]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2021.01.18-01.48.06:381][709]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2021.01.18-01.48.06:381][709]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2021.01.18-01.48.06:381][709]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2021.01.18-01.48.06:381][709]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2021.01.18-01.48.06:381][709]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2021.01.18-01.48.06:381][709]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2021.01.18-01.48.06:381][709]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2021.01.18-01.48.06:381][709]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2021.01.18-01.48.06:381][709]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2021.01.18-01.48.06:414][709]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2021.01.18-01.48.06:414][709]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2021.01.18-01.48.06:414][709]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2021.01.18-01.48.06:414][709]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2021.01.18-01.48.06:414][709]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2021.01.18-01.48.06:414][709]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2021.01.18-01.48.06:414][709]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2021.01.18-01.48.06:414][709]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2021.01.18-01.48.06:414][709]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2021.01.18-01.48.06:414][709]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2021.01.18-01.48.06:414][709]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2021.01.18-01.48.06:430][709]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2021.01.18-01.48.06:430][709]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2021.01.18-01.48.06:430][709]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2021.01.18-01.48.06:430][709]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2021.01.18-01.48.06:432][709]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2021.01.18-01.48.06:432][709]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2021.01.18-01.48.06:432][709]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2021.01.18-01.48.06:432][709]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2021.01.18-01.48.06:432][709]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2021.01.18-01.48.06:432][709]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2021.01.18-01.48.06:432][709]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2021.01.18-01.48.06:432][709]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2021.01.18-01.48.06:432][709]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2021.01.18-01.48.06:433][709]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2021.01.18-01.48.06:433][709]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2021.01.18-01.48.06:433][709]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2021.01.18-01.48.06:433][709]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2021.01.18-01.48.06:433][709]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2021.01.18-01.48.06:433][709]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2021.01.18-01.48.06:433][709]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2021.01.18-01.48.06:433][709]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2021.01.18-01.48.06:433][709]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2021.01.18-01.48.06:433][709]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2021.01.18-01.48.06:433][709]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2021.01.18-01.48.06:433][709]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2021.01.18-01.48.06:433][709]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2021.01.18-01.48.06:437][709]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2021.01.18-01.48.06:568][709]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2021.01.18-01.48.06:568][709]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2021.01.18-01.48.06:568][709]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2021.01.18-01.48.06:568][709]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2021.01.18-01.48.06:568][709]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2021.01.18-01.48.06:568][709]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2021.01.18-01.48.06:568][709]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2021.01.18-01.48.06:568][709]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2021.01.18-01.48.06:568][709]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2021.01.18-01.48.06:568][709]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2021.01.18-01.48.06:568][709]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2021.01.18-01.48.06:568][709]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2021.01.18-01.48.06:568][709]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2021.01.18-01.48.06:569][709]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2021.01.18-01.48.06:570][709]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2021.01.18-01.48.06:570][709]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2021.01.18-01.48.06:570][709]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2021.01.18-01.48.06:570][709]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2021.01.18-01.48.06:570][709]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2021.01.18-01.48.06:570][709]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2021.01.18-01.48.06:570][709]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2021.01.18-01.48.06:570][709]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2021.01.18-01.48.06:570][709]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2021.01.18-01.48.06:570][709]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2021.01.18-01.48.06:570][709]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2021.01.18-01.48.06:570][709]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2021.01.18-01.48.06:570][709]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2021.01.18-01.48.06:570][709]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2021.01.18-01.48.06:672][709]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2021.01.18-01.48.06:774][709]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2021.01.18-01.48.06:774][709]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2021.01.18-01.48.06:774][709]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.01.18-01.48.06:774][709]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2021.01.18-01.48.06:774][709]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2021.01.18-01.48.06:774][709]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2021.01.18-01.48.06:774][709]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2021.01.18-01.48.06:774][709]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2021.01.18-01.48.06:774][709]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2021.01.18-01.48.06:774][709]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2021.01.18-01.48.06:788][709]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.01.18-01.48.06:788][709]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2021.01.18-01.48.06:788][709]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2021.01.18-01.48.06:788][709]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2021.01.18-01.48.06:788][709]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2021.01.18-01.48.06:788][709]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2021.01.18-01.48.06:788][709]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2021.01.18-01.48.06:788][709]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2021.01.18-01.48.06:788][709]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2021.01.18-01.48.06:789][709]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2021.01.18-01.48.06:790][709]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2021.01.18-01.48.06:790][709]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2021.01.18-01.48.06:791][709]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2021.01.18-01.48.06:791][709]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2021.01.18-01.48.06:792][709]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2021.01.18-01.48.06:793][709]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2021.01.18-01.48.06:793][709]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2021.01.18-01.48.06:793][709]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2021.01.18-01.48.06:793][709]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2021.01.18-01.48.06:793][709]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module Core (206)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2021.01.18-01.48.06:796][709]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2021.01.18-01.48.06:798][709]LogDerivedDataCache: Shutdown
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2021.01.18-01.48.06:798][709]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2021.01.18-01.48.06:799][709]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2021.01.18-01.48.06:799][709]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2021.01.18-01.48.06:799][709]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2021.01.18-01.48.06:799][709]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2021.01.18-01.48.06:799][709]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2021.01.18-01.48.06:799][709]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2021.01.18-01.48.06:800][709]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2021.01.18-01.48.06:800][709]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2021.01.18-01.48.06:800][709]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2021.01.18-01.48.06:800][709]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2021.01.18-01.48.06:800][709]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2021.01.18-01.48.06:800][709]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2021.01.18-01.48.06:800][709]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2021.01.18-01.48.06:800][709]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2021.01.18-01.48.06:801][709]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2021.01.18-01.48.06:806][709]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2021.01.18-01.48.06:806][709]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2021.01.18-01.48.06:806][709]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2021.01.18-01.48.06:806][709]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2021.01.18-01.48.06:806][709]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2021.01.18-01.48.06:806][709]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2021.01.18-01.48.06:806][709]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2021.01.18-01.48.06:806][709]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2021.01.18-01.48.06:806][709]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2021.01.18-01.48.06:806][709]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2021.01.18-01.48.06:806][709]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2021.01.18-01.48.06:806][709]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2021.01.18-01.48.06:806][709]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2021.01.18-01.48.06:806][709]LogHMD: Freeing OpenVRDLLHandle.
+[2021.01.18-01.48.06:806][709]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2021.01.18-01.48.06:806][709]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2021.01.18-01.48.06:806][709]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2021.01.18-01.48.06:806][709]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2021.01.18-01.48.06:806][709]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2021.01.18-01.48.06:807][709]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2021.01.18-01.48.06:807][709]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2021.01.18-01.48.06:822][709]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2021.01.18-01.48.06:822][709]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.01.18-01.48.06:822][709]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB0D7150F-4EAA-2789-5B11-13A24EC9C159%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=beddad394c30d26795273c833484bc34%7Cbd71ef1772a743638ce7010a20fe739a%7Cafd689a2-e1ff-4b27-abc2-1f733a4fcc92&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.01.18-01.48.06:850][709]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2021.01.18-01.48.06:851][709]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2021.01.18-01.48.06:852][709]LogModuleManager: Shutting down and abandoning module Media (57)
+[2021.01.18-01.48.06:853][709]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2021.01.18-01.48.06:853][709]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2021.01.18-01.48.06:853][709]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2021.01.18-01.48.06:853][709]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2021.01.18-01.48.06:853][709]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2021.01.18-01.48.06:853][709]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.01.18-01.48.06:853][709]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.01.18-01.48.06:853][709]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.01.18-01.48.06:853][709]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.01.18-01.48.06:853][709]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.01.18-01.48.06:855][709]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.01.18-01.48.06:856][709]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.01.18-01.48.06:856][709]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.01.18-01.48.06:856][709]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.01.18-01.48.06:856][709]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.01.18-01.48.06:859][709]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.01.18-01.48.06:859][709]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.01.18-01.48.06:859][709]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.01.18-01.48.06:859][709]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.01.18-01.48.06:859][709]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.01.18-01.48.06:859][709]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.01.18-01.48.06:859][709]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.01.18-01.48.06:859][709]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.01.18-01.48.06:859][709]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.01.18-01.48.06:859][709]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.01.18-01.48.06:859][709]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.01.18-01.48.06:859][709]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.01.18-01.48.06:862][709]LogD3D11RHI: Shutdown
+[2021.01.18-01.48.06:862][709]LogD3D11RHI: CleanupD3DDevice
+[2021.01.18-01.48.06:871][709]LogExit: Exiting.
+[2021.01.18-01.48.06:880][709]Log file closed, 01/17/21 20:48:06
