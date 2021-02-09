@@ -27,14 +27,9 @@ Windows.Engine:AssetRegistry:bSerializeSearchableNameDependencies:0=false
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/Levels/MainMenu.MainMenu
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/Blueprints/Mechanic_Test.Mechanic_Test_C
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultServerGameMode:0=None
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/Blueprints/Gamemodes/Mechanic_Test.Mechanic_Test_C
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/Levels/MainMenu.MainMenu
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:LocalMapOptions:0=
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:TransitionMap:0=
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:bUseSplitscreen:0=True
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:TwoPlayerSplitscreenLayout:0=Horizontal
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:ThreePlayerSplitscreenLayout:0=FavorTop
 Windows.Engine:Core.System:CutdownPaths:0=%GAMEDIR%CutdownPackages
 Windows.Engine:Core.System:ZeroEngineVersionWarning:0=True
 Windows.Engine:Core.System:UseStrictEngineVersioning:0=True
@@ -61,7 +56,7 @@ Windows.Engine:/Script/LuminPlatformEditor.MagicLeapSDKSettings:MLSDKPath:0=(Pat
 Windows.Engine:/Script/UnrealEd.UnrealEdEngine:TemplateMapInfos:0=(ThumbnailTexture=Texture2D'"/Engine/Maps/Templates/Thumbnails/Default.Default"',Map="/Engine/Maps/Templates/Template_Default")
 Windows.Engine:/Script/UnrealEd.UnrealEdEngine:TemplateMapInfos:1=(ThumbnailTexture=Texture2D'"/Engine/Maps/Templates/Thumbnails/TimeOfDay.TimeOfDay"',Map="/Engine/Maps/Templates/TimeOfDay_Default")
 Windows.Engine:/Script/UnrealEd.UnrealEdEngine:TemplateMapInfos:2=(ThumbnailTexture=Texture2D'"/Engine/Maps/Templates/Thumbnails/VR-Basic.VR-Basic"',Map="/Engine/Maps/Templates/VR-Basic")
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:DisplayGamma:0=2.000000
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:DisplayGamma:0=2.356511
 Windows.Engine:/Script/UnrealEd.UnrealEdEngine:AutoSaveIndex:0=0
 Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:0=/Engine/EditorMaterials/Cross
 Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:1=/Engine/EditorMaterials/Cross_Mat
@@ -186,7 +181,6 @@ Windows.Engine:URL:Protocol:0=unreal
 Windows.Engine:URL:Name:0=Player
 Windows.Engine:URL:SaveExt:0=usa
 Windows.Engine:URL:Port:0=7777
-Windows.Engine:URL:GameName:0=Serotopia
 Windows.Engine:HTTP:HttpTimeout:0=180
 Windows.Engine:HTTP:HttpConnectionTimeout:0=60
 Windows.Engine:HTTP:HttpReceiveTimeout:0=30
@@ -376,7 +370,7 @@ Windows.Engine:/Script/Engine.Engine:NumPawnsAllowedToBeSpawnedInAFrame:0=2
 Windows.Engine:/Script/Engine.Engine:DefaultSelectedMaterialColor:0=(R=0.84,G=0.92,B=0.02,A=1.0)
 Windows.Engine:/Script/Engine.Engine:bEnableOnScreenDebugMessages:0=true
 Windows.Engine:/Script/Engine.Engine:DurationOfErrorsAndWarningsOnHUD:0=0
-Windows.Engine:/Script/Engine.Engine:NearClipPlane:0=1.000000
+Windows.Engine:/Script/Engine.Engine:NearClipPlane:0=10.0
 Windows.Engine:/Script/Engine.Engine:bUseStreamingPause:0=false
 Windows.Engine:/Script/Engine.Engine:MatineeTrackRedirects:0=(TargetClassName="/Script/Engine.CameraActor",OldFieldName="PostProcessSettings.EyeAdaptationLowPercent",NewFieldName="CameraComponent.PostProcessSettings.AutoExposureLowPercent")
 Windows.Engine:/Script/Engine.Engine:MatineeTrackRedirects:1=(TargetClassName="/Script/Engine.CameraActor",OldFieldName="PostProcessSettings.EyeAdaptationHighPercent",NewFieldName="CameraComponent.PostProcessSettings.AutoExposureHighPercent")
@@ -396,8 +390,6 @@ Windows.Engine:/Script/Engine.Engine:MatineeTrackRedirects:14=(TargetClassName="
 Windows.Engine:/Script/Engine.Engine:MatineeTrackRedirects:15=(TargetClassName="/Script/Engine.CameraActor",OldFieldName="AspectRatio",NewFieldName="CameraComponent.AspectRatio")
 Windows.Engine:/Script/Engine.Engine:MatineeTrackRedirects:16=(TargetClassName="/Script/Engine.CameraActor",OldFieldName="bConstrainAspectRatio",NewFieldName="CameraComponent.bConstrainAspectRatio")
 Windows.Engine:/Script/Engine.Engine:MatineeTrackRedirects:17=(TargetClassName="/Script/Engine.CameraActor",OldFieldName="PostProcessSettings.",NewFieldName="CameraComponent.PostProcessSettings.")
-Windows.Engine:/Script/Engine.Engine:ActiveGameNameRedirects:0=(OldGameName="TP_ThirdPersonBP",NewGameName="/Script/Serotopia")
-Windows.Engine:/Script/Engine.Engine:ActiveGameNameRedirects:1=(OldGameName="/Script/TP_ThirdPersonBP",NewGameName="/Script/Serotopia")
 Windows.Engine:CoreUObject.Metadata:MetadataRedirects:0=(OldKey="K2Protected", NewKey="BlueprintProtected")
 Windows.Engine:CoreUObject.Metadata:MetadataRedirects:1=(OldKey="K2UnsafeForConstructionScripts", NewKey="UnsafeDuringActorConstruction")
 Windows.Engine:CoreUObject.Metadata:MetadataRedirects:2=(OldKey="KismetType", NewKey="BlueprintType")
@@ -523,12 +515,13 @@ Windows.Engine:AudioDefaultChannelOrder:SideLeft:0=4
 Windows.Engine:AudioDefaultChannelOrder:SideRight:0=5
 Windows.Engine:AudioDefaultChannelOrder:BackLeft:0=6
 Windows.Engine:AudioDefaultChannelOrder:BackRight:0=7
-Windows.Engine:/Script/Engine.AudioSettings:DefaultSoundClassName:0=/Engine/EngineSounds/Master.Master
-Windows.Engine:/Script/Engine.AudioSettings:DefaultMediaSoundClassName:0=/Engine/EngineSounds/Master.Master
+Windows.Engine:/Script/Engine.AudioSettings:DefaultSoundClassName:0=/Game/Audio/Bubbleopolis_SFX.Bubbleopolis_SFX
+Windows.Engine:/Script/Engine.AudioSettings:DefaultMediaSoundClassName:0=/Game/Audio/Bubbleopolis_MAster.Bubbleopolis_Master
 Windows.Engine:/Script/Engine.AudioSettings:DefaultSoundSubmixName:0=/Engine/EngineSounds/MasterSubmix.MasterSubmix
 Windows.Engine:/Script/Engine.AudioSettings:LowPassFilterResonance:0=0.9
 Windows.Engine:/Script/Engine.AudioSettings:MaximumConcurrentStreams:0=2
 Windows.Engine:/Script/Engine.AudioSettings:DialogueFilenameFormat:0="{DialogueGuid}_{ContextId}"
+Windows.Engine:/Script/Engine.AudioSettings:DefaultBaseSoundMix:0=/Game/Audio/Bubbleoplis_SoundMix.Bubbleoplis_SoundMix
 Windows.Engine:/Script/Engine.SoundGroups:SoundGroupProfiles:0=(SoundGroup=SOUNDGROUP_Default, bAlwaysDecompressOnLoad=false, DecompressedDuration=5)
 Windows.Engine:/Script/Engine.SoundGroups:SoundGroupProfiles:1=(SoundGroup=SOUNDGROUP_Effects, bAlwaysDecompressOnLoad=false, DecompressedDuration=5)
 Windows.Engine:/Script/Engine.SoundGroups:SoundGroupProfiles:2=(SoundGroup=SOUNDGROUP_UI, bAlwaysDecompressOnLoad=false, DecompressedDuration=5)
@@ -1028,30 +1021,47 @@ Windows.Engine:Engine.ErrorHandling:bPromptForRemoteDebugOnEnsure:0=false
 Windows.Engine:Niagara:EnableNiagara:0=false
 Windows.Engine:/Script/Engine.Actor:DefaultUpdateOverlapsMethodDuringLevelStreaming:0=OnlyUpdateMovable
 Windows.Engine:/Script/Engine.TriggerVolume:DefaultUpdateOverlapsMethodDuringLevelStreaming:0=AlwaysUpdate
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:0=(Name="NoCollision",CollisionEnabled=NoCollision,ObjectTypeName="WorldStatic",CustomResponses=((Channel="Visibility",Response=ECR_Ignore),(Channel="Camera",Response=ECR_Ignore)),HelpMessage="No collision",bCanModify=False)
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:1=(Name="BlockAll",CollisionEnabled=QueryAndPhysics,ObjectTypeName="WorldStatic",CustomResponses=,HelpMessage="WorldStatic object that blocks all actors by default. All new custom channels will use its own default response. ",bCanModify=False)
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:2=(Name="OverlapAll",CollisionEnabled=QueryOnly,ObjectTypeName="WorldStatic",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility",Response=ECR_Overlap),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap)),HelpMessage="WorldStatic object that overlaps all actors by default. All new custom channels will use its own default response. ",bCanModify=False)
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:3=(Name="BlockAllDynamic",CollisionEnabled=QueryAndPhysics,ObjectTypeName="WorldDynamic",CustomResponses=,HelpMessage="WorldDynamic object that blocks all actors by default. All new custom channels will use its own default response. ",bCanModify=False)
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:4=(Name="OverlapAllDynamic",CollisionEnabled=QueryOnly,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility",Response=ECR_Overlap),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap)),HelpMessage="WorldDynamic object that overlaps all actors by default. All new custom channels will use its own default response. ",bCanModify=False)
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:5=(Name="IgnoreOnlyPawn",CollisionEnabled=QueryOnly,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="Pawn",Response=ECR_Ignore),(Channel="Vehicle",Response=ECR_Ignore)),HelpMessage="WorldDynamic object that ignores Pawn and Vehicle. All other channels will be set to default.",bCanModify=False)
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:6=(Name="OverlapOnlyPawn",CollisionEnabled=QueryOnly,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="Pawn",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Ignore)),HelpMessage="WorldDynamic object that overlaps Pawn, Camera, and Vehicle. All other channels will be set to default. ",bCanModify=False)
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:7=(Name="Pawn",CollisionEnabled=QueryAndPhysics,ObjectTypeName="Pawn",CustomResponses=((Channel="Visibility",Response=ECR_Ignore)),HelpMessage="Pawn object. Can be used for capsule of any playerable character or AI. ",bCanModify=False)
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:8=(Name="Spectator",CollisionEnabled=QueryOnly,ObjectTypeName="Pawn",CustomResponses=((Channel="WorldStatic",Response=ECR_Block),(Channel="Pawn",Response=ECR_Ignore),(Channel="Visibility",Response=ECR_Ignore),(Channel="WorldDynamic",Response=ECR_Ignore),(Channel="Camera",Response=ECR_Ignore),(Channel="PhysicsBody",Response=ECR_Ignore),(Channel="Vehicle",Response=ECR_Ignore),(Channel="Destructible",Response=ECR_Ignore)),HelpMessage="Pawn object that ignores all other actors except WorldStatic.",bCanModify=False)
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:9=(Name="CharacterMesh",CollisionEnabled=QueryOnly,ObjectTypeName="Pawn",CustomResponses=((Channel="Pawn",Response=ECR_Ignore),(Channel="Vehicle",Response=ECR_Ignore),(Channel="Visibility",Response=ECR_Ignore)),HelpMessage="Pawn object that is used for Character Mesh. All other channels will be set to default.",bCanModify=False)
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:10=(Name="PhysicsActor",CollisionEnabled=QueryAndPhysics,ObjectTypeName="PhysicsBody",CustomResponses=,HelpMessage="Simulating actors",bCanModify=False)
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:11=(Name="Destructible",CollisionEnabled=QueryAndPhysics,ObjectTypeName="Destructible",CustomResponses=,HelpMessage="Destructible actors",bCanModify=False)
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:12=(Name="InvisibleWall",CollisionEnabled=QueryAndPhysics,ObjectTypeName="WorldStatic",CustomResponses=((Channel="Visibility",Response=ECR_Ignore)),HelpMessage="WorldStatic object that is invisible.",bCanModify=False)
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:13=(Name="InvisibleWallDynamic",CollisionEnabled=QueryAndPhysics,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="Visibility",Response=ECR_Ignore)),HelpMessage="WorldDynamic object that is invisible.",bCanModify=False)
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:14=(Name="Trigger",CollisionEnabled=QueryOnly,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility",Response=ECR_Ignore),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap)),HelpMessage="WorldDynamic object that is used for trigger. All other channels will be set to default.",bCanModify=False)
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:15=(Name="Ragdoll",CollisionEnabled=QueryAndPhysics,ObjectTypeName="PhysicsBody",CustomResponses=((Channel="Pawn",Response=ECR_Ignore),(Channel="Visibility",Response=ECR_Ignore)),HelpMessage="Simulating Skeletal Mesh Component. All other channels will be set to default.",bCanModify=False)
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:16=(Name="Vehicle",CollisionEnabled=QueryAndPhysics,ObjectTypeName="Vehicle",CustomResponses=,HelpMessage="Vehicle object that blocks Vehicle, WorldStatic, and WorldDynamic. All other channels will be set to default.",bCanModify=False)
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:17=(Name="UI",CollisionEnabled=QueryOnly,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility",Response=ECR_Block),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap)),HelpMessage="WorldStatic object that overlaps all actors by default. All new custom channels will use its own default response. ",bCanModify=False)
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:18=(Name="NoCollision",CollisionEnabled=NoCollision,bCanModify=False,ObjectTypeName="WorldStatic",CustomResponses=((Channel="Visibility",Response=ECR_Ignore),(Channel="Camera",Response=ECR_Ignore)),HelpMessage="No collision")
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:19=(Name="BlockAll",CollisionEnabled=QueryAndPhysics,bCanModify=False,ObjectTypeName="WorldStatic",CustomResponses=,HelpMessage="WorldStatic object that blocks all actors by default. All new custom channels will use its own default response. ")
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:20=(Name="OverlapAll",CollisionEnabled=QueryOnly,bCanModify=False,ObjectTypeName="WorldStatic",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility",Response=ECR_Overlap),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap)),HelpMessage="WorldStatic object that overlaps all actors by default. All new custom channels will use its own default response. ")
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:21=(Name="BlockAllDynamic",CollisionEnabled=QueryAndPhysics,bCanModify=False,ObjectTypeName="WorldDynamic",CustomResponses=,HelpMessage="WorldDynamic object that blocks all actors by default. All new custom channels will use its own default response. ")
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:22=(Name="OverlapAllDynamic",CollisionEnabled=QueryOnly,bCanModify=False,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility",Response=ECR_Overlap),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap)),HelpMessage="WorldDynamic object that overlaps all actors by default. All new custom channels will use its own default response. ")
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:23=(Name="IgnoreOnlyPawn",CollisionEnabled=QueryOnly,bCanModify=False,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="Pawn",Response=ECR_Ignore),(Channel="Vehicle",Response=ECR_Ignore)),HelpMessage="WorldDynamic object that ignores Pawn and Vehicle. All other channels will be set to default.")
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:24=(Name="OverlapOnlyPawn",CollisionEnabled=QueryOnly,bCanModify=False,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="Pawn",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Ignore)),HelpMessage="WorldDynamic object that overlaps Pawn, Camera, and Vehicle. All other channels will be set to default. ")
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:25=(Name="Pawn",CollisionEnabled=QueryAndPhysics,bCanModify=False,ObjectTypeName="Pawn",CustomResponses=((Channel="Visibility",Response=ECR_Ignore)),HelpMessage="Pawn object. Can be used for capsule of any playerable character or AI. ")
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:26=(Name="Spectator",CollisionEnabled=QueryOnly,bCanModify=False,ObjectTypeName="Pawn",CustomResponses=((Channel="WorldStatic"),(Channel="Pawn",Response=ECR_Ignore),(Channel="Visibility",Response=ECR_Ignore),(Channel="WorldDynamic",Response=ECR_Ignore),(Channel="Camera",Response=ECR_Ignore),(Channel="PhysicsBody",Response=ECR_Ignore),(Channel="Vehicle",Response=ECR_Ignore),(Channel="Destructible",Response=ECR_Ignore)),HelpMessage="Pawn object that ignores all other actors except WorldStatic.")
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:27=(Name="CharacterMesh",CollisionEnabled=QueryOnly,bCanModify=False,ObjectTypeName="Pawn",CustomResponses=((Channel="Pawn",Response=ECR_Ignore),(Channel="Vehicle",Response=ECR_Ignore),(Channel="Visibility",Response=ECR_Ignore)),HelpMessage="Pawn object that is used for Character Mesh. All other channels will be set to default.")
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:28=(Name="PhysicsActor",CollisionEnabled=QueryAndPhysics,bCanModify=False,ObjectTypeName="PhysicsBody",CustomResponses=,HelpMessage="Simulating actors")
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:29=(Name="Destructible",CollisionEnabled=QueryAndPhysics,bCanModify=False,ObjectTypeName="Destructible",CustomResponses=,HelpMessage="Destructible actors")
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:30=(Name="InvisibleWall",CollisionEnabled=QueryAndPhysics,bCanModify=False,ObjectTypeName="WorldStatic",CustomResponses=((Channel="Visibility",Response=ECR_Ignore)),HelpMessage="WorldStatic object that is invisible.")
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:31=(Name="InvisibleWallDynamic",CollisionEnabled=QueryAndPhysics,bCanModify=False,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="Visibility",Response=ECR_Ignore)),HelpMessage="WorldDynamic object that is invisible.")
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:32=(Name="Trigger",CollisionEnabled=QueryOnly,bCanModify=False,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility",Response=ECR_Ignore),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap)),HelpMessage="WorldDynamic object that is used for trigger. All other channels will be set to default.")
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:33=(Name="Ragdoll",CollisionEnabled=QueryAndPhysics,bCanModify=False,ObjectTypeName="PhysicsBody",CustomResponses=((Channel="Pawn",Response=ECR_Ignore),(Channel="Visibility",Response=ECR_Ignore)),HelpMessage="Simulating Skeletal Mesh Component. All other channels will be set to default.")
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:34=(Name="Vehicle",CollisionEnabled=QueryAndPhysics,bCanModify=False,ObjectTypeName="Vehicle",CustomResponses=,HelpMessage="Vehicle object that blocks Vehicle, WorldStatic, and WorldDynamic. All other channels will be set to default.")
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:35=(Name="UI",CollisionEnabled=QueryOnly,bCanModify=False,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility"),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap)),HelpMessage="WorldStatic object that overlaps all actors by default. All new custom channels will use its own default response. ")
 Windows.Engine:/Script/Engine.CollisionProfile:OldProfiles:0=(Name="BlockingVolume",CollisionEnabled=QueryAndPhysics,ObjectTypeName=WorldStatic,CustomResponses=((Channel=Visibility, Response=ECR_Ignore)))
 Windows.Engine:/Script/Engine.CollisionProfile:OldProfiles:1=(Name="InterpActor",CollisionEnabled=QueryOnly,ObjectTypeName=WorldStatic,CustomResponses=((Channel=Pawn, Response=ECR_Ignore)))
 Windows.Engine:/Script/Engine.CollisionProfile:OldProfiles:2=(Name="StaticMeshComponent",CollisionEnabled=QueryAndPhysics,ObjectTypeName=WorldStatic)
 Windows.Engine:/Script/Engine.CollisionProfile:OldProfiles:3=(Name="SkeletalMeshActor",CollisionEnabled=QueryAndPhysics,ObjectTypeName=PhysicsBody,CustomResponses=((Channel=Visibility, Response=ECR_Block)))
 Windows.Engine:/Script/Engine.CollisionProfile:OldProfiles:4=(Name="InvisibleActor", CollisionEnabled=QueryAndPhysics, ObjectTypeName=WorldDynamic, CustomResponses=((Channel=Visibility, Response=ECR_Ignore)))
-Windows.Engine:/Script/Engine.CollisionProfile:Profiles:0=(Name="NoCollision",CollisionEnabled=NoCollision,bCanModify=False,ObjectTypeName="WorldStatic",CustomResponses=((Channel="Visibility",Response=ECR_Ignore),(Channel="Camera",Response=ECR_Ignore)),HelpMessage="No collision")
-Windows.Engine:/Script/Engine.CollisionProfile:Profiles:1=(Name="BlockAll",CollisionEnabled=QueryAndPhysics,bCanModify=False,ObjectTypeName="WorldStatic",CustomResponses=,HelpMessage="WorldStatic object that blocks all actors by default. All new custom channels will use its own default response. ")
-Windows.Engine:/Script/Engine.CollisionProfile:Profiles:2=(Name="OverlapAll",CollisionEnabled=QueryOnly,bCanModify=False,ObjectTypeName="WorldStatic",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility",Response=ECR_Overlap),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap)),HelpMessage="WorldStatic object that overlaps all actors by default. All new custom channels will use its own default response. ")
-Windows.Engine:/Script/Engine.CollisionProfile:Profiles:3=(Name="BlockAllDynamic",CollisionEnabled=QueryAndPhysics,bCanModify=False,ObjectTypeName="WorldDynamic",CustomResponses=,HelpMessage="WorldDynamic object that blocks all actors by default. All new custom channels will use its own default response. ")
-Windows.Engine:/Script/Engine.CollisionProfile:Profiles:4=(Name="OverlapAllDynamic",CollisionEnabled=QueryOnly,bCanModify=False,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility",Response=ECR_Overlap),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap)),HelpMessage="WorldDynamic object that overlaps all actors by default. All new custom channels will use its own default response. ")
-Windows.Engine:/Script/Engine.CollisionProfile:Profiles:5=(Name="IgnoreOnlyPawn",CollisionEnabled=QueryOnly,bCanModify=False,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="Pawn",Response=ECR_Ignore),(Channel="Vehicle",Response=ECR_Ignore)),HelpMessage="WorldDynamic object that ignores Pawn and Vehicle. All other channels will be set to default.")
-Windows.Engine:/Script/Engine.CollisionProfile:Profiles:6=(Name="OverlapOnlyPawn",CollisionEnabled=QueryOnly,bCanModify=False,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="Pawn",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Ignore)),HelpMessage="WorldDynamic object that overlaps Pawn, Camera, and Vehicle. All other channels will be set to default. ")
-Windows.Engine:/Script/Engine.CollisionProfile:Profiles:7=(Name="Pawn",CollisionEnabled=QueryAndPhysics,bCanModify=False,ObjectTypeName="Pawn",CustomResponses=((Channel="Visibility",Response=ECR_Ignore)),HelpMessage="Pawn object. Can be used for capsule of any playerable character or AI. ")
-Windows.Engine:/Script/Engine.CollisionProfile:Profiles:8=(Name="Spectator",CollisionEnabled=QueryOnly,bCanModify=False,ObjectTypeName="Pawn",CustomResponses=((Channel="WorldStatic"),(Channel="Pawn",Response=ECR_Ignore),(Channel="Visibility",Response=ECR_Ignore),(Channel="WorldDynamic",Response=ECR_Ignore),(Channel="Camera",Response=ECR_Ignore),(Channel="PhysicsBody",Response=ECR_Ignore),(Channel="Vehicle",Response=ECR_Ignore),(Channel="Destructible",Response=ECR_Ignore)),HelpMessage="Pawn object that ignores all other actors except WorldStatic.")
-Windows.Engine:/Script/Engine.CollisionProfile:Profiles:9=(Name="CharacterMesh",CollisionEnabled=QueryOnly,bCanModify=False,ObjectTypeName="Pawn",CustomResponses=((Channel="Pawn",Response=ECR_Ignore),(Channel="Vehicle",Response=ECR_Ignore),(Channel="Visibility",Response=ECR_Ignore)),HelpMessage="Pawn object that is used for Character Mesh. All other channels will be set to default.")
-Windows.Engine:/Script/Engine.CollisionProfile:Profiles:10=(Name="PhysicsActor",CollisionEnabled=QueryAndPhysics,bCanModify=False,ObjectTypeName="PhysicsBody",CustomResponses=,HelpMessage="Simulating actors")
-Windows.Engine:/Script/Engine.CollisionProfile:Profiles:11=(Name="Destructible",CollisionEnabled=QueryAndPhysics,bCanModify=False,ObjectTypeName="Destructible",CustomResponses=,HelpMessage="Destructible actors")
-Windows.Engine:/Script/Engine.CollisionProfile:Profiles:12=(Name="InvisibleWall",CollisionEnabled=QueryAndPhysics,bCanModify=False,ObjectTypeName="WorldStatic",CustomResponses=((Channel="Visibility",Response=ECR_Ignore)),HelpMessage="WorldStatic object that is invisible.")
-Windows.Engine:/Script/Engine.CollisionProfile:Profiles:13=(Name="InvisibleWallDynamic",CollisionEnabled=QueryAndPhysics,bCanModify=False,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="Visibility",Response=ECR_Ignore)),HelpMessage="WorldDynamic object that is invisible.")
-Windows.Engine:/Script/Engine.CollisionProfile:Profiles:14=(Name="Trigger",CollisionEnabled=QueryOnly,bCanModify=False,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility",Response=ECR_Ignore),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap)),HelpMessage="WorldDynamic object that is used for trigger. All other channels will be set to default.")
-Windows.Engine:/Script/Engine.CollisionProfile:Profiles:15=(Name="Ragdoll",CollisionEnabled=QueryAndPhysics,bCanModify=False,ObjectTypeName="PhysicsBody",CustomResponses=((Channel="Pawn",Response=ECR_Ignore),(Channel="Visibility",Response=ECR_Ignore)),HelpMessage="Simulating Skeletal Mesh Component. All other channels will be set to default.")
-Windows.Engine:/Script/Engine.CollisionProfile:Profiles:16=(Name="Vehicle",CollisionEnabled=QueryAndPhysics,bCanModify=False,ObjectTypeName="Vehicle",CustomResponses=,HelpMessage="Vehicle object that blocks Vehicle, WorldStatic, and WorldDynamic. All other channels will be set to default.")
-Windows.Engine:/Script/Engine.CollisionProfile:Profiles:17=(Name="UI",CollisionEnabled=QueryOnly,bCanModify=False,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility"),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap)),HelpMessage="WorldStatic object that overlaps all actors by default. All new custom channels will use its own default response. ")
-Windows.Engine:/Script/Engine.CollisionProfile:DefaultChannelResponses:0=(Channel=ECC_GameTraceChannel1,DefaultResponse=ECR_Block,bTraceType=False,bStaticObject=False,Name="Projectile")
 Windows.Engine:/Script/Engine.CollisionProfile:ProfileRedirects:0=(OldName="BlockingVolume",NewName="InvisibleWall")
 Windows.Engine:/Script/Engine.CollisionProfile:ProfileRedirects:1=(OldName="InterpActor",NewName="IgnoreOnlyPawn")
 Windows.Engine:/Script/Engine.CollisionProfile:ProfileRedirects:2=(OldName="StaticMeshComponent",NewName="BlockAllDynamic")
@@ -1061,6 +1071,7 @@ Windows.Engine:/Script/Engine.CollisionProfile:CollisionChannelRedirects:0=(OldN
 Windows.Engine:/Script/Engine.CollisionProfile:CollisionChannelRedirects:1=(OldName="Dynamic",NewName="WorldDynamic")
 Windows.Engine:/Script/Engine.CollisionProfile:CollisionChannelRedirects:2=(OldName="VehicleMovement",NewName="Vehicle")
 Windows.Engine:/Script/Engine.CollisionProfile:CollisionChannelRedirects:3=(OldName="PawnMovement",NewName="Pawn")
+Windows.Engine:/Script/Engine.CollisionProfile:DefaultChannelResponses:0=(Channel=ECC_GameTraceChannel1,DefaultResponse=ECR_Block,bTraceType=False,bStaticObject=False,Name="Projectile")
 Windows.Engine:Engine.BufferVisualizationMaterials:BaseColor:0=(Material="/Engine/BufferVisualization/BaseColor.BaseColor", Name=LOCTEXT("BaseColorMat", "Base Color"))
 Windows.Engine:Engine.BufferVisualizationMaterials:CustomDepth:0=(Material="/Engine/BufferVisualization/CustomDepth.CustomDepth", Name=LOCTEXT("BaseCustomDepthMat", "Custom Depth"))
 Windows.Engine:Engine.BufferVisualizationMaterials:CustomStencil:0=(Material="/Engine/BufferVisualization/CustomStencil.CustomStencil", Name=LOCTEXT("BaseCustomStencilMat", "Custom Stencil"))
@@ -1421,6 +1432,7 @@ Windows.Engine:/Script/AppleARKit.AppleARKitSettings:bEnableLiveLinkForFaceTrack
 Windows.Engine:/Script/AppleARKit.AppleARKitSettings:LiveLinkPublishingPort:0=11111
 Windows.Engine:/Script/AppleARKit.AppleARKitSettings:bRequireDeviceSupportsARKit:0=true
 Windows.Engine:/Script/Engine.RendererSettings:r.GPUCrashDebugging:0=false
+Windows.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.AutoExposure:0=False
 Windows.Engine:Messaging:bAllowDelayedMessaging:0=false
 Windows.Engine:RemoteSession:ChannelRedirects:0=(OldName=FRemoteSessionFrameBufferChannel,NewName=FRemoteSessionFrameBufferChannel_DEPRECATED)
 Windows.Engine:/Script/ChaosSolverEngine.ChaosSolverSettings:DefaultChaosSolverActorClass:0=/Script/ChaosSolverEngine.ChaosSolverActor
@@ -1463,30 +1475,22 @@ Windows.Engine:InstalledPlatforms:InstalledPlatformConfigurations:32=(PlatformNa
 Windows.Engine:InstalledPlatforms:InstalledPlatformConfigurations:33=(PlatformName="Lumin", Configuration="Development", PlatformType="Game", RequiredFile="Engine\Binaries\Lumin\UE4Game.target", ProjectType="Any", bCanBeDisplayed=False)
 Windows.Engine:InstalledPlatforms:InstalledPlatformConfigurations:34=(PlatformName="Lumin", Configuration="Shipping", PlatformType="Game", RequiredFile="Engine\Binaries\Lumin\UE4Game-Lumin-Shipping.target", ProjectType="Any", bCanBeDisplayed=False)
 Windows.Engine:Analytics:UE4TypeOverride:0=Rocket
-Windows.Engine:/Script/HardwareTargeting.HardwareTargetingSettings:TargetedHardwareClass:0=Desktop
-Windows.Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedTargetedHardwareClass:0=Desktop
-Windows.Engine:/Script/HardwareTargeting.HardwareTargetingSettings:DefaultGraphicsPerformance:0=Maximum
-Windows.Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedDefaultGraphicsPerformance:0=Maximum
 Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
 Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/Levels/MainMenu.MainMenu
 Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
-Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/Blueprints/Mechanic_Test.Mechanic_Test_C
-Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultServerGameMode:0=None
+Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/Blueprints/Gamemodes/Mechanic_Test.Mechanic_Test_C
 Android.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
 Android.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/Levels/MainMenu.MainMenu
 Android.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
-Android.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/Blueprints/Mechanic_Test.Mechanic_Test_C
-Android.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultServerGameMode:0=None
+Android.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/Blueprints/Gamemodes/Mechanic_Test.Mechanic_Test_C
 IOS.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
 IOS.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/Levels/MainMenu.MainMenu
 IOS.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
-IOS.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/Blueprints/Mechanic_Test.Mechanic_Test_C
-IOS.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultServerGameMode:0=None
+IOS.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/Blueprints/Gamemodes/Mechanic_Test.Mechanic_Test_C
 Linux.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
 Linux.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/Levels/MainMenu.MainMenu
 Linux.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
-Linux.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/Blueprints/Mechanic_Test.Mechanic_Test_C
-Linux.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultServerGameMode:0=None
+Linux.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/Blueprints/Gamemodes/Mechanic_Test.Mechanic_Test_C
 Windows.Input:/Script/Engine.InputSettings:DefaultTouchInterface:0=/Engine/MobileResources/HUD/DefaultVirtualJoysticks.DefaultVirtualJoysticks
 Windows.Input:/Script/Engine.InputSettings:bEnableMouseSmoothing:0=True
 Windows.Input:/Script/Engine.InputSettings:bEnableFOVScaling:0=True
@@ -1861,7 +1865,7 @@ Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCVarColor:0=(B=
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteFadedColor:0=(R=100,G=100,B=100,A=255)
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/crono/Desktop")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="D/Build")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
