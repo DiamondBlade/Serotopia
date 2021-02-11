@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 02/09/21 21:32:06
+=======
+﻿Log file open, 02/10/21 19:38:48
+>>>>>>> parent of ead91cc (Source control tech support part 2)
 =======
 ﻿Log file open, 02/10/21 19:38:48
 >>>>>>> parent of ead91cc (Source control tech support part 2)
@@ -9,7 +13,11 @@ LogInit: Display: Running engine for game: Serotopia
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogStats: Stats thread started at 0.273124
+=======
+LogStats: Stats thread started at 0.466724
+>>>>>>> parent of ead91cc (Source control tech support part 2)
 =======
 LogStats: Stats thread started at 0.466724
 >>>>>>> parent of ead91cc (Source control tech support part 2)
@@ -45,7 +53,10 @@ LogPluginManager: Mounting plugin FacialAnimation
 LogPluginManager: Mounting plugin GameplayTagsEditor
 LogPluginManager: Mounting plugin GeometryMode
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin MacGraphicsSwitching
+=======
+>>>>>>> parent of ead91cc (Source control tech support part 2)
 =======
 >>>>>>> parent of ead91cc (Source control tech support part 2)
 LogPluginManager: Mounting plugin MaterialAnalyzer
@@ -65,6 +76,10 @@ LogPluginManager: Mounting plugin ChaosClothEditor
 LogPluginManager: Mounting plugin ChaosEditor
 LogPluginManager: Mounting plugin ChaosNiagara
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+LogPluginManager: Mounting plugin LightPropagationVolume
+>>>>>>> parent of ead91cc (Source control tech support part 2)
 =======
 LogPluginManager: Mounting plugin LightPropagationVolume
 >>>>>>> parent of ead91cc (Source control tech support part 2)
@@ -73,7 +88,10 @@ LogPluginManager: Mounting plugin CharacterAI
 LogPluginManager: Mounting plugin GeometryCache
 LogPluginManager: Mounting plugin GeometryProcessing
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin GeometryCollectionPlugin
+=======
+>>>>>>> parent of ead91cc (Source control tech support part 2)
 =======
 >>>>>>> parent of ead91cc (Source control tech support part 2)
 LogPluginManager: Mounting plugin MotoSynth
@@ -97,6 +115,11 @@ LogPluginManager: Mounting plugin MediaPlayerEditor
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+>>>>>>> parent of ead91cc (Source control tech support part 2)
 =======
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
@@ -133,7 +156,10 @@ LogPluginManager: Mounting plugin MobilePatchingUtils
 LogPluginManager: Mounting plugin PhysXVehicles
 LogPluginManager: Mounting plugin PostSplashScreen
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of ead91cc (Source control tech support part 2)
 LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin ProceduralMeshComponent
 >>>>>>> parent of ead91cc (Source control tech support part 2)
@@ -237,6 +263,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2021.02.10-02.32.06:911][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.02.10-02.32.06:911][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -1855,6 +1882,8 @@ Make sure 'HUD6' has been compiled for  Get MaxRed
 [2021.02.10-02.33.58:747][693]LogExit: Exiting.
 [2021.02.10-02.33.58:757][693]Log file closed, 02/09/21 21:33:58
 =======
+=======
+>>>>>>> parent of ead91cc (Source control tech support part 2)
 [2021.02.11-00.38.48:564][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.02.11-00.38.48:564][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.02.11-00.38.48:564][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Serotopia/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
@@ -3713,4 +3742,7 @@ Make sure 'HUD6' has been compiled for  Get MaxRed
 [2021.02.11-00.41.06:620][980]LogD3D11RHI: CleanupD3DDevice
 [2021.02.11-00.41.06:630][980]LogExit: Exiting.
 [2021.02.11-00.41.06:643][980]Log file closed, 02/10/21 19:41:06
+<<<<<<< HEAD
+>>>>>>> parent of ead91cc (Source control tech support part 2)
+=======
 >>>>>>> parent of ead91cc (Source control tech support part 2)
