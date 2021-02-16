@@ -1,0 +1,1367 @@
+﻿Log file open, 02/15/21 21:14:49
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Serotopia
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.181968
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080 Ti
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=xxdylanxxfire -epicuserid=2ab0aa3f33d84bb59ca7959d99cc9546 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.02.16-02.14.49:890][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.02.16-02.14.49:890][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.02.16-02.14.49:890][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.02.16-02.14.49:899][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.16-02.14.49:899][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.02.16-02.14.49:900][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.16-02.14.49:900][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.02.16-02.14.49:900][  0]LogHAL: Display: Platform has ~ 32 GB [34287927296 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.02.16-02.14.49:900][  0]LogInit: Going up to parent DeviceProfile []
+[2021.02.16-02.14.49:900][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.02.16-02.14.49:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.16-02.14.49:901][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.16-02.14.49:901][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.16-02.14.49:901][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.02.16-02.14.49:901][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.16-02.14.49:901][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.02.16-02.14.49:901][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.16-02.14.49:901][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.16-02.14.49:901][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.16-02.14.49:901][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.16-02.14.49:901][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.16-02.14.49:901][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.16-02.14.49:901][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.16-02.14.49:901][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.02.16-02.14.49:901][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.02.16-02.14.49:901][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.02.16-02.14.49:901][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.02.16-02.14.49:901][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.02.16-02.14.49:901][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.02.16-02.14.49:901][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.02.16-02.14.49:901][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.02.16-02.14.49:901][  0]LogInit: Computer: DESKTOP-OI1CD0P
+[2021.02.16-02.14.49:901][  0]LogInit: User: crono
+[2021.02.16-02.14.49:901][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.02.16-02.14.49:901][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.02.16-02.14.49:901][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.02.16-02.14.49:901][  0]LogMemory: Platform Memory Stats for Windows
+[2021.02.16-02.14.49:901][  0]LogMemory: Process Physical Memory: 138.77 MB used, 138.77 MB peak
+[2021.02.16-02.14.49:901][  0]LogMemory: Process Virtual Memory: 111.27 MB used, 111.27 MB peak
+[2021.02.16-02.14.49:901][  0]LogMemory: Physical Memory: 14582.99 MB used,  18116.52 MB free, 32699.52 MB total
+[2021.02.16-02.14.49:901][  0]LogMemory: Virtual Memory: 134209984.00 MB used,  7740.70 MB free, 134217728.00 MB total
+[2021.02.16-02.14.49:904][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.02.16-02.14.49:930][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.02.16-02.14.49:931][  0]LogInit: Using OS detected language (en-US).
+[2021.02.16-02.14.49:931][  0]LogInit: Using OS detected locale (en-US).
+[2021.02.16-02.14.49:933][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.02.16-02.14.50:062][  0]LogInit: Setting process to per monitor DPI aware
+[2021.02.16-02.14.50:071][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.16-02.14.50:091][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.02.16-02.14.50:091][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.02.16-02.14.50:184][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.16-02.14.50:184][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.02.16-02.14.50:184][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.02.16-02.14.50:184][  0]LogD3D11RHI: D3D11 adapters:
+[2021.02.16-02.14.50:290][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2021.02.16-02.14.50:290][  0]LogD3D11RHI:       11048/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.02.16-02.14.50:291][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.02.16-02.14.50:291][  0]LogD3D11RHI:       0/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.02.16-02.14.50:291][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.02.16-02.14.50:297][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.02.16-02.14.50:297][  0]LogD3D11RHI:     GPU DeviceId: 0x1e07 (for the marketing name, search the web for "GPU Device Id")
+[2021.02.16-02.14.50:297][  0]LogWindows: EnumDisplayDevices:
+[2021.02.16-02.14.50:297][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:1)
+[2021.02.16-02.14.50:297][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 Ti' (P:1 D:1)
+[2021.02.16-02.14.50:297][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2021.02.16-02.14.50:298][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2021.02.16-02.14.50:298][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.02.16-02.14.50:298][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Ti
+[2021.02.16-02.14.50:298][  0]LogD3D11RHI:   Driver Version: 460.79 (internal:27.21.14.6079, unified:460.79)
+[2021.02.16-02.14.50:298][  0]LogD3D11RHI:      Driver Date: 12-3-2020
+[2021.02.16-02.14.50:298][  0]LogRHI: Texture pool is 7733 MB (70% of 11048 MB)
+[2021.02.16-02.14.50:362][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.02.16-02.14.50:362][  0]LogD3D11RHI: Async texture creation enabled
+[2021.02.16-02.14.50:362][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.02.16-02.14.50:381][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.02.16-02.14.50:382][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.02.16-02.14.50:575][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.02.16-02.14.50:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.02.16-02.14.50:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.02.16-02.14.50:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.02.16-02.14.50:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.02.16-02.14.50:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.02.16-02.14.50:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.02.16-02.14.50:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.02.16-02.14.50:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.02.16-02.14.50:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.02.16-02.14.50:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.02.16-02.14.50:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.02.16-02.14.50:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.02.16-02.14.50:612][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.02.16-02.14.50:618][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.02.16-02.14.50:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.02.16-02.14.50:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.02.16-02.14.50:636][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.02.16-02.14.50:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.02.16-02.14.50:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.02.16-02.14.50:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.02.16-02.14.50:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.02.16-02.14.50:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.02.16-02.14.50:677][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.02.16-02.14.50:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.02.16-02.14.50:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.02.16-02.14.50:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.02.16-02.14.50:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.02.16-02.14.50:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.02.16-02.14.50:711][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.02.16-02.14.50:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.02.16-02.14.50:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.02.16-02.14.50:723][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.02.16-02.14.50:727][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.02.16-02.14.50:768][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.02.16-02.14.50:768][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Intermediate/Shaders/WorkingDirectory/23072/).
+[2021.02.16-02.14.50:768][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/crono/AppData/Local/Temp/UnrealShaderWorkingDir/D066E88544CB4A6C411C05B21E3C6CA5/'.
+[2021.02.16-02.14.50:768][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.02.16-02.14.50:768][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.02.16-02.14.51:339][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.02.16-02.14.51:375][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/crono/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.02.16-02.14.51:375][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/crono/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.02.16-02.14.51:375][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.02.16-02.14.51:375][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.02.16-02.14.51:375][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.16-02.14.51:375][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.02.16-02.14.51:384][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.02.16-02.14.51:384][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.16-02.14.51:384][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.02.16-02.14.51:392][  0]LogDerivedDataCache: Speed tests for C:/Users/crono/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.02.16-02.14.51:392][  0]LogDerivedDataCache: Display: Performance to C:/Users/crono/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=336.26MBs, RandomWriteSpeed=179.45MBs. Assigned SpeedClass 'Local'
+[2021.02.16-02.14.51:393][  0]LogDerivedDataCache: Using Local data cache path C:/Users/crono/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.02.16-02.14.51:393][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.02.16-02.14.51:393][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.02.16-02.14.51:430][  0]LogSlate: Using FreeType 2.10.0
+[2021.02.16-02.14.51:431][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.02.16-02.14.51:447][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2021.02.16-02.14.51:631][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.16-02.14.51:631][  0]LogInit: Active device profile: [0000026D99362200][0000026D97F0E8C0 49] Windows
+[2021.02.16-02.14.51:631][  0]LogInit: Profiles: [0000026D99362200][0000026D97F0E8C0 49] Windows, [0000026D9A2F2300][0000026D97F16A40 49] WindowsNoEditor, [0000026D99361600][0000026D97F1ABC0 49] WindowsServer, [0000026D9A2F1700][0000026D978A6D40 49] WindowsClient, [0000026D99363400][0000026D978AAEC0 49] IOS, [0000026D9A2F2400][0000026D978AF040 49] iPadAir, [0000026D99361400][0000026D978B31C0 49] iPadAir2, [0000026D9A299F00][0000026D978BB480 49] IPadPro, [0000026D9A29A000][0000026D978B74C0 49] iPadAir3, [0000026D9A2F1200][0000026D978BF640 49] iPadAir4, [0000026D9A29B800][0000026D97F13780 49] iPadMini2, [0000026D9A2F1F00][0000026D978C38C0 49] iPadMini3, [0000026D9A299500][0000026D978C7A00 49] iPadMini4, [0000026D9A2F1500][0000026D978CFB80 49] iPadMini5, [0000026D9A2C9700][0000026D978D6180 49] iPhone6, [0000026D9A2C9800][0000026D978D21C0 49] iPodTouch6, [0000026D9A29A700][0000026D978DE480 49] iPhone7, [0000026D9A29A600][0000026D978DA4C0 49] iPodTouch7, [0000026D9A2CAF00][0000026D978E2640 49] iPhone5S, [0000026D9A29B100][0000026D978E67C0 49] iPhone6Plus, [0000026D9A2CBF00][0000026D978EA940 49] iPhone6S, [0000026D9A298400][0000026D978EEAC0 49] iPhone6SPlus, [0000026D9A2C8700][0000026D97908C40 49] iPhone7Plus, [0000026D9A29AD00][0000026D9790CDC0 49] iPhoneSE, [0000026D9A2CAA00][0000026D97922F40 49] iPhone8, [0000026D9A298500][0000026D979330C0 49] iPhone8Plus, [0000026D9A2C9500][0000026D97937240 49] iPhoneX, [0000026D9A298B00][0000026D9793B3C0 49] iPhoneXS, [0000026D9A2CA400][0000026D9793F540 49] iPhoneXSMax, [0000026D9A299800][0000026D979436C0 49] iPhoneXR, [0000026D9A2C8B00][0000026D978CB800 49] iPhone11, [0000026D9A29B200][0000026D97947940 49] iPhone11Pro, [0000026D9A2CBB00][0000026D9794BA80 49] iPhone11ProMax, [0000026D9A298100][0000026D97953C00 49] iPhoneSE2, [0000026D9A2C8A00][0000026D979560C0 49] iPhone12Mini, [0000026D9A298C00][0000026D9795A240 49] iPhone12, [0000026D9A2CAD00][0000026D9795E3C0 49] iPhone12Pro, [0000026D99362900][0000026D97962540 49] iPhone12ProMax, [0000026D9A2C9400][0000026D979666C0 49] iPadPro105, [0000026D99361F00][0000026D9796A840 49] iPadPro129, [0000026D9A2CB800][0000026D9796E9C0 49] iPadPro97, [0000026D99360800][0000026D97972B40 49] iPadPro2_129, [0000026D9A2CB900][0000026D97976CC0 49] iPad5, [0000026D99362A00][0000026D9797EE40 49] iPad6, [0000026D9A2CAC00][0000026D97982FC0 49] iPad7, [0000026D99362100][0000026D97987140 49] iPad8, [0000026D9A2C8600][0000026D9798B2C0 49] iPadPro11, [0000026D99360300][0000026D9798F440 49] iPadPro2_11, [0000026D9A2C9A00][0000026D979935C0 49] iPadPro3_129, [0000026D99360E00][0000026D97997740 49] iPadPro4_129, [0000026D9A2C8500][0000026D9794F880 49] AppleTV, [0000026D99361000][0000026D9799B9C0 49] AppleTV4K, [0000026D9A2CA200][0000026D9799FB00 49] TVOS, [0000026D99362D00][0000026D979C3C40 49] Mac, [0000026D9A2CA700][0000026D979CA100 49] MacClient, [0000026D99360100][0000026D979D6280 49] MacNoEditor, [0000026D9A2CA500][0000026D979DA400 49] MacServer, [0000026D99360C00][0000026D979DE580 49] Linux, [0000026D9A2C9300][0000026D979E2700 49] LinuxNoEditor, [0000026D99360900][0000026D979E6880 49] LinuxAArch64NoEditor, [0000026D9A2C8E00][0000026D979EAA00 49] LinuxClient, [0000026D99362000][0000026D979EEB80 49] LinuxAArch64Client, [0000026D9A2C8300][0000026D979F2D00 49] LinuxServer, [0000026D99361700][0000026D979F6E80 49] LinuxAArch64Server, [0000026D9A2C9900][0000026D979FB000 49] Android, [0000026D99360700][0000026D979FF180 49] Android_Low, [0000026D9A2C8100][0000026D97A03300 49] Android_Mid, [0000026D99360D00][0000026D97A07480 49] Android_High, [0000026D9A2C9200][0000026D97A0B600 49] Android_Default, [0000026D99360200][0000026D97A0F780 49] Android_Adreno4xx, [0000026D9A2CA900][0000026D979C78C0 49] Android_Adreno5xx_Low, [0000026D99362E00][0000026D97A13A00 49] Android_Adreno5xx, [0000026D9A2C9C00][0000026D97A17B40 49] Android_Adreno6xx, [0000026D99362400][0000026D97A1BC80 49] Android_Adreno6xx_Vulkan, [0000026D9A2C8200][0000026D97A22140 49] Android_Mali_T6xx, [0000026D99361C00][0000026D97A262C0 49] Android_Mali_T7xx, [0000026D9A2CAB00][0000026D97A2A440 49] Android_Mali_T8xx, [0000026D99362F00][0000026D97A2E5C0 49] Android_Mali_G71, [0000026D9A2F3F00][0000026D97A32740 49] Android_Mali_G72, [0000026D9A298900][0000026D97A368C0 49] Android_Mali_G72_Vulkan, [0000026D9A2F2E00][0000026D97A3AA40 49] Android_Mali_G76, [0000026D9A29A500][0000026D97A3EBC0 49] Android_Mali_G76_Vulkan, [0000026D9A2F0900][0000026D97A42D40 49] Android_Mali_G77, [0000026D9A298600][0000026D97A46EC0 49] Android_Mali_G77_Vulkan, [0000026D9A2F0700][0000026D97A4B040 49] Android_Vulkan_SM5, [0000026D9A29B700][0000026D97A4F1C0 49] Android_PowerVR_G6xxx, [0000026D9A2F0B00][0000026D97A53340 49] Android_PowerVR_GT7xxx, [0000026D9A299D00][0000026D97A574C0 49] Android_PowerVR_GE8xxx, [0000026D9A2F2200][0000026D97A5B640 49] Android_PowerVR_GM9xxx, [0000026D9A298300][0000026D97A5F7C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000026D9A2F1400][0000026D97A63940 49] Android_TegraK1, [0000026D9A29A100][0000026D97A1FA80 49] Android_Unknown_Vulkan, [0000026D9A2F3000][0000026D97A67BC0 49] Lumin, [0000026D9A298F00][0000026D97A6BD00 49] Lumin_Desktop, [0000026D9A2F2700][0000026D97A721C0 49] HoloLens, 
+[2021.02.16-02.14.51:713][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.02.16-02.14.51:713][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.02.16-02.14.51:713][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.02.16-02.14.51:713][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.02.16-02.14.51:713][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.02.16-02.14.51:730][  0]LogNetVersion: Serotopia 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1805940841)
+[2021.02.16-02.14.52:040][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/Staircase.uasset has malformed tag
+[2021.02.16-02.14.52:040][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.02.16-02.14.52:092][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.051833 seconds
+[2021.02.16-02.14.52:097][  0]LogUObjectArray: 16836 objects as part of root set at end of initial load.
+[2021.02.16-02.14.52:097][  0]LogUObjectAllocator: 4210784 out of 0 bytes used by permanent object pool.
+[2021.02.16-02.14.52:097][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.02.16-02.14.52:356][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/BubbleTurbine/bubbleTurbine1.uasset has malformed tag
+[2021.02.16-02.14.52:356][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/BubbleTurbine/mat_BubbleTurbine.uasset has malformed tag
+[2021.02.16-02.14.52:356][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_House2/BH-Variation_1/Materials/BH_TopV1Mat.uasset has malformed tag
+[2021.02.16-02.14.52:356][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_House2/BH-Variation_1/Materials/BH_BaseV1Mat.uasset has malformed tag
+[2021.02.16-02.14.52:356][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_House2/BH-Variation_2/Materials/BH_BaseV2Mat.uasset has malformed tag
+[2021.02.16-02.14.52:356][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_House2/BH-Variation_2/Materials/BH_TopV2Mat.uasset has malformed tag
+[2021.02.16-02.14.52:356][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.02.16-02.14.52:359][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.02.16-02.14.52:487][  0]SourceControl: Source control is disabled
+[2021.02.16-02.14.52:791][  0]LogUProjectInfo: Found projects:
+[2021.02.16-02.14.52:901][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.02.16-02.14.52:915][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.16-02.14.52:915][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.16-02.14.52:947][  0]LogCollectionManager: Loaded 0 collections in 0.001029 seconds
+[2021.02.16-02.14.52:964][  0]LogFileCache: Scanning file cache for directory 'D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Collections/' took 0.00s
+[2021.02.16-02.14.52:964][  0]LogFileCache: Scanning file cache for directory 'D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Developers/crono/Collections/' took 0.00s
+[2021.02.16-02.14.52:964][  0]LogFileCache: Scanning file cache for directory 'D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Collections/' took 0.00s
+[2021.02.16-02.14.52:964][  0]LogOcInput: OculusInput pre-init called
+[2021.02.16-02.14.52:972][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.02.16-02.14.52:972][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.02.16-02.14.53:008][  0]LogEngine: Initializing Engine...
+[2021.02.16-02.14.53:009][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.16-02.14.53:009][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.02.16-02.14.53:010][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.02.16-02.14.53:092][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.02.16-02.14.53:097][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.02.16-02.14.53:106][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.02.16-02.14.53:109][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.02.16-02.14.53:109][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.02.16-02.14.53:109][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.16-02.14.53:109][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.16-02.14.53:109][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.16-02.14.53:109][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.16-02.14.53:109][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.16-02.14.53:109][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.16-02.14.53:109][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.16-02.14.53:109][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.16-02.14.53:109][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.16-02.14.53:109][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.16-02.14.53:119][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.16-02.14.53:119][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.02.16-02.14.53:143][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2021.02.16-02.14.53:147][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.16-02.14.53:148][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.16-02.14.53:148][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.16-02.14.53:149][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.16-02.14.53:149][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.16-02.14.53:149][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.16-02.14.53:150][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.16-02.14.53:150][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.16-02.14.53:150][  0]LogInit: FAudioDevice initialized.
+[2021.02.16-02.14.53:150][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.02.16-02.14.53:150][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.02.16-02.14.53:186][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/crono/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.02.16-02.14.53:190][  0]LogInit: Texture streaming: Enabled
+[2021.02.16-02.14.53:198][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.02.16-02.14.53:200][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.02.16-02.14.53:200][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.02.16-02.14.53:202][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.02.16-02.14.53:240][  0]LogInit: Transaction tracking system initialized
+[2021.02.16-02.14.53:254][  0]BlueprintLog: New page: Editor Load
+[2021.02.16-02.14.53:299][  0]LocalizationService: Localization service is disabled
+[2021.02.16-02.14.53:314][  0]TimingProfiler: Initialize
+[2021.02.16-02.14.53:315][  0]TimingProfiler: OnSessionChanged
+[2021.02.16-02.14.53:315][  0]LoadingProfiler: Initialize
+[2021.02.16-02.14.53:315][  0]LoadingProfiler: OnSessionChanged
+[2021.02.16-02.14.53:315][  0]NetworkingProfiler: Initialize
+[2021.02.16-02.14.53:315][  0]NetworkingProfiler: OnSessionChanged
+[2021.02.16-02.14.53:315][  0]MemoryProfiler: Initialize
+[2021.02.16-02.14.53:315][  0]MemoryProfiler: OnSessionChanged
+[2021.02.16-02.14.53:410][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.02.16-02.14.53:410][  0]LogCook: Display: Mobile HDR setting 1
+[2021.02.16-02.14.53:509][  0]LogFileCache: Scanning file cache for directory 'D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/' took 0.02s
+[2021.02.16-02.14.53:628][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.02.16-02.14.53:631][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.394
+[2021.02.16-02.14.53:631][  0]Cmd: MAP LOAD FILE="D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.16-02.14.53:631][  0]LightingResults: New page: Lighting Build
+[2021.02.16-02.14.53:631][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.02.16-02.14.53:631][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.16-02.14.53:631][  0]MapCheck: New page: Map Check
+[2021.02.16-02.14.53:631][  0]LightingResults: New page: Lighting Build
+[2021.02.16-02.14.53:707][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.02.16-02.14.53:735][  0]LogBlueprint: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\Settings.uasset: [Compiler] On Value Changed (Slider_2)  does not have a valid matching component!
+[2021.02.16-02.14.53:735][  0]LogBlueprint: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\Settings.uasset: [Compiler] On Clicked (Button_192)  does not have a valid matching component!
+[2021.02.16-02.14.53:735][  0]LogBlueprint: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\Settings.uasset: [Compiler] On Value Changed (Slider_1)  does not have a valid matching component!
+[2021.02.16-02.14.53:735][  0]LogBlueprint: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\Settings.uasset: [Compiler] On Value Changed (Slider)  does not have a valid matching component!
+[2021.02.16-02.14.53:737][  0]LogBlueprint: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\TestLevels.uasset: [Compiler] On Clicked (Button_192)  does not have a valid matching component!
+[2021.02.16-02.14.53:758][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.02.16-02.14.53:759][  0]LogAIModule: Creating AISystem for world MainMenu
+[2021.02.16-02.14.53:761][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.16-02.14.53:766][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.02.16-02.14.53:767][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.16-02.14.53:767][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.071ms to complete.
+[2021.02.16-02.14.53:767][  0]LogFileHelpers: Loading map 'MainMenu' took 0.137
+[2021.02.16-02.14.53:768][  0]LogUnrealEdMisc: Total Editor Startup Time, took 4.532
+[2021.02.16-02.14.53:914][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.16-02.14.53:919][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.16-02.14.53:924][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.16-02.14.53:929][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.16-02.14.53:938][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0068 seconds. Added 3601 classes and 859 folders.
+[2021.02.16-02.14.53:940][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.16-02.14.53:941][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.16-02.14.53:941][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:941][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.16-02.14.53:941][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.02.16-02.14.53:942][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.02.16-02.14.53:942][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:942][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.02.16-02.14.53:942][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.02.16-02.14.53:942][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.02.16-02.14.53:942][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:942][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.02.16-02.14.53:942][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.02.16-02.14.53:943][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.16-02.14.53:943][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:943][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.16-02.14.53:943][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.02.16-02.14.53:943][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.02.16-02.14.53:943][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:943][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.02.16-02.14.53:943][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.02.16-02.14.53:944][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.02.16-02.14.53:944][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:944][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.02.16-02.14.53:944][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.02.16-02.14.53:944][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.02.16-02.14.53:944][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:944][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.02.16-02.14.53:944][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.02.16-02.14.53:945][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.02.16-02.14.53:945][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:945][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.02.16-02.14.53:945][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.02.16-02.14.53:946][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.16-02.14.53:946][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:946][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.16-02.14.53:946][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.02.16-02.14.53:947][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.02.16-02.14.53:947][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:947][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.02.16-02.14.53:947][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.02.16-02.14.53:947][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.02.16-02.14.53:947][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:947][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.02.16-02.14.53:947][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.02.16-02.14.53:948][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.16-02.14.53:948][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:948][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.16-02.14.53:948][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.02.16-02.14.53:948][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.16-02.14.53:948][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:948][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.16-02.14.53:948][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.02.16-02.14.53:949][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.16-02.14.53:949][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:949][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.16-02.14.53:949][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.02.16-02.14.53:949][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.02.16-02.14.53:949][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:949][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.02.16-02.14.53:949][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.02.16-02.14.53:950][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.16-02.14.53:950][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:950][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.16-02.14.53:950][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.02.16-02.14.53:950][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.02.16-02.14.53:950][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:950][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.02.16-02.14.53:950][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.02.16-02.14.53:951][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.16-02.14.53:951][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:951][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.16-02.14.53:951][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.02.16-02.14.53:951][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.16-02.14.53:951][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:951][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.16-02.14.53:951][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.02.16-02.14.53:952][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.16-02.14.53:952][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:952][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.16-02.14.53:952][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.02.16-02.14.53:952][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.16-02.14.53:952][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:952][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.16-02.14.53:952][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.02.16-02.14.53:953][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.16-02.14.53:953][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:953][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.16-02.14.53:953][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.02.16-02.14.53:953][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.02.16-02.14.53:953][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:953][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.02.16-02.14.53:953][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.02.16-02.14.53:954][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.16-02.14.53:954][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:954][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.16-02.14.53:954][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.02.16-02.14.53:954][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.16-02.14.53:954][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:954][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.16-02.14.53:954][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.02.16-02.14.53:955][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.02.16-02.14.53:955][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.16-02.14.53:955][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.02.16-02.14.53:955][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.02.16-02.14.53:982][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.16-02.14.53:983][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.02.16-02.14.54:015][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.02.16-02.14.54:016][  0]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.02.16-02.14.54:019][  0]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.02.16-02.14.54:108][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2021.02.16-02.14.54:222][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.16-02.14.54:222][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.02.16-02.14.54:222][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.02.16-02.14.54:222][  0]LogLoad: (Engine Initialization) Total time: 4.99 seconds
+[2021.02.16-02.14.54:222][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.02.16-02.14.54:222][  0]LogInit: First time updating LLM stats...
+[2021.02.16-02.14.54:268][  0]LogAssetRegistry: Asset discovery search completed in 2.8220 seconds
+[2021.02.16-02.14.54:269][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.02.16-02.14.54:297][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.02.16-02.14.54:347][  4]LogSlate: Took 0.000090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.16-02.14.59:312][600]LogFileCache: Retrieving MD5 hashes for directory 'D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/' took 5.08s
+[2021.02.16-02.15.19:662][ 17]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.16-02.15.19:676][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.16-02.15.19:677][ 17]PIE: New page: PIE session: MainMenu (Feb 15, 2021, 4:15:19 PM)
+[2021.02.16-02.15.19:679][ 17]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.02.16-02.15.19:680][ 17]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.02.16-02.15.19:682][ 17]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2021.02.16-02.15.19:685][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003028s)
+[2021.02.16-02.15.19:687][ 17]LogAIModule: Creating AISystem for world MainMenu
+[2021.02.16-02.15.19:687][ 17]LogPlayLevel: PIE: World Init took: (0.001804s)
+[2021.02.16-02.15.19:688][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.005947s)
+[2021.02.16-02.15.19:692][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.02.16-02.15.19:694][ 17]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.02.16-02.15.19:694][ 17]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.16-02.15.19:694][ 17]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.16-02.15.19:694][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.16-02.15.19:694][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.16-02.15.19:694][ 17]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.16-02.15.19:694][ 17]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.16-02.15.19:694][ 17]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.16-02.15.19:694][ 17]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.16-02.15.19:694][ 17]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.16-02.15.19:694][ 17]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.16-02.15.19:697][ 17]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.16-02.15.19:697][ 17]LogAudioMixer: Display: 1: FrontRight
+[2021.02.16-02.15.19:706][ 17]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2021.02.16-02.15.19:706][ 17]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.16-02.15.19:706][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.16-02.15.19:706][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.16-02.15.19:707][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.16-02.15.19:707][ 17]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.16-02.15.19:707][ 17]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.16-02.15.19:718][ 17]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.16-02.15.19:718][ 17]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.16-02.15.19:718][ 17]LogInit: FAudioDevice initialized.
+[2021.02.16-02.15.19:718][ 17]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2021.02.16-02.15.19:767][ 17]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\Pause.uasset: Failed to load '/Game/Blueprints/UI/BouwsUnc_Font': Can't find file.
+[2021.02.16-02.15.19:767][ 17]LoadErrors: Failed to load /Game/Blueprints/UI/Widgets/Pause.Pause_C Referenced by Default__ThirdPersonCharacter_C
+[2021.02.16-02.15.19:768][ 17]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\Pause.uasset: Failed to load '/Game/Blueprints/UI/BouwsUnc_Font': Can't find file.
+[2021.02.16-02.15.19:768][ 17]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\Pause.uasset: Failed to load '/Game/Blueprints/UI/BouwsUnc_Font': Can't find file.
+[2021.02.16-02.15.19:768][ 17]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\Pause.uasset: Failed to load '/Game/Blueprints/UI/pause_menu': Can't find file.
+[2021.02.16-02.15.19:768][ 17]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\Pause.uasset: Failed to load '/Game/Blueprints/UI/pause_menu': Can't find file.
+[2021.02.16-02.15.19:768][ 17]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\Pause.uasset: Failed to load '/Game/Blueprints/UI/you_crazy_1': Can't find file.
+[2021.02.16-02.15.19:768][ 17]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\Pause.uasset: Failed to load '/Game/Blueprints/UI/you_crazy_1': Can't find file.
+[2021.02.16-02.15.19:768][ 17]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\Pause.uasset: Failed to load '/Game/Blueprints/UI/you_crazy_1': Can't find file.
+[2021.02.16-02.15.19:768][ 17]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\Pause.uasset: Failed to load '/Game/Blueprints/UI/pause_menu': Can't find file.
+[2021.02.16-02.15.19:769][ 17]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\PortalPaint\LightGreen.uasset: Failed to load '/Game/Blueprints/UI/pause_menu': Can't find file.
+[2021.02.16-02.15.19:769][ 17]LoadErrors: Failed to load /Game/Blueprints/UI/pause_menu.pause_menu Referenced by Image_292
+[2021.02.16-02.15.19:769][ 17]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\PortalPaint\LightGreen.uasset: Failed to load '/Game/Blueprints/UI/BouwsUnc_Font': Can't find file.
+[2021.02.16-02.15.19:769][ 17]LoadErrors: Failed to load /Game/Blueprints/UI/BouwsUnc_Font.BouwsUnc_Font Referenced by TextBlock
+[2021.02.16-02.15.19:769][ 17]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\PortalPaint\LightGreen.uasset: Failed to load '/Game/Blueprints/UI/BouwsUnc_Font': Can't find file.
+[2021.02.16-02.15.19:770][ 17]LoadErrors: Failed to load /Game/Blueprints/UI/BouwsUnc_Font.BouwsUnc_Font Referenced by TextBlock_195
+[2021.02.16-02.15.19:770][ 17]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\PortalPaint\LightGreen.uasset: Failed to load '/Game/Blueprints/UI/BouwsUnc_Font': Can't find file.
+[2021.02.16-02.15.19:770][ 17]LoadErrors: Failed to load /Game/Blueprints/UI/BouwsUnc_Font.BouwsUnc_Font Referenced by TextBlock_2
+[2021.02.16-02.15.19:770][ 17]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\PortalPaint\LightGreen.uasset: Failed to load '/Game/Blueprints/UI/BouwsUnc_Font': Can't find file.
+[2021.02.16-02.15.19:770][ 17]LoadErrors: Failed to load /Game/Blueprints/UI/BouwsUnc_Font.BouwsUnc_Font Referenced by TextBlock_3
+[2021.02.16-02.15.19:778][ 17]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\PortalPaint\LightGreen.uasset: Failed to load '/Game/Blueprints/UI/BouwsUnc_Font': Can't find file.
+[2021.02.16-02.15.19:778][ 17]LoadErrors: Failed to load /Game/Blueprints/UI/BouwsUnc_Font.BouwsUnc_Font Referenced by Default__ThirdPersonCharacter_C
+[2021.02.16-02.15.19:779][ 17]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\PortalPaint\LightGreen.uasset: Failed to load '/Game/Blueprints/UI/BouwsUnc_Font': Can't find file.
+[2021.02.16-02.15.19:779][ 17]LoadErrors: Failed to load /Game/Blueprints/UI/BouwsUnc_Font Referenced by Default__ThirdPersonCharacter_C
+[2021.02.16-02.15.19:779][ 17]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\PortalPaint\LightGreen.uasset: Failed to load '/Game/Blueprints/UI/pause_menu': Can't find file.
+[2021.02.16-02.15.19:779][ 17]LoadErrors: Failed to load /Game/Blueprints/UI/pause_menu Referenced by Default__ThirdPersonCharacter_C
+[2021.02.16-02.15.19:779][ 17]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\PortalPaint\LightGreen.uasset: Failed to load '/Game/Blueprints/UI/you_crazy_1': Can't find file.
+[2021.02.16-02.15.19:779][ 17]LoadErrors: Failed to load /Game/Blueprints/UI/you_crazy_1 Referenced by Default__ThirdPersonCharacter_C
+[2021.02.16-02.15.19:779][ 17]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\PortalPaint\LightGreen.uasset: Failed to load '/Game/Blueprints/UI/you_crazy_1': Can't find file.
+[2021.02.16-02.15.19:779][ 17]LoadErrors: Failed to load /Game/Blueprints/UI/you_crazy_1.you_crazy_1 Referenced by Default__ThirdPersonCharacter_C
+[2021.02.16-02.15.19:779][ 17]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\PortalPaint\LightGreen.uasset: Failed to load '/Game/Blueprints/UI/pause_menu': Can't find file.
+[2021.02.16-02.15.19:779][ 17]LoadErrors: Failed to load /Game/Blueprints/UI/pause_menu.pause_menu Referenced by Default__ThirdPersonCharacter_C
+[2021.02.16-02.15.19:780][ 17]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\PortalPaint\LightGreen.uasset: Failed to load '/Game/Blueprints/UI/you_crazy_1': Can't find file.
+[2021.02.16-02.15.19:780][ 17]LoadErrors: Failed to load /Game/Blueprints/UI/you_crazy_1.you_crazy_1 Referenced by K2Node_CallFunction_2
+[2021.02.16-02.15.19:931][ 17]LogBlueprint: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Decal1.uasset: [Compiler] On Component Begin Overlap (collider)  does not have a valid matching component!
+[2021.02.16-02.15.19:941][ 17]LogBlueprint: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Decal.uasset: [Compiler] On Component Begin Overlap (collider)  does not have a valid matching component!
+[2021.02.16-02.15.20:171][ 17]LogLoad: Game class is 'Mechanic_Test_C'
+[2021.02.16-02.15.20:180][ 17]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.02.15-21.15.20
+[2021.02.16-02.15.20:181][ 17]LogWorld: Bringing up level for play took: 0.001506
+[2021.02.16-02.15.20:182][ 17]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.02.16-02.15.20:192][ 17]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2021.02.16-02.15.20:222][ 17]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.02.16-02.15.20:222][ 17]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.02.16-02.15.20:222][ 17]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.02.16-02.15.20:223][ 17]PIE: Server logged in
+[2021.02.16-02.15.20:226][ 17]PIE: Play in editor total start time 0.554 seconds.
+[2021.02.16-02.15.21:562][166]LogNet: Browse: /Game/Levels/Forest
+[2021.02.16-02.15.21:563][166]LogLoad: LoadMap: /Game/Levels/Forest
+[2021.02.16-02.15.21:563][166]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2021.02.16-02.15.21:564][166]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.02.16-02.15.21:564][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.16-02.15.21:600][166]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.16-02.15.21:607][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.02.16-02.15.21:847][166]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\Forest.umap: Failed to load '/Game/Levels/Forest_BuiltData': Can't find file.
+[2021.02.16-02.15.21:847][166]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\Forest.umap: Failed to load '/Game/Levels/Forest_BuiltData': Can't find file.
+[2021.02.16-02.15.21:939][166]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\Forest.umap: Failed to load '/Game/Levels/Forest_BuiltData': Can't find file.
+[2021.02.16-02.15.21:993][166]LogLinker: Warning: Failed to load '/Game/Levels/Forest_BuiltData': Can't find file.
+[2021.02.16-02.15.21:993][166]LogLinker: Warning: Failed to load '/Game/Levels/Forest_BuiltData': Can't find file.
+[2021.02.16-02.15.22:111][166]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\Forest.umap: Failed to load '/Game/Levels/Forest_BuiltData': Can't find file.
+[2021.02.16-02.15.22:111][166]LoadErrors: Failed to load /Game/Levels/Forest_BuiltData.Forest_BuiltData Referenced by PersistentLevel
+[2021.02.16-02.15.22:959][166]LogAudio: Display: Audio Device (ID: 2) registered with world 'Forest'.
+[2021.02.16-02.15.22:960][166]LogAIModule: Creating AISystem for world Forest
+[2021.02.16-02.15.22:962][166]LogLoad: Game class is 'Mechanic_Test_C'
+[2021.02.16-02.15.22:988][166]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2021.02.15-21.15.22
+[2021.02.16-02.15.23:005][166]LogWorld: Bringing up level for play took: 0.042273
+[2021.02.16-02.15.23:016][166]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.23:017][166]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.23:017][166]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.23:017][166]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.23:017][166]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.23:017][166]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.23:017][166]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.02.16-02.15.23:017][166]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.02.16-02.15.23:018][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.16-02.15.23:019][166]LogLoad: Took 1.456082 seconds to LoadMap(/Game/Levels/Forest)
+[2021.02.16-02.15.23:077][167]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.23:077][167]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.23:078][167]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.23:078][167]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.23:078][167]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.23:078][167]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.23:175][170]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.23:175][170]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.23:175][170]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.23:175][170]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.23:175][170]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.23:175][170]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.23:256][176]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.23:257][176]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.23:257][176]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.23:257][176]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.23:257][176]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.23:257][176]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.23:358][187]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.23:358][187]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.23:358][187]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.23:358][187]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.23:358][187]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.23:358][187]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.23:461][199]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.23:461][199]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.23:461][199]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.23:461][199]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.23:462][199]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.23:462][199]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.23:567][211]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.23:567][211]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.23:568][211]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.23:568][211]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.23:568][211]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.23:568][211]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.23:668][223]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.23:668][223]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.23:668][223]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.23:668][223]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.23:668][223]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.23:668][223]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.23:768][235]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.23:768][235]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.23:768][235]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.23:768][235]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.23:768][235]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.23:768][235]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.23:850][245]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.02.16-02.15.23:850][245]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.02.16-02.15.23:850][245]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.02.16-02.15.23:854][245]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2021.02.16-02.15.23:869][245]LogSlate: Took 0.014351 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2021.02.16-02.15.25:685][463]LogNet: Browse: /Game/Levels/MainMenu
+[2021.02.16-02.15.25:685][463]LogLoad: LoadMap: /Game/Levels/MainMenu
+[2021.02.16-02.15.25:685][463]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Forest
+[2021.02.16-02.15.25:686][463]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2021.02.16-02.15.25:688][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.16-02.15.25:722][463]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.16-02.15.25:736][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.02.16-02.15.25:738][463]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2021.02.16-02.15.25:739][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000867s)
+[2021.02.16-02.15.25:740][463]LogAIModule: Creating AISystem for world MainMenu
+[2021.02.16-02.15.25:740][463]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2021.02.16-02.15.25:740][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.001729s)
+[2021.02.16-02.15.25:740][463]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2021.02.16-02.15.25:740][463]LogLoad: Game class is 'Mechanic_Test_C'
+[2021.02.16-02.15.25:741][463]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.02.15-21.15.25
+[2021.02.16-02.15.25:741][463]LogWorld: Bringing up level for play took: 0.000189
+[2021.02.16-02.15.25:741][463]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.02.16-02.15.25:743][463]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.02.16-02.15.25:743][463]LogLoad: Took 0.057441 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainMenu)
+[2021.02.16-02.15.27:298][649]LogNet: Browse: /Game/Levels/Forest
+[2021.02.16-02.15.27:298][649]LogLoad: LoadMap: /Game/Levels/Forest
+[2021.02.16-02.15.27:298][649]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2021.02.16-02.15.27:299][649]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.02.16-02.15.27:299][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.16-02.15.27:341][649]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.16-02.15.27:342][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.02.16-02.15.27:346][649]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\Forest.umap: Failed to load '/Game/Levels/Forest_BuiltData': Can't find file.
+[2021.02.16-02.15.27:346][649]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\Forest.umap: Failed to load '/Game/Levels/Forest_BuiltData': Can't find file.
+[2021.02.16-02.15.27:346][649]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\Forest.umap: Failed to load '/Game/Levels/Forest_BuiltData': Can't find file.
+[2021.02.16-02.15.27:348][649]LogLinker: Warning: Failed to load '/Game/Levels/Forest_BuiltData': Can't find file.
+[2021.02.16-02.15.27:348][649]LogLinker: Warning: Failed to load '/Game/Levels/Forest_BuiltData': Can't find file.
+[2021.02.16-02.15.27:441][649]LogLinker: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\Forest.umap: Failed to load '/Game/Levels/Forest_BuiltData': Can't find file.
+[2021.02.16-02.15.27:578][649]LogAudio: Display: Audio Device (ID: 2) registered with world 'Forest'.
+[2021.02.16-02.15.27:579][649]LogAIModule: Creating AISystem for world Forest
+[2021.02.16-02.15.27:579][649]LogLoad: Game class is 'Mechanic_Test_C'
+[2021.02.16-02.15.27:599][649]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2021.02.15-21.15.27
+[2021.02.16-02.15.27:604][649]LogWorld: Bringing up level for play took: 0.023423
+[2021.02.16-02.15.27:607][649]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.27:607][649]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.27:607][649]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.27:607][649]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.27:607][649]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.27:607][649]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.27:607][649]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.02.16-02.15.27:607][649]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.02.16-02.15.27:608][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.16-02.15.27:608][649]LogLoad: Took 0.309654 seconds to LoadMap(/Game/Levels/Forest)
+[2021.02.16-02.15.27:622][650]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.27:622][650]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.27:622][650]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.27:622][650]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.27:622][650]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.27:622][650]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.27:727][661]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.27:727][661]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.27:727][661]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.27:727][661]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.27:727][661]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.27:727][661]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.27:826][673]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.27:826][673]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.27:826][673]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.27:826][673]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.27:826][673]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.27:826][673]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.27:937][682]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.27:937][682]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.27:937][682]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.27:937][682]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.27:937][682]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.27:937][682]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.28:044][688]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.28:044][688]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.28:044][688]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.28:044][688]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.28:044][688]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.28:044][688]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.28:145][698]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.28:145][698]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.28:145][698]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.28:145][698]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.28:145][698]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.28:145][698]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.28:254][709]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.28:254][709]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.28:254][709]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.28:254][709]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.28:254][709]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.28:254][709]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.28:363][719]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.28:363][719]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.28:363][719]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.28:363][719]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.28:363][719]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.28:363][719]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.28:463][731]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.28:463][731]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.28:463][731]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.28:463][731]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.28:463][731]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.28:463][731]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.28:563][743]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.28:563][743]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.28:563][743]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.28:563][743]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.28:563][743]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.28:563][743]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.28:663][755]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.28:663][755]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.28:663][755]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.28:663][755]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.28:663][755]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.28:663][755]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.28:763][767]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.28:764][767]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.28:764][767]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.28:764][767]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.28:764][767]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.28:764][767]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.28:865][779]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.28:865][779]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.28:865][779]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.28:865][779]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.28:865][779]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.28:865][779]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.28:965][791]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.28:965][791]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.28:965][791]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.28:965][791]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.28:965][791]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.28:965][791]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.29:065][803]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.29:065][803]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.29:065][803]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.29:065][803]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.29:065][803]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.29:065][803]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.29:165][815]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.29:165][815]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.29:165][815]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.29:165][815]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.29:165][815]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.29:165][815]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.29:264][827]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.29:264][827]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.29:264][827]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.29:264][827]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.29:264][827]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.29:264][827]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.29:364][839]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.29:364][839]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.29:364][839]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.29:364][839]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.29:364][839]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.29:364][839]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.29:464][851]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.29:464][851]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.29:464][851]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.29:464][851]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.29:465][851]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.29:465][851]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.29:564][863]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.29:564][863]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.29:564][863]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.29:564][863]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.29:564][863]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.29:565][863]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.29:664][875]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.29:664][875]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.29:664][875]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.29:664][875]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.29:664][875]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.29:665][875]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.29:764][887]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.29:765][887]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.29:765][887]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.29:765][887]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.29:765][887]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.29:765][887]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.29:864][899]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.29:864][899]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.29:864][899]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.29:864][899]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.29:864][899]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.29:864][899]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.29:964][911]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.29:964][911]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.29:965][911]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.29:965][911]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.29:965][911]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.29:965][911]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.30:064][923]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.30:064][923]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.30:064][923]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.30:064][923]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.30:064][923]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.30:064][923]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.30:164][935]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.30:164][935]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.30:164][935]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.30:164][935]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.30:164][935]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.30:165][935]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.30:264][947]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.30:264][947]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.30:264][947]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.30:264][947]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.30:264][947]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.30:264][947]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.30:364][959]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.30:364][959]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.30:364][959]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.30:364][959]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.30:364][959]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.30:364][959]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.30:464][971]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.30:464][971]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.30:464][971]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.30:464][971]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.30:464][971]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.30:464][971]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.30:565][983]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.30:565][983]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.30:565][983]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.30:565][983]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.30:565][983]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.30:565][983]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.30:664][995]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.30:664][995]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.30:664][995]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.30:664][995]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.30:665][995]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.30:665][995]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.30:730][  3]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.02.16-02.15.30:730][  3]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.02.16-02.15.30:730][  3]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.02.16-02.15.36:172][656]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.02.16-02.15.36:172][656]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.02.16-02.15.36:198][659]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.36:198][659]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.36:198][659]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.36:198][659]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.36:198][659]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.36:198][659]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.36:297][671]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.36:297][671]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.36:297][671]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.36:297][671]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.36:297][671]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.36:297][671]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.36:398][683]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.36:398][683]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.36:398][683]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.36:398][683]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.36:398][683]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.36:398][683]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.36:498][695]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.36:498][695]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.36:498][695]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.36:498][695]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.36:498][695]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.36:498][695]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.36:597][707]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.36:597][707]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.36:597][707]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.36:597][707]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.36:597][707]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.36:597][707]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.36:698][719]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.36:698][719]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.36:698][719]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.36:698][719]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.36:698][719]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.36:698][719]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.36:797][731]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.36:797][731]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.36:797][731]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.36:797][731]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.36:797][731]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.36:797][731]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.36:898][743]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.36:898][743]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.36:898][743]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.36:898][743]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.36:898][743]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.36:898][743]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.36:997][755]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.36:997][755]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.36:997][755]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.36:997][755]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.36:997][755]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.36:998][755]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.37:098][767]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.37:098][767]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.37:098][767]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.37:098][767]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.37:098][767]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.37:098][767]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.37:197][779]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.37:197][779]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.37:197][779]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.37:197][779]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.37:197][779]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.37:197][779]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.37:298][791]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.37:298][791]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.37:298][791]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.37:298][791]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.37:298][791]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.37:298][791]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.37:398][803]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.37:398][803]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.37:398][803]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.37:398][803]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.37:398][803]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.37:398][803]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.37:498][815]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.37:498][815]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.37:498][815]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.37:498][815]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.37:498][815]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.37:498][815]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.37:598][827]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.37:598][827]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.37:598][827]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.37:598][827]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.37:598][827]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.37:598][827]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.37:698][839]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.37:698][839]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.37:698][839]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.37:698][839]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.37:698][839]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.37:698][839]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.37:798][851]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.37:798][851]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.37:798][851]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.37:798][851]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.37:798][851]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.37:798][851]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.37:897][863]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.37:897][863]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.37:897][863]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.37:897][863]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.37:897][863]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.37:897][863]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.37:998][875]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.37:998][875]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.37:998][875]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.37:998][875]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.37:998][875]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.37:998][875]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.38:098][887]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.38:098][887]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.38:098][887]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.38:098][887]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.38:098][887]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.38:098][887]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.38:198][899]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.38:198][899]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.38:198][899]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.38:198][899]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.38:198][899]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.38:198][899]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.38:298][911]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.38:298][911]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.38:298][911]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.38:298][911]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.38:298][911]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.38:298][911]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.38:397][923]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.38:398][923]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.38:398][923]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.38:398][923]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.38:398][923]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.38:398][923]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.38:498][935]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.38:498][935]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.38:498][935]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.38:498][935]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.38:498][935]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.38:498][935]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.38:598][947]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome_C'!
+[2021.02.16-02.15.38:598][947]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush4/Mush4.Mush4_C'!
+[2021.02.16-02.15.38:598][947]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome_C'!
+[2021.02.16-02.15.38:598][947]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.38:598][947]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Spring_Gnome.Spring_Gnome_C'!
+[2021.02.16-02.15.38:598][947]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/MushroomBoys/Mush5/Mush5.Mush5_C'!
+[2021.02.16-02.15.38:653][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.16-02.15.38:653][947]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Forest
+[2021.02.16-02.15.38:654][947]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2021.02.16-02.15.38:656][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.16-02.15.38:666][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.16-02.15.38:670][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.16-02.15.38:674][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.16-02.15.38:677][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.16-02.15.38:678][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.16-02.15.38:694][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.02.16-02.15.38:720][948]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.02.16-02.15.45:200][693]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.16-02.15.45:225][693]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/Widgets/Pause.Pause
+[2021.02.16-02.15.45:306][693]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.02.16-02.15.46:328][693]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.16-02.16.20:723][765]LogSlate: Window 'Pause' being destroyed
+[2021.02.16-02.16.20:728][765]LogSlate: Window 'Pause' being destroyed
+[2021.02.16-02.16.20:766][765]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.02.16-02.16.20:766][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.16-02.16.20:776][765]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.02.16-02.16.20:776][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
