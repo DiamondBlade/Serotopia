@@ -1,0 +1,1110 @@
+﻿Log file open, 02/17/21 10:22:15
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Serotopia
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.179445
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080 Ti
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=xxdylanxxfire -epicuserid=2ab0aa3f33d84bb59ca7959d99cc9546 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.02.17-15.22.16:056][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.02.17-15.22.16:056][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.02.17-15.22.16:056][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.02.17-15.22.16:069][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.17-15.22.16:069][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.02.17-15.22.16:070][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.17-15.22.16:070][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.02.17-15.22.16:070][  0]LogHAL: Display: Platform has ~ 32 GB [34287927296 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.02.17-15.22.16:070][  0]LogInit: Going up to parent DeviceProfile []
+[2021.02.17-15.22.16:070][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.17-15.22.16:070][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.02.17-15.22.16:071][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.02.17-15.22.16:071][  0]LogInit: Computer: DESKTOP-OI1CD0P
+[2021.02.17-15.22.16:071][  0]LogInit: User: crono
+[2021.02.17-15.22.16:071][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.02.17-15.22.16:071][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.02.17-15.22.16:071][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.02.17-15.22.16:071][  0]LogMemory: Platform Memory Stats for Windows
+[2021.02.17-15.22.16:071][  0]LogMemory: Process Physical Memory: 138.61 MB used, 138.62 MB peak
+[2021.02.17-15.22.16:071][  0]LogMemory: Process Virtual Memory: 124.98 MB used, 124.98 MB peak
+[2021.02.17-15.22.16:071][  0]LogMemory: Physical Memory: 16691.21 MB used,  16008.30 MB free, 32699.52 MB total
+[2021.02.17-15.22.16:071][  0]LogMemory: Virtual Memory: 134212584.00 MB used,  5141.32 MB free, 134217728.00 MB total
+[2021.02.17-15.22.16:074][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.02.17-15.22.16:101][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.02.17-15.22.16:101][  0]LogInit: Using OS detected language (en-US).
+[2021.02.17-15.22.16:101][  0]LogInit: Using OS detected locale (en-US).
+[2021.02.17-15.22.16:103][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.02.17-15.22.16:238][  0]LogInit: Setting process to per monitor DPI aware
+[2021.02.17-15.22.16:253][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.17-15.22.16:280][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.02.17-15.22.16:280][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.02.17-15.22.16:376][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.17-15.22.16:376][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.02.17-15.22.16:376][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.02.17-15.22.16:376][  0]LogD3D11RHI: D3D11 adapters:
+[2021.02.17-15.22.16:467][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2021.02.17-15.22.16:467][  0]LogD3D11RHI:       11048/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.02.17-15.22.16:468][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.02.17-15.22.16:468][  0]LogD3D11RHI:       0/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.02.17-15.22.16:468][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.02.17-15.22.16:475][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.02.17-15.22.16:475][  0]LogD3D11RHI:     GPU DeviceId: 0x1e07 (for the marketing name, search the web for "GPU Device Id")
+[2021.02.17-15.22.16:475][  0]LogWindows: EnumDisplayDevices:
+[2021.02.17-15.22.16:475][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:1)
+[2021.02.17-15.22.16:475][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 Ti' (P:1 D:1)
+[2021.02.17-15.22.16:475][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2021.02.17-15.22.16:476][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2021.02.17-15.22.16:476][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.02.17-15.22.16:476][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Ti
+[2021.02.17-15.22.16:476][  0]LogD3D11RHI:   Driver Version: 460.79 (internal:27.21.14.6079, unified:460.79)
+[2021.02.17-15.22.16:476][  0]LogD3D11RHI:      Driver Date: 12-3-2020
+[2021.02.17-15.22.16:476][  0]LogRHI: Texture pool is 7733 MB (70% of 11048 MB)
+[2021.02.17-15.22.16:539][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.02.17-15.22.16:540][  0]LogD3D11RHI: Async texture creation enabled
+[2021.02.17-15.22.16:540][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.02.17-15.22.16:553][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.02.17-15.22.16:554][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.02.17-15.22.16:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.02.17-15.22.16:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.02.17-15.22.16:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.02.17-15.22.16:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.02.17-15.22.16:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.02.17-15.22.16:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.02.17-15.22.16:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.02.17-15.22.16:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.02.17-15.22.16:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.02.17-15.22.16:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.02.17-15.22.16:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.02.17-15.22.16:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.02.17-15.22.16:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.02.17-15.22.16:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.02.17-15.22.16:802][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.02.17-15.22.16:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.02.17-15.22.16:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.02.17-15.22.16:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.02.17-15.22.16:826][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.02.17-15.22.16:832][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.02.17-15.22.16:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.02.17-15.22.16:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.02.17-15.22.16:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.02.17-15.22.16:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.02.17-15.22.16:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.02.17-15.22.16:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.02.17-15.22.16:881][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.02.17-15.22.16:881][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.02.17-15.22.16:887][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.02.17-15.22.16:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.02.17-15.22.16:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.02.17-15.22.16:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.02.17-15.22.16:905][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.02.17-15.22.16:910][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.02.17-15.22.16:948][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.02.17-15.22.16:948][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Intermediate/Shaders/WorkingDirectory/26656/).
+[2021.02.17-15.22.16:948][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/crono/AppData/Local/Temp/UnrealShaderWorkingDir/1B8E41FB420BDF85B04E4CA994A809DA/'.
+[2021.02.17-15.22.16:948][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.02.17-15.22.16:948][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.02.17-15.22.17:521][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.02.17-15.22.17:558][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/crono/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.02.17-15.22.17:559][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/crono/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.02.17-15.22.17:559][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.02.17-15.22.17:559][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.02.17-15.22.17:559][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.17-15.22.17:559][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.02.17-15.22.17:568][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.02.17-15.22.17:568][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.17-15.22.17:568][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.02.17-15.22.17:578][  0]LogDerivedDataCache: Speed tests for C:/Users/crono/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.02.17-15.22.17:578][  0]LogDerivedDataCache: Display: Performance to C:/Users/crono/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=271.70MBs, RandomWriteSpeed=158.92MBs. Assigned SpeedClass 'Local'
+[2021.02.17-15.22.17:578][  0]LogDerivedDataCache: Using Local data cache path C:/Users/crono/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.02.17-15.22.17:578][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.02.17-15.22.17:578][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.02.17-15.22.17:616][  0]LogSlate: Using FreeType 2.10.0
+[2021.02.17-15.22.17:616][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.02.17-15.22.17:634][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2021.02.17-15.22.17:802][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Animation/AnimationBounce.uasset has malformed tag
+[2021.02.17-15.22.17:802][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Audio/SFX/Cues/SFX_Footstep_Sand_1_Cue.uasset has malformed tag
+[2021.02.17-15.22.17:802][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Animation/AnimationBounce_Anim.uasset has malformed tag
+[2021.02.17-15.22.17:802][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/PaintParticleActor_Blueprint.uasset has malformed tag
+[2021.02.17-15.22.17:802][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Audio/SFX/Cues/SFX_Footstep_Sand_3_Cue.uasset has malformed tag
+[2021.02.17-15.22.17:802][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Audio/SFX/Cues/SFX_Footstep_Sand_2_Cue.uasset has malformed tag
+[2021.02.17-15.22.17:802][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Audio/Music/TitleScreen.uasset has malformed tag
+[2021.02.17-15.22.17:802][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Audio/SFX/Cues/SFX_Footstep_Sand_4_Cue.uasset has malformed tag
+[2021.02.17-15.22.17:802][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.17-15.22.17:802][  0]LogInit: Active device profile: [000002210B6D2200][000002210949D500 49] Windows
+[2021.02.17-15.22.17:802][  0]LogInit: Profiles: [000002210B6D2200][000002210949D500 49] Windows, [000002210B666300][0000022108ECF640 49] WindowsNoEditor, [000002210B6D1600][0000022108ED3780 49] WindowsServer, [000002210B665700][0000022108ED78C0 49] WindowsClient, [000002210B6D3400][0000022108EDBA00 49] IOS, [000002210B666400][0000022108EE3B80 49] iPadAir, [000002210B6D1400][0000022108EE7D00 49] iPadAir2, [000002210B611F00][0000022108EEE300 49] IPadPro, [000002210B612000][0000022108EEA340 49] iPadAir3, [000002210B665200][0000022108EF24C0 49] iPadAir4, [000002210B613800][0000022108EF6640 49] iPadMini2, [000002210B665F00][0000022108EFA7C0 49] iPadMini3, [000002210B611500][0000022108EFE940 49] iPadMini4, [000002210B665500][0000022108F02AC0 49] iPadMini5, [000002210B629700][0000022108F0AD80 49] iPhone6, [000002210B629800][0000022108F06DC0 49] iPodTouch6, [000002210B612700][0000022108F13080 49] iPhone7, [000002210B612600][0000022108F0F0C0 49] iPodTouch7, [000002210B62AF00][0000022108F17240 49] iPhone5S, [000002210B613100][0000022108F1B3C0 49] iPhone6Plus, [000002210B62BF00][0000022108F1F540 49] iPhone6S, [000002210B610400][0000022108EDF680 49] iPhone6SPlus, [000002210B628700][0000022108F237C0 49] iPhone7Plus, [000002210B612D00][0000022108F27900 49] iPhoneSE, [000002210B62AA00][0000022108F2BA40 49] iPhone8, [000002210B610500][0000022108F33BC0 49] iPhone8Plus, [000002210B629500][0000022108F37D40 49] iPhoneX, [000002210B610B00][0000022108F3A200 49] iPhoneXS, [000002210B62A400][0000022108F3E380 49] iPhoneXSMax, [000002210B611800][0000022108F42500 49] iPhoneXR, [000002210B628B00][0000022108F46680 49] iPhone11, [000002210B613200][0000022108F4A800 49] iPhone11Pro, [000002210B62BB00][0000022108F4E980 49] iPhone11ProMax, [000002210B610100][0000022108F52B00 49] iPhoneSE2, [000002210B628A00][0000022108F56C80 49] iPhone12Mini, [000002210B610C00][0000022108F5AE00 49] iPhone12, [000002210B62AD00][0000022108F5EF80 49] iPhone12Pro, [000002210B6D2900][0000022108F63100 49] iPhone12ProMax, [000002210B629400][0000022108F67280 49] iPadPro105, [000002210B6D1F00][0000022108F6B400 49] iPadPro129, [000002210B62B800][0000022108F6F580 49] iPadPro97, [000002210B6D0800][0000022108F73700 49] iPadPro2_129, [000002210B62B900][0000022108F2F840 49] iPad5, [000002210B6D2A00][0000022108F77980 49] iPad6, [000002210B62AC00][0000022108F7BAC0 49] iPad7, [000002210B6D2100][0000022108F83C40 49] iPad8, [000002210B628600][0000022108F86100 49] iPadPro11, [000002210B6D0300][0000022108F8A280 49] iPadPro2_11, [000002210B629A00][0000022108F8E400 49] iPadPro3_129, [000002210B6D0E00][0000022108F92580 49] iPadPro4_129, [000002210B628500][0000022108F96700 49] AppleTV, [000002210B6D1000][0000022108F9A880 49] AppleTV4K, [000002210B62A200][0000022108F9EA00 49] TVOS, [000002210B6D2D00][0000022108FA2B80 49] Mac, [000002210B62A700][0000022108FA6D00 49] MacClient, [000002210B6D0100][0000022108FBCE80 49] MacNoEditor, [000002210B62A500][0000022108FC1000 49] MacServer, [000002210B6D0C00][0000022108FC5180 49] Linux, [000002210B629300][0000022108FC9300 49] LinuxNoEditor, [000002210B6D0900][0000022108FCD480 49] LinuxAArch64NoEditor, [000002210B628E00][0000022108FD1600 49] LinuxClient, [000002210B6D2000][0000022108FD5780 49] LinuxAArch64Client, [000002210B628300][0000022108F7F8C0 49] LinuxServer, [000002210B6D1700][0000022108FD9A00 49] LinuxAArch64Server, [000002210B629900][0000022108FDDB40 49] Android, [000002210B6D0700][0000022108FE5CC0 49] Android_Low, [000002210B628100][0000022108FE8180 49] Android_Mid, [000002210B6D0D00][0000022108FEC300 49] Android_High, [000002210B629200][0000022108FF0480 49] Android_Default, [000002210B6D0200][0000022108FF4600 49] Android_Adreno4xx, [000002210B62A900][0000022108FF8780 49] Android_Adreno5xx_Low, [000002210B6D2E00][0000022108FFC900 49] Android_Adreno5xx, [000002210B629C00][0000022109000A80 49] Android_Adreno6xx, [000002210B6D2400][0000022109004C00 49] Android_Adreno6xx_Vulkan, [000002210B628200][0000022109008D80 49] Android_Mali_T6xx, [000002210B6D1C00][000002210900CF00 49] Android_Mali_T7xx, [000002210B62AB00][0000022109011080 49] Android_Mali_T8xx, [000002210B6D2F00][0000022109015200 49] Android_Mali_G71, [000002210B667F00][0000022109019380 49] Android_Mali_G72, [000002210B610900][0000022109035500 49] Android_Mali_G72_Vulkan, [000002210B666E00][0000022109045680 49] Android_Mali_G76, [000002210B612500][0000022109049800 49] Android_Mali_G76_Vulkan, [000002210B664900][0000022108FE1940 49] Android_Mali_G77, [000002210B610600][000002210904DA80 49] Android_Mali_G77_Vulkan, [000002210B664700][0000022109051BC0 49] Android_Vulkan_SM5, [000002210B613700][0000022109055D00 49] Android_PowerVR_G6xxx, [000002210B664B00][000002210905C1C0 49] Android_PowerVR_GT7xxx, [000002210B611D00][0000022109060340 49] Android_PowerVR_GE8xxx, [000002210B666200][00000221090644C0 49] Android_PowerVR_GM9xxx, [000002210B610300][0000022109068640 49] Android_PowerVR_GM9xxx_Vulkan, [000002210B665400][000002210906C7C0 49] Android_TegraK1, [000002210B612100][0000022109070940 49] Android_Unknown_Vulkan, [000002210B667000][0000022109074AC0 49] Lumin, [000002210B610F00][0000022109078C40 49] Lumin_Desktop, [000002210B666700][000002210907CDC0 49] HoloLens, 
+[2021.02.17-15.22.17:831][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Audio/SFX/Cues/SFX_Water_Stream_Loop_Cue.uasset has malformed tag
+[2021.02.17-15.22.17:831][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Audio/SFX/Cues/SFX_Footstep_Sand_7_Cue.uasset has malformed tag
+[2021.02.17-15.22.17:831][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Audio/SFX/Cues/SFX_Footstep_Sand_5_Cue.uasset has malformed tag
+[2021.02.17-15.22.17:831][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Audio/SFX/Cues/SFX_Tree_Rustle_2_Cue.uasset has malformed tag
+[2021.02.17-15.22.17:831][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Audio/SFX/Cues/SFX_Stone_Sliding_Long_Cue.uasset has malformed tag
+[2021.02.17-15.22.17:831][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Audio/SFX/Cues/SFX_Tree_Rustle_1_Cue.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Audio/SFX/Cues/SFX_Footstep_Sand_6_Cue.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Audio/SFX/Cues/SFX_Stone_Sliding_Short_Cue.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/AO1E.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Axe/Axe_Forest_Low.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bathtub/BathtubBuilding.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/BaseOutLookingIn_Mat.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/BluePaintPickup_Actor.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/AOEWorks.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/BaseOutLookingIn.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/basic_color.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/disappear_cube.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/disappear_cube_blueprint.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/Goal.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/GreenPickup_Actor.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/LightPickupActor_Blueprint.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/GreenPickup_ActorRESPAWNABLE.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/LookingOutTowerBase.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/LookingOutTowerBaseMat.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/PaintBallStatic.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/PinkPickup_Actor.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/RedPickup_Actor.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/PinkPickup_ActorRESPAWNABLE1.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/StaircaseBP.uasset has malformed tag
+[2021.02.17-15.22.17:832][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.02.17-15.22.17:832][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.02.17-15.22.17:832][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.02.17-15.22.17:832][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/test.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/Staircase.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/seeableDisappear.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/test_Mat.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/TopLookingIn_Mat.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/TopLookingIn.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/TopLookingOut.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/UI/HUD3.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/UI/HUD.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/UI/HUD2.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/TopLookingOut_Mat.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/UI/HUD5.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/UI/CrosshairWid.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/UI/HUD4.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/UI/HUD6.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/UI/HUD7.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/UI/Pause.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/UI/MainMenu.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bridge/Bridge_Edge1.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/Bubbleopolis.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bridge/Bridge_Edge2.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bridge/Bridge_Middle.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bridge/DisappearBridge2.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bridge/DisappearBridge3.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bridge/DisappearBridge1.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bridge/DisappearBridge.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_Bridge_Positive.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_column1.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_column2.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_Center_walkway_positive1.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_column3.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_End_Pillar1.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_column4.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_End_Pillar10.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_End_Paved.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_End_Pillar11.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_End_Pillar2.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_End_Pillar3.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_End_Pillar5.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_End_Pillar8.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_End_Pillar6.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_End_Pillar4.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_End_Pillar7.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_End_Pillar9.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_Inner_wall_1.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_FountainMid.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_FountainTop.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_Inner_wall_3.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_Inner_wall_2.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_Main_Pillar1.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_Main_Pillar10.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_Main_Pillar11.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_Main_Pillar3.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_Main_Pillar2.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_Main_Pillar4.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_Main_Pillar5.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_Main_Pillar7.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_Main_Pillar6.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_pCylinder3.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_Main_Pillar8.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_Main_Wall_North.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_Main_Pillar9.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_polySurface11.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_polySurface5.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_Main_South_Wall.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_tower1.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_tower4.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_tower3.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_walkway1.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_tower2.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_st_area_ground.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_walkway11.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_walkway10.uasset has malformed tag
+[2021.02.17-15.22.17:903][  0]LogNetVersion: Serotopia 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1805940841)
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_walkway14.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_walkway12.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_walkway16.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_walkway13.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_walkway2.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_walkway5.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_walkway3.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_walkway6.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_walkway7.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_walkway9.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_Wall_End.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_column1.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/BubbleopolisV2_walkway8.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_column2.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_Center_walkway_positive1.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_Bridge_Positive.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_column3.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_column4.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_End_Grass.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_End_Paved.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_End_Pillar1.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_End_Pillar10.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_End_Pillar11.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_End_Pillar2.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_End_Pillar4.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_End_Pillar5.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_End_Pillar3.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_End_Pillar6.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_End_Pillar8.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_End_Pillar7.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_End_Pillar9.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_FountainMid.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_FountainTop.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_Inner_wall_1.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_Inner_wall_3.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_Inner_wall_2.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_Main_Pillar1.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_Main_Pillar11.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_Main_Pillar10.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_Main_Pillar3.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_Main_Pillar2.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_Main_Pillar4.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_Main_Pillar6.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_Main_Pillar5.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_Main_Pillar7.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_Main_Pillar8.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_Main_Pillar9.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_Main_Wall_North.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_Main_South_Wall.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_pCylinder3.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_polySurface11.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_polySurface5.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_st_area_ground.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_tower1.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_tower4.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_tower3.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_tower2.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_walkway10.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_walkway1.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_walkway11.uasset has malformed tag
+[2021.02.17-15.22.18:236][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_walkway13.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_walkway12.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_walkway14.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_walkway16.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_walkway3.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_walkway5.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_walkway2.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_walkway6.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_walkway8.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_walkway9.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_walkway7.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/Ground.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/fountain_top.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/Ground_Inst.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/pillar_side.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/pillar_top.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/lambert1.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/bubbleopolisV3_Wall_End.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/Ground1.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/StaticMesh.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/Tower_side.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/Walls_Bottom.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/Walkway.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/Tower_top.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/Walkway_sideing.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/walls_top.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/walls_side.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/waterway_bottom.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/waterway_side.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/Waterway_top.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/BubbleTurbine/mat_BubbleTurbine.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/BubbleTurbine/bubbleTurbine1.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_House2/BubbleHouse2_Blueprint.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/bubble_Street_Lights/StreetlampBP.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_House2/BH-Variation_2/Materials/BH_BaseV2Mat.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_House2/BH-Variation_1/Materials/BH_BaseV1Mat.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_House2/BH-Variation_1/Materials/BH_TopV1Mat.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Drawbridge/Drawbridge_non-animated_part_Bridge_LP_Combined_Inside_bridge_piece.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Drawbridge/Drawbridge_non-animated_part_Bridge_LP_Combined_Gate_opening.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_House2/BH-Variation_2/Materials/BH_TopV2Mat.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Drawbridge/Drawbridge_non-animated_part_Bridge_LP_Combined_Pillars.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Drawbridge/Drawbridge_non-animated_part_Bridge_LP_Combined_Stones_L.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Drawbridge/Drawbridge_non-animated_part_Bridge_LP_Combined_Stones_R.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/Plants/ReactivePlant.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_ToonShade_Inst.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_Cel_Inst.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_ToonShade.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/ParticleSystems/P_PaintSplat.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/PortalPaint/NewFolder/LightGreen1.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Player/PlayerCharacter.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Player/PlayerCharacterV9_lambert1_BaseColor_Mat_Inst.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Plants/ReactivePlant.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Sounds/Cues/SFX_Footstep_Sand_1_Cue.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Sounds/Cues/SFX_Footstep_Sand_4_Cue.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Sounds/Cues/SFX_Footstep_Sand_7_Cue.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Sounds/Cues/SFX_Stone_Sliding_Short_Cue.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Sounds/Cues/SFX_Footstep_Sand_2_Cue.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Sounds/Cues/SFX_Footstep_Sand_6_Cue.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Sounds/Cues/SFX_Tree_Rustle_1_Cue.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Sounds/Cues/SFX_Stone_Sliding_Long_Cue.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Sounds/Cues/SFX_Water_Stream_Loop_Cue.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Sounds/Cues/SFX_Tree_Rustle_2_Cue.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Sounds/Cues/SFX_Footstep_Sand_5_Cue.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Sounds/Cues/SFX_Footstep_Sand_3_Cue.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Trees/BigTree/BigTree.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogAssetRegistry: Error: Package D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Trees/BigTree/BigTree_Inst.uasset has malformed tag
+[2021.02.17-15.22.18:237][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.02.17-15.22.18:282][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.044178 seconds
+[2021.02.17-15.22.18:286][  0]LogUObjectArray: 16836 objects as part of root set at end of initial load.
+[2021.02.17-15.22.18:286][  0]LogUObjectAllocator: 4210784 out of 0 bytes used by permanent object pool.
+[2021.02.17-15.22.18:286][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.02.17-15.22.18:530][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.02.17-15.22.18:533][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.02.17-15.22.18:613][  0]SourceControl: Source control is disabled
+[2021.02.17-15.22.19:004][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.02.17-15.22.19:012][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.17-15.22.19:012][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.17-15.22.19:046][  0]LogUProjectInfo: Found projects:
+[2021.02.17-15.22.19:057][  0]LogCollectionManager: Loaded 0 collections in 0.001045 seconds
+[2021.02.17-15.22.19:074][  0]LogFileCache: Scanning file cache for directory 'D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Collections/' took 0.00s
+[2021.02.17-15.22.19:074][  0]LogFileCache: Scanning file cache for directory 'D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Developers/crono/Collections/' took 0.00s
+[2021.02.17-15.22.19:074][  0]LogFileCache: Scanning file cache for directory 'D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Collections/' took 0.00s
+[2021.02.17-15.22.19:074][  0]LogOcInput: OculusInput pre-init called
+[2021.02.17-15.22.19:082][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.02.17-15.22.19:082][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.02.17-15.22.19:117][  0]LogEngine: Initializing Engine...
+[2021.02.17-15.22.19:117][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.17-15.22.19:117][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.02.17-15.22.19:118][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.02.17-15.22.19:203][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.02.17-15.22.19:208][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.02.17-15.22.19:221][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.02.17-15.22.19:224][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.02.17-15.22.19:224][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.02.17-15.22.19:224][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.17-15.22.19:224][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.17-15.22.19:224][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.17-15.22.19:224][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.17-15.22.19:224][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.17-15.22.19:224][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.17-15.22.19:224][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.17-15.22.19:224][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.17-15.22.19:228][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.17-15.22.19:228][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.17-15.22.19:237][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.17-15.22.19:237][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.02.17-15.22.19:258][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2021.02.17-15.22.19:259][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.17-15.22.19:260][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.17-15.22.19:260][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.17-15.22.19:261][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.17-15.22.19:261][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.17-15.22.19:261][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.17-15.22.19:261][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.17-15.22.19:261][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.17-15.22.19:261][  0]LogInit: FAudioDevice initialized.
+[2021.02.17-15.22.19:262][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.02.17-15.22.19:262][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.02.17-15.22.19:298][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/crono/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.02.17-15.22.19:302][  0]LogInit: Texture streaming: Enabled
+[2021.02.17-15.22.19:310][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.02.17-15.22.19:312][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.02.17-15.22.19:312][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.02.17-15.22.19:314][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.02.17-15.22.19:355][  0]LogInit: Transaction tracking system initialized
+[2021.02.17-15.22.19:369][  0]BlueprintLog: New page: Editor Load
+[2021.02.17-15.22.19:412][  0]LocalizationService: Localization service is disabled
+[2021.02.17-15.22.19:427][  0]TimingProfiler: Initialize
+[2021.02.17-15.22.19:427][  0]TimingProfiler: OnSessionChanged
+[2021.02.17-15.22.19:427][  0]LoadingProfiler: Initialize
+[2021.02.17-15.22.19:428][  0]LoadingProfiler: OnSessionChanged
+[2021.02.17-15.22.19:428][  0]NetworkingProfiler: Initialize
+[2021.02.17-15.22.19:428][  0]NetworkingProfiler: OnSessionChanged
+[2021.02.17-15.22.19:428][  0]MemoryProfiler: Initialize
+[2021.02.17-15.22.19:428][  0]MemoryProfiler: OnSessionChanged
+[2021.02.17-15.22.19:517][  0]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.02.17-15.22.22:278][  0]LogSlate: Window 'Low drive space warning' being destroyed
+[2021.02.17-15.22.22:278][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.17-15.22.22:282][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.17-15.22.22:283][  0]Message dialog closed, result: Ok, title: Low drive space warning, text: The following drive locations have limited free space.
+It is recommended that you free some space to avoid issues such as crashed and data loss due to files not being able to be written and saved.
+
+  3,995 MB Free 		 C:/Program Files/UE_4.26/Engine/Binaries/Win64/
+ 				 The base engine directory. 
+
+[2021.02.17-15.22.22:345][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.02.17-15.22.22:345][  0]LogCook: Display: Mobile HDR setting 1
+[2021.02.17-15.22.22:443][  0]LogFileCache: Scanning file cache for directory 'D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/' took 0.02s
+[2021.02.17-15.22.22:566][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.02.17-15.22.22:568][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.181
+[2021.02.17-15.22.22:568][  0]Cmd: MAP LOAD FILE="D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.17-15.22.22:573][  0]LightingResults: New page: Lighting Build
+[2021.02.17-15.22.22:573][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-15.22.22:573][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-15.22.22:574][  0]MapCheck: New page: Map Check
+[2021.02.17-15.22.22:574][  0]LightingResults: New page: Lighting Build
+[2021.02.17-15.22.22:578][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.02.17-15.22.22:671][  0]LogBlueprint: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\Settings.uasset: [Compiler] On Value Changed (Slider_2)  does not have a valid matching component!
+[2021.02.17-15.22.22:671][  0]LogBlueprint: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\Settings.uasset: [Compiler] On Clicked (Button_192)  does not have a valid matching component!
+[2021.02.17-15.22.22:671][  0]LogBlueprint: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\Settings.uasset: [Compiler] On Value Changed (Slider_1)  does not have a valid matching component!
+[2021.02.17-15.22.22:671][  0]LogBlueprint: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\Settings.uasset: [Compiler] On Value Changed (Slider)  does not have a valid matching component!
+[2021.02.17-15.22.22:673][  0]LogBlueprint: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\TestLevels.uasset: [Compiler] On Clicked (Button_192)  does not have a valid matching component!
+[2021.02.17-15.22.22:707][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.02.17-15.22.22:708][  0]LogAIModule: Creating AISystem for world MainMenu
+[2021.02.17-15.22.22:714][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.17-15.22.22:718][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.02.17-15.22.22:719][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.17-15.22.22:720][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2021.02.17-15.22.22:720][  0]LogFileHelpers: Loading map 'MainMenu' took 0.151
+[2021.02.17-15.22.22:721][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.334
+[2021.02.17-15.22.22:857][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-15.22.22:862][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-15.22.22:867][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-15.22.22:872][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-15.22.22:885][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0066 seconds. Added 3601 classes and 859 folders.
+[2021.02.17-15.22.22:887][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.02.17-15.22.22:895][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.17-15.22.22:895][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.22:895][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.17-15.22.22:895][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.02.17-15.22.22:902][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.02.17-15.22.22:902][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.22:902][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.02.17-15.22.22:902][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.02.17-15.22.22:907][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.02.17-15.22.22:907][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.22:907][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.02.17-15.22.22:907][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.02.17-15.22.22:911][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.17-15.22.22:911][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.22:911][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.17-15.22.22:911][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.02.17-15.22.22:916][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.02.17-15.22.22:916][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.22:916][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.02.17-15.22.22:916][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.02.17-15.22.22:921][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.02.17-15.22.22:921][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.22:921][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.02.17-15.22.22:921][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.02.17-15.22.22:926][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.02.17-15.22.22:926][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.22:926][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.02.17-15.22.22:926][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.02.17-15.22.22:930][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.02.17-15.22.22:930][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.22:930][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.02.17-15.22.22:930][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.02.17-15.22.22:937][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.17-15.22.22:937][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.22:937][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.17-15.22.22:937][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.02.17-15.22.22:942][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.02.17-15.22.22:942][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.22:942][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.02.17-15.22.22:942][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.02.17-15.22.22:946][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.02.17-15.22.22:946][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.22:946][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.02.17-15.22.22:946][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.02.17-15.22.22:951][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.17-15.22.22:951][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.22:951][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.17-15.22.22:951][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.02.17-15.22.22:956][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.17-15.22.22:956][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.22:956][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.17-15.22.22:956][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.02.17-15.22.22:960][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.17-15.22.22:961][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.22:961][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.17-15.22.22:961][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.02.17-15.22.22:966][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.02.17-15.22.22:966][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.22:966][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.02.17-15.22.22:966][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.02.17-15.22.22:970][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.17-15.22.22:970][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.22:970][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.17-15.22.22:970][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.02.17-15.22.22:974][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.02.17-15.22.22:974][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.22:974][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.02.17-15.22.22:975][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.02.17-15.22.22:979][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.17-15.22.22:979][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.22:979][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.17-15.22.22:979][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.02.17-15.22.22:984][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.17-15.22.22:984][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.22:984][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.17-15.22.22:984][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.02.17-15.22.22:991][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.17-15.22.22:991][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.22:991][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.17-15.22.22:991][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.02.17-15.22.22:996][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.17-15.22.22:996][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.22:996][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.17-15.22.22:996][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.02.17-15.22.23:000][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.17-15.22.23:000][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.23:000][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.17-15.22.23:000][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2021.02.17-15.22.23:004][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.02.17-15.22.23:005][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.23:005][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.02.17-15.22.23:005][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2021.02.17-15.22.23:009][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.17-15.22.23:009][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.23:009][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.17-15.22.23:009][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2021.02.17-15.22.23:013][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.17-15.22.23:013][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.23:013][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.17-15.22.23:013][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2021.02.17-15.22.23:018][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.02.17-15.22.23:018][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-15.22.23:018][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.02.17-15.22.23:018][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2021.02.17-15.22.23:112][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.17-15.22.23:113][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.02.17-15.22.23:147][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.02.17-15.22.23:154][  0]LogSlate: Took 0.004287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.02.17-15.22.23:266][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2021.02.17-15.22.23:330][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.17-15.22.23:330][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.02.17-15.22.23:330][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.02.17-15.22.23:330][  0]LogLoad: (Engine Initialization) Total time: 7.94 seconds
+[2021.02.17-15.22.23:330][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.02.17-15.22.23:330][  0]LogInit: First time updating LLM stats...
+[2021.02.17-15.22.23:377][  0]LogAssetRegistry: Asset discovery search completed in 5.7443 seconds
+[2021.02.17-15.22.23:378][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.02.17-15.22.23:416][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.02.17-15.22.28:443][588]LogFileCache: Retrieving MD5 hashes for directory 'D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/' took 5.10s
+[2021.02.17-15.24.11:968][950]SourceControl: fatal: C:/Program Files/UE_4.26/Engine/Content: 'C:/Program Files/UE_4.26/Engine/Content' is outside repository at 'D:/ihatethis/Serotopia'
+[2021.02.17-15.24.11:968][950]SourceControl: fatal: C:/Program Files/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/ihatethis/Serotopia'
+[2021.02.17-15.24.11:968][950]SourceControl: fatal: C:/Program Files/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/ihatethis/Serotopia'
+[2021.02.17-15.24.11:968][950]SourceControl: fatal: C:/Program Files/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/ihatethis/Serotopia'
+[2021.02.17-15.24.11:968][950]SourceControl: fatal: C:/Program Files/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/ihatethis/Serotopia'
+[2021.02.17-15.24.11:968][950]SourceControl: fatal: C:/Program Files/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/ihatethis/Serotopia'
+[2021.02.17-15.24.11:968][950]SourceControl: fatal: C:/Program Files/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/ihatethis/Serotopia'
+[2021.02.17-15.24.11:968][950]SourceControl: fatal: C:/Program Files/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/ihatethis/Serotopia'
+[2021.02.17-15.24.11:968][950]SourceControl: fatal: C:/Program Files/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/ihatethis/Serotopia'
+[2021.02.17-15.24.11:968][950]SourceControl: fatal: C:/Program Files/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/ihatethis/Serotopia'
+[2021.02.17-15.24.11:968][950]SourceControl: fatal: C:/Program Files/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/ihatethis/Serotopia'
+[2021.02.17-15.24.11:968][950]SourceControl: fatal: C:/Program Files/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/ihatethis/Serotopia'
+[2021.02.17-15.24.11:968][950]SourceControl: fatal: C:/Program Files/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/ihatethis/Serotopia'
+[2021.02.17-15.24.11:968][950]SourceControl: fatal: C:/Program Files/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/ihatethis/Serotopia'
+[2021.02.17-15.24.11:968][950]SourceControl: fatal: C:/Program Files/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/ihatethis/Serotopia'
+[2021.02.17-15.24.11:968][950]SourceControl: fatal: C:/Program Files/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/ihatethis/Serotopia'
+[2021.02.17-15.24.11:968][950]SourceControl: fatal: C:/Program Files/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/ihatethis/Serotopia'
+[2021.02.17-15.24.11:968][950]SourceControl: fatal: C:/Program Files/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/ihatethis/Serotopia'
+[2021.02.17-15.24.11:968][950]SourceControl: fatal: C:/Program Files/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/ihatethis/Serotopia'
+[2021.02.17-15.24.11:968][950]SourceControl: fatal: C:/Program Files/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/ihatethis/Serotopia'
+[2021.02.17-15.24.11:968][950]SourceControl: fatal: C:/Program Files/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/ihatethis/Serotopia'
+[2021.02.17-15.24.12:094][950]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/UE_4.26/Engine/Plugins/MovieScene/MovieRenderPipeline/Content/MoviePipelineEntryMap.umap'. Attempt result was '../../Plugins/MovieScene/MovieRenderPipeline/Content/MoviePipelineEntryMap', but the path contains illegal characters '.'
+[2021.02.17-15.24.12:094][950]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/UE_4.26/Engine/Plugins/MovieScene/MovieRenderPipeline/Content/Blueprints/DefaultBurnIn.uasset'. Attempt result was '../../Plugins/MovieScene/MovieRenderPipeline/Content/Blueprints/DefaultBurnIn', but the path contains illegal characters '.'
+[2021.02.17-15.24.12:094][950]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/UE_4.26/Engine/Plugins/MovieScene/MovieRenderPipeline/Content/Blueprints/MovieRenderRuntimeExample.uasset'. Attempt result was '../../Plugins/MovieScene/MovieRenderPipeline/Content/Blueprints/MovieRenderRuntimeExample', but the path contains illegal characters '.'
+[2021.02.17-15.24.12:094][950]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/UE_4.26/Engine/Plugins/MovieScene/MovieRenderPipeline/Content/Blueprints/M_MoviePipelineRenderPreview.uasset'. Attempt result was '../../Plugins/MovieScene/MovieRenderPipeline/Content/Blueprints/M_MoviePipelineRenderPreview', but the path contains illegal characters '.'
+[2021.02.17-15.24.12:094][950]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/UE_4.26/Engine/Plugins/MovieScene/MovieRenderPipeline/Content/Blueprints/UI_MovieRenderPipelineInfoTableRow.uasset'. Attempt result was '../../Plugins/MovieScene/MovieRenderPipeline/Content/Blueprints/UI_MovieRenderPipelineInfoTableRow', but the path contains illegal characters '.'
+[2021.02.17-15.24.12:094][950]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/UE_4.26/Engine/Plugins/MovieScene/MovieRenderPipeline/Content/Blueprints/UI_MovieRenderPipelineScreenOverlay.uasset'. Attempt result was '../../Plugins/MovieScene/MovieRenderPipeline/Content/Blueprints/UI_MovieRenderPipelineScreenOverlay', but the path contains illegal characters '.'
+[2021.02.17-15.24.12:094][950]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/UE_4.26/Engine/Plugins/MovieScene/MovieRenderPipeline/Content/Editor/MovieRenderPipelineExampleEditorWidget.uasset'. Attempt result was '../../Plugins/MovieScene/MovieRenderPipeline/Content/Editor/MovieRenderPipelineExampleEditorWidget', but the path contains illegal characters '.'
+[2021.02.17-15.24.12:094][950]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/UE_4.26/Engine/Plugins/MovieScene/MovieRenderPipeline/Content/Materials/MoviePipeline_StencilCutout.uasset'. Attempt result was '../../Plugins/MovieScene/MovieRenderPipeline/Content/Materials/MoviePipeline_StencilCutout', but the path contains illegal characters '.'
+[2021.02.17-15.24.12:094][950]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/UE_4.26/Engine/Plugins/MovieScene/MovieRenderPipeline/Content/Materials/MovieRenderQueue_AmbientOcclusion.uasset'. Attempt result was '../../Plugins/MovieScene/MovieRenderPipeline/Content/Materials/MovieRenderQueue_AmbientOcclusion', but the path contains illegal characters '.'
+[2021.02.17-15.24.12:094][950]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/UE_4.26/Engine/Plugins/MovieScene/MovieRenderPipeline/Content/Materials/MovieRenderQueue_MotionVectors.uasset'. Attempt result was '../../Plugins/MovieScene/MovieRenderPipeline/Content/Materials/MovieRenderQueue_MotionVectors', but the path contains illegal characters '.'
+[2021.02.17-15.24.12:094][950]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/UE_4.26/Engine/Plugins/MovieScene/MovieRenderPipeline/Content/Materials/MovieRenderQueue_WorldDepth.uasset'. Attempt result was '../../Plugins/MovieScene/MovieRenderPipeline/Content/Materials/MovieRenderQueue_WorldDepth', but the path contains illegal characters '.'
+[2021.02.17-15.24.12:094][950]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/UE_4.26/Engine/Plugins/MovieScene/MovieRenderPipeline/Content/Materials/MovieRenderQueue_WorldNormal.uasset'. Attempt result was '../../Plugins/MovieScene/MovieRenderPipeline/Content/Materials/MovieRenderQueue_WorldNormal', but the path contains illegal characters '.'
+[2021.02.17-15.24.12:094][950]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/UE_4.26/Engine/Plugins/MovieScene/MovieRenderPipeline/Content/Materials/MovieRenderQueue_WorldPos.uasset'. Attempt result was '../../Plugins/MovieScene/MovieRenderPipeline/Content/Materials/MovieRenderQueue_WorldPos', but the path contains illegal characters '.'
+[2021.02.17-15.24.12:096][950]EditorErrors: Warning: No assets to check in!
+[2021.02.17-15.25.58:045][503]LogSlate: Window 'Source Control Login' being destroyed
+[2021.02.17-15.26.24:848][544]LogLinker: Warning: The file 'D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/PortalPaint/NewFolder/LightGreen1.uasset' contains unrecognizable data, check that it is of the expected type.
+[2021.02.17-15.26.24:967][544]LogLinker: Warning: The file 'D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Player/PlayerCharacterV9_lambert1_BaseColor_Mat_Inst.uasset' contains unrecognizable data, check that it is of the expected type.
+[2021.02.17-15.26.24:967][544]LogLinker: Warning: The file 'D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/PaintParticleActor_Blueprint.uasset' contains unrecognizable data, check that it is of the expected type.
+[2021.02.17-15.26.25:149][544]LogBlueprint: Error: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\AO1E.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2021.02.17-15.26.25:149][544]LogBlueprint: Error: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\AO1E.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2021.02.17-15.26.25:149][544]LogBlueprint: Error: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\AO1E.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2021.02.17-15.26.25:150][544]LogBlueprint: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\AO1E.uasset: [Compiler] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2021.02.17-15.26.25:150][544]LogBlueprint: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\AO1E.uasset: [Compiler] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2021.02.17-15.26.25:150][544]LogBlueprint: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\AO1E.uasset: [Compiler] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2021.02.17-15.26.25:161][544]LogBlueprint: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Decal1.uasset: [Compiler] On Component Begin Overlap (collider)  does not have a valid matching component!
+[2021.02.17-15.26.25:172][544]LogBlueprint: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Decal.uasset: [Compiler] On Component Begin Overlap (collider)  does not have a valid matching component!
+[2021.02.17-15.26.25:223][544]LogBlueprint: Error: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2021.02.17-15.26.25:224][544]LogBlueprint: Warning: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2021.02.17-15.26.25:230][544]LogBlueprint: Error: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Invalid pin connection from  Array  and  Out Actors : Array of Object References is not compatible with Array of Actor Object References. (You may have changed the type after the connections were made)
+[2021.02.17-15.26.25:230][544]LogBlueprint: Error: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Invalid pin connection from  Array Element  and  Target : Object Reference is not compatible with Actor Object Reference. (You may have changed the type after the connections were made)
+[2021.02.17-15.26.25:231][544]LogBlueprint: Error: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of Object References is not compatible with Array of Actor Object References.' at  Get (a copy) generated from expanding For Each Loop
+[2021.02.17-15.26.25:231][544]LogBlueprint: Error: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Actor Object Reference.' at  Get (a copy) generated from expanding For Each Loop
+[2021.02.17-15.26.25:231][544]LogBlueprint: Error: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Can't connect pins  Out Actors  and  Target Array generated from expanding For Each Loop : Array of Actor Object References is not compatible with Array of Object References.
+[2021.02.17-15.26.25:232][544]LogBlueprint: Error: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Invalid pin connection from ' Out Actors ' to ' Target Array generated from expanding For Each Loop '. You may have changed the type after the connections were made.
+[2021.02.17-15.26.25:232][544]LogBlueprint: Error: [AssetLog] D:\ihatethis\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Can't connect pins  Target Array generated from expanding For Each Loop  and  Out Actors : Array of Object References is not compatible with Array of Actor Object References.
+[2021.02.17-15.26.25:490][544]LogSlate: Took 0.003967 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.17-15.26.25:507][544]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.02.17-15.26.26:046][544]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.02.17-15.26.26:860][544]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter : Failed import for MaterialInstanceConstant /Game/Player/PlayerCharacterV9_lambert1_BaseColor_Mat_Inst.PlayerCharacterV9_lambert1_BaseColor_Mat_Inst Referenced by export Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter Referenced by export K2Node_CallFunction /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter:EventGraph.K2Node_CallFunction_81 Referenced by export SkeletalMeshComponent /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.Default__ThirdPersonCharacter_C:CharacterMesh0
+[2021.02.17-15.26.26:870][544]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.17-15.26.26:931][544]LogSlate: Took 0.006855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.02.17-15.26.27:257][545]LogSlate: Took 0.004277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.17-15.29.41:270][141]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AOE/Projectile/AO1E.AO1E
+[2021.02.17-15.29.47:748][626]LogSlate: Window 'AO1E' being destroyed
+[2021.02.17-15.29.47:753][626]LogSlate: Window 'AO1E' being destroyed
+[2021.02.17-15.29.47:761][626]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-15.29.47:761][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-15.29.47:838][626]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.02.17-15.29.47:838][626]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-15.29.47:838][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-15.29.50:821][961]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AOE/Splatter/AOE_Decal.AOE_Decal
+[2021.02.17-15.31.00:124][353]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AOE/Projectile/AO1E.AO1E
