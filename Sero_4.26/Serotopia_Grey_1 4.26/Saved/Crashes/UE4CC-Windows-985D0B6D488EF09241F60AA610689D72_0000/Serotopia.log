@@ -1,0 +1,1659 @@
+﻿Log file open, 02/26/21 15:34:06
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Serotopia
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.324764
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin OculusVR
+LogXGEController: Cleaning working directory: C:/Users/Montana/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: H:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.02.26-20.34.15:633][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.02.26-20.34.15:633][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.02.26-20.34.15:633][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.02.26-20.34.15:668][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.26-20.34.15:668][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.02.26-20.34.15:669][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.02.26-20.34.15:669][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.26-20.34.15:669][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.02.26-20.34.15:669][  0]LogHAL: Display: Platform has ~ 16 GB [17096523776 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.02.26-20.34.15:670][  0]LogInit: Going up to parent DeviceProfile []
+[2021.02.26-20.34.15:670][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.26-20.34.15:670][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.26-20.34.15:671][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.26-20.34.15:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.26-20.34.15:672][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.26-20.34.15:672][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.26-20.34.15:672][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.26-20.34.15:672][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.02.26-20.34.15:672][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.02.26-20.34.15:672][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.02.26-20.34.15:672][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.02.26-20.34.15:672][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.02.26-20.34.15:703][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.02.26-20.34.15:703][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.02.26-20.34.15:703][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.02.26-20.34.15:703][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.02.26-20.34.15:704][  0]LogInit: Computer: DESKTOP-4E96EQO
+[2021.02.26-20.34.15:704][  0]LogInit: User: Montana
+[2021.02.26-20.34.15:704][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.02.26-20.34.15:704][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.02.26-20.34.15:704][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.02.26-20.34.15:704][  0]LogMemory: Platform Memory Stats for Windows
+[2021.02.26-20.34.15:704][  0]LogMemory: Process Physical Memory: 143.17 MB used, 143.18 MB peak
+[2021.02.26-20.34.15:704][  0]LogMemory: Process Virtual Memory: 131.60 MB used, 131.60 MB peak
+[2021.02.26-20.34.15:704][  0]LogMemory: Physical Memory: 9634.59 MB used,  6669.93 MB free, 16304.52 MB total
+[2021.02.26-20.34.15:704][  0]LogMemory: Virtual Memory: 134201080.00 MB used,  16648.13 MB free, 134217728.00 MB total
+[2021.02.26-20.34.15:737][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.02.26-20.34.16:416][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.02.26-20.34.16:438][  0]LogInit: Using OS detected language (en-US).
+[2021.02.26-20.34.16:438][  0]LogInit: Using OS detected locale (en-US).
+[2021.02.26-20.34.16:633][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.02.26-20.34.17:136][  0]LogInit: Setting process to per monitor DPI aware
+[2021.02.26-20.34.17:399][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.26-20.34.17:732][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.02.26-20.34.17:732][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.02.26-20.34.20:707][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2021.02.26-20.34.20:707][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.02.26-20.34.20:707][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.02.26-20.34.20:707][  0]LogD3D11RHI: D3D11 adapters:
+[2021.02.26-20.34.20:799][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2021.02.26-20.34.20:799][  0]LogD3D11RHI:       11127/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.02.26-20.34.20:801][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.02.26-20.34.20:802][  0]LogD3D11RHI:       0/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.02.26-20.34.20:802][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.02.26-20.34.20:808][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.02.26-20.34.20:808][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2021.02.26-20.34.20:808][  0]LogWindows: EnumDisplayDevices:
+[2021.02.26-20.34.20:808][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2021.02.26-20.34.20:808][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2021.02.26-20.34.20:808][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2021.02.26-20.34.20:808][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2021.02.26-20.34.20:809][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.02.26-20.34.20:809][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2021.02.26-20.34.20:809][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.02.26-20.34.20:809][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.02.26-20.34.20:809][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2021.02.26-20.34.20:857][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.02.26-20.34.20:857][  0]LogD3D11RHI: Async texture creation enabled
+[2021.02.26-20.34.20:857][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.02.26-20.34.21:106][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.02.26-20.34.21:119][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.02.26-20.34.22:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.02.26-20.34.22:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.02.26-20.34.22:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.02.26-20.34.22:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.02.26-20.34.22:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.02.26-20.34.22:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.02.26-20.34.22:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.02.26-20.34.22:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.02.26-20.34.22:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.02.26-20.34.22:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.02.26-20.34.22:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.02.26-20.34.22:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.02.26-20.34.22:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.02.26-20.34.22:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.02.26-20.34.22:365][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.02.26-20.34.22:383][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.02.26-20.34.22:401][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.02.26-20.34.22:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.02.26-20.34.22:458][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.02.26-20.34.22:478][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.02.26-20.34.22:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.02.26-20.34.22:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.02.26-20.34.22:555][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.02.26-20.34.22:621][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.02.26-20.34.22:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.02.26-20.34.22:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.02.26-20.34.22:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.02.26-20.34.22:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.02.26-20.34.22:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.02.26-20.34.22:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.02.26-20.34.22:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.02.26-20.34.22:896][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.02.26-20.34.22:896][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.02.26-20.34.23:063][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.02.26-20.34.24:132][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.02.26-20.34.24:132][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Intermediate/Shaders/WorkingDirectory/11056/).
+[2021.02.26-20.34.24:132][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Montana/AppData/Local/Temp/UnrealShaderWorkingDir/30034C1C4C0D330CE1D5A78E3325BEE9/'.
+[2021.02.26-20.34.24:132][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.02.26-20.34.24:132][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.02.26-20.34.27:399][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.02.26-20.34.27:469][  0]LogDerivedDataCache: Loaded boot cache 0.07s 77MB C:/Users/Montana/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.02.26-20.34.27:469][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Montana/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.02.26-20.34.27:469][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.02.26-20.34.27:469][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.02.26-20.34.27:469][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.26-20.34.27:469][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.02.26-20.34.27:543][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.02.26-20.34.27:543][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.26-20.34.27:543][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.02.26-20.34.27:618][  0]LogDerivedDataCache: Speed tests for C:/Users/Montana/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.07 seconds
+[2021.02.26-20.34.27:618][  0]LogDerivedDataCache: Display: Performance to C:/Users/Montana/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.27ms. RandomReadSpeed=24.78MBs, RandomWriteSpeed=27.69MBs. Assigned SpeedClass 'Local'
+[2021.02.26-20.34.27:619][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Montana/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.02.26-20.34.27:619][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.02.26-20.34.27:619][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.02.26-20.34.27:717][  0]LogSlate: Using FreeType 2.10.0
+[2021.02.26-20.34.27:828][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.02.26-20.34.28:378][  0]LogAssetRegistry: FAssetRegistry took 0.0139 seconds to start up
+[2021.02.26-20.34.30:856][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.26-20.34.30:857][  0]LogInit: Active device profile: [000002666E5AE200][000002666BFD8B00 49] Windows
+[2021.02.26-20.34.30:857][  0]LogInit: Profiles: [000002666E5AE200][000002666BFD8B00 49] Windows, [000002666E55ED00][000002666E238C80 49] WindowsNoEditor, [000002666E5AD000][000002666E23CE00 49] WindowsServer, [000002666E55FE00][000002666E240F80 49] WindowsClient, [000002666E5AE500][000002666E245100 49] IOS, [000002666E55C800][000002666E249280 49] iPadAir, [000002666E5AF300][000002666E24D400 49] iPadAir2, [000002666E506700][000002666BFDD680 49] IPadPro, [000002666E506800][000002666E2516C0 49] iPadAir3, [000002666E55CE00][000002666E255800 49] iPadAir4, [000002666E506A00][000002666E259940 49] iPadMini2, [000002666E55C300][000002666E261AC0 49] iPadMini3, [000002666E505200][000002666E265C40 49] iPadMini4, [000002666E55E500][000002666E268100 49] iPadMini5, [000002666E53A000][000002666E2703C0 49] iPhone6, [000002666E53A100][000002666E26C400 49] iPodTouch6, [000002666E505900][000002666E2786C0 49] iPhone7, [000002666E505800][000002666E274700 49] iPodTouch7, [000002666E53B900][000002666E27C880 49] iPhone5S, [000002666E506900][000002666E280A00 49] iPhone6Plus, [000002666E539400][000002666E284B80 49] iPhone6S, [000002666E504200][000002666E288D00 49] iPhone6SPlus, [000002666E538300][000002666E28CE80 49] iPhone7Plus, [000002666E504400][000002666E291000 49] iPhoneSE, [000002666E53AC00][000002666E295180 49] iPhone8, [000002666E507000][000002666E299300 49] iPhone8Plus, [000002666E539900][000002666E29D480 49] iPhoneX, [000002666E506100][000002666E2A1600 49] iPhoneXS, [000002666E53BC00][000002666E25D740 49] iPhoneXSMax, [000002666E506600][000002666E2A5880 49] iPhoneXR, [000002666E539A00][000002666E2A99C0 49] iPhone11, [000002666E504A00][000002666E2B1B40 49] iPhone11Pro, [000002666E53AD00][000002666E2B5CC0 49] iPhone11ProMax, [000002666E507900][000002666E2B8180 49] iPhoneSE2, [000002666E538500][000002666E2BC300 49] iPhone12Mini, [000002666E506400][000002666E2C0480 49] iPhone12, [000002666E53A500][000002666E2C4600 49] iPhone12Pro, [000002666E507E00][000002666E2C8780 49] iPhone12ProMax, [000002666E539D00][000002666E2CC900 49] iPadPro105, [000002666E5AF800][000002666E2D0A80 49] iPadPro129, [000002666E538F00][000002666E2D4C00 49] iPadPro97, [000002666E5AE800][000002666E2D8D80 49] iPadPro2_129, [000002666E53A600][000002666E2DCF00 49] iPad5, [000002666E5AE000][000002666E2E1080 49] iPad6, [000002666E53BB00][000002666E2E5200 49] iPad7, [000002666E5AEC00][000002666E2E9380 49] iPad8, [000002666E538400][000002666E2ED500 49] iPadPro11, [000002666E5AF200][000002666E2F1680 49] iPadPro2_11, [000002666E538A00][000002666E2AD7C0 49] iPadPro3_129, [000002666E5ADC00][000002666E2F5900 49] iPadPro4_129, [000002666E538200][000002666E2F9A40 49] AppleTV, [000002666E5AC700][000002666E2FDB80 49] AppleTV4K, [000002666E53BD00][000002666E305D00 49] TVOS, [000002666E5ADF00][000002666E3081C0 49] Mac, [000002666E539000][000002666E30C340 49] MacClient, [000002666E5AEE00][000002666E3104C0 49] MacNoEditor, [000002666E539100][000002666E314640 49] MacServer, [000002666E5AC200][000002666E3187C0 49] Linux, [000002666E539E00][000002666E31C940 49] LinuxNoEditor, [000002666E5ACC00][000002666E320AC0 49] LinuxAArch64NoEditor, [000002666E539600][000002666E324C40 49] LinuxClient, [000002666E5ACE00][000002666E328DC0 49] LinuxAArch64Client, [000002666E539500][000002666E32CF40 49] LinuxServer, [000002666E5ADB00][000002666E3310C0 49] LinuxAArch64Server, [000002666E539800][000002666E335240 49] Android, [000002666E5AEA00][000002666E3393C0 49] Android_Low, [000002666E538E00][000002666E33D540 49] Android_Mid, [000002666E5AC500][000002666E3416C0 49] Android_High, [000002666E53B200][000002666E301800 49] Android_Default, [000002666E5AD100][000002666E345940 49] Android_Adreno4xx, [000002666E53BE00][000002666E349A80 49] Android_Adreno5xx_Low, [000002666E5ADA00][000002666E34DBC0 49] Android_Adreno5xx, [000002666E538700][000002666E355D40 49] Android_Adreno6xx, [000002666E5AD500][000002666E358200 49] Android_Adreno6xx_Vulkan, [000002666E539700][000002666E35C380 49] Android_Mali_T6xx, [000002666E5AF100][000002666E360500 49] Android_Mali_T7xx, [000002666E53A300][000002666E364680 49] Android_Mali_T8xx, [000002666E5AEF00][000002666E368800 49] Android_Mali_G71, [000002666E539C00][000002666E36C980 49] Android_Mali_G72, [000002666E5AF500][000002666E370B00 49] Android_Mali_G72_Vulkan, [000002666E53A200][000002666E374C80 49] Android_Mali_G76, [000002666E5ACB00][000002666E378E00 49] Android_Mali_G76_Vulkan, [000002666E53A900][000002666E37CF80 49] Android_Mali_G77, [000002666E5AD400][000002666E381100 49] Android_Mali_G77_Vulkan, [000002666E539200][000002666E385280 49] Android_Vulkan_SM5, [000002666E55FD00][000002666E389400 49] Android_PowerVR_G6xxx, [000002666E504100][000002666E38D580 49] Android_PowerVR_GT7xxx, [000002666E55DF00][000002666E391700 49] Android_PowerVR_GE8xxx, [000002666E504C00][000002666E395880 49] Android_PowerVR_GM9xxx, [000002666E55F400][000002666E3519C0 49] Android_PowerVR_GM9xxx_Vulkan, [000002666E505000][000002666E399B00 49] Android_TegraK1, [000002666E55EB00][000002666E39DC80 49] Android_Unknown_Vulkan, [000002666E505A00][000002666E3A4140 49] Lumin, [000002666E55F900][000002666E3A82C0 49] Lumin_Desktop, [000002666E504500][000002666E3AC440 49] HoloLens, 
+[2021.02.26-20.34.32:785][  0]LogAssetRegistry: Error: Package ../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/Staircase.uasset has malformed tag
+[2021.02.26-20.34.32:785][  0]LogAssetRegistry: Error: Package ../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/BubbleTurbine/bubbleTurbine1.uasset has malformed tag
+[2021.02.26-20.34.32:785][  0]LogAssetRegistry: Error: Package ../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/BubbleTurbine/mat_BubbleTurbine.uasset has malformed tag
+[2021.02.26-20.34.32:785][  0]LogAssetRegistry: Error: Package ../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_House2/BH-Variation_1/Materials/BH_BaseV1Mat.uasset has malformed tag
+[2021.02.26-20.34.32:785][  0]LogAssetRegistry: Error: Package ../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_House2/BH-Variation_1/Materials/BH_TopV1Mat.uasset has malformed tag
+[2021.02.26-20.34.32:785][  0]LogAssetRegistry: Error: Package ../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_House2/BH-Variation_2/Materials/BH_TopV2Mat.uasset has malformed tag
+[2021.02.26-20.34.32:785][  0]LogAssetRegistry: Error: Package ../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_House2/BH-Variation_2/Materials/BH_BaseV2Mat.uasset has malformed tag
+[2021.02.26-20.34.32:785][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.02.26-20.34.32:785][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.02.26-20.34.32:785][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.02.26-20.34.32:785][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.02.26-20.34.32:786][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.02.26-20.34.33:389][  0]LogNetVersion: Serotopia 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1805940841)
+[2021.02.26-20.34.45:142][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.02.26-20.34.45:387][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.224530 seconds
+[2021.02.26-20.34.45:392][  0]LogUObjectArray: 16836 objects as part of root set at end of initial load.
+[2021.02.26-20.34.45:392][  0]LogUObjectAllocator: 4210784 out of 0 bytes used by permanent object pool.
+[2021.02.26-20.34.45:392][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.02.26-20.34.50:542][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.02.26-20.34.50:659][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.02.26-20.34.51:671][  0]SourceControl: Source control is disabled
+[2021.02.26-20.34.51:671][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:671][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.02.26-20.34.51:671][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:671][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.02.26-20.34.51:671][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:671][  0]LogWindows: Warning: URL: C:\Users\Montana\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.02.26-20.34.51:672][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:672][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.02.26-20.34.51:672][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:672][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.02.26-20.34.51:672][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:672][  0]LogWindows: Warning: URL: C:\Users\Montana\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.02.26-20.34.51:672][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:672][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.02.26-20.34.51:764][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:764][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.02.26-20.34.51:764][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:764][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.02.26-20.34.51:764][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:764][  0]LogWindows: Warning: URL: C:\Users\Montana\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.02.26-20.34.51:764][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:764][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.02.26-20.34.51:765][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:765][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.02.26-20.34.51:765][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:765][  0]LogWindows: Warning: URL: C:\Users\Montana\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.02.26-20.34.51:765][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:765][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.02.26-20.34.51:798][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:798][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.02.26-20.34.51:798][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:798][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.02.26-20.34.51:798][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:798][  0]LogWindows: Warning: URL: C:\Users\Montana\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.02.26-20.34.51:798][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:798][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.02.26-20.34.51:798][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:798][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.02.26-20.34.51:798][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:798][  0]LogWindows: Warning: URL: C:\Users\Montana\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.02.26-20.34.51:798][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:798][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.02.26-20.34.51:957][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:957][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.02.26-20.34.51:957][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:957][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.02.26-20.34.51:957][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:957][  0]LogWindows: Warning: URL: C:\Users\Montana\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.02.26-20.34.51:958][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:958][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.02.26-20.34.51:958][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:958][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.02.26-20.34.51:958][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:958][  0]LogWindows: Warning: URL: C:\Users\Montana\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.02.26-20.34.51:958][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.34.51:958][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.02.26-20.34.52:007][  0]LogUProjectInfo: Found projects:
+[2021.02.26-20.34.54:203][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.02.26-20.34.54:390][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.26-20.34.54:390][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.26-20.34.55:150][  0]LogCollectionManager: Loaded 0 collections in 0.001289 seconds
+[2021.02.26-20.34.55:474][  0]LogFileCache: Scanning file cache for directory 'H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Collections/' took 0.01s
+[2021.02.26-20.34.55:474][  0]LogFileCache: Scanning file cache for directory 'H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Developers/Montana/Collections/' took 0.00s
+[2021.02.26-20.34.55:474][  0]LogFileCache: Scanning file cache for directory 'H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Collections/' took 0.00s
+[2021.02.26-20.34.55:474][  0]LogOcInput: OculusInput pre-init called
+[2021.02.26-20.34.55:555][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.02.26-20.34.55:555][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.02.26-20.34.56:479][  0]LogEngine: Initializing Engine...
+[2021.02.26-20.34.56:536][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.02.26-20.34.56:555][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.02.26-20.34.56:576][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.02.26-20.34.57:103][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.02.26-20.34.57:377][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.02.26-20.34.57:379][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.02.26-20.34.57:457][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.02.26-20.34.57:457][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.02.26-20.34.57:474][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.26-20.34.57:474][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.26-20.34.57:474][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.26-20.34.57:474][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.26-20.34.57:474][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.26-20.34.57:474][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.26-20.34.57:474][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.26-20.34.57:474][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.26-20.34.57:546][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.26-20.34.57:546][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.26-20.34.59:932][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.26-20.34.59:932][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.02.26-20.34.59:932][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.26-20.34.59:932][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.26-20.34.59:932][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.02.26-20.34.59:932][  0]LogAudioMixer: Display: 5: BackRight
+[2021.02.26-20.34.59:932][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.02.26-20.34.59:932][  0]LogAudioMixer: Display: 7: SideRight
+[2021.02.26-20.35.00:194][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.26-20.35.00:220][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.26-20.35.00:263][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.26-20.35.00:263][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.26-20.35.00:264][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.26-20.35.00:264][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.26-20.35.00:264][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.26-20.35.00:265][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.26-20.35.00:265][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.26-20.35.00:265][  0]LogInit: FAudioDevice initialized.
+[2021.02.26-20.35.00:265][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.02.26-20.35.00:285][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.02.26-20.35.00:320][  0]LogDerivedDataCache: Saved boot cache 0.03s 77MB C:/Users/Montana/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.02.26-20.35.00:323][  0]LogInit: Texture streaming: Enabled
+[2021.02.26-20.35.00:494][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.02.26-20.35.00:533][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.02.26-20.35.00:533][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.02.26-20.35.00:561][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.02.26-20.35.00:938][  0]LogInit: Transaction tracking system initialized
+[2021.02.26-20.35.01:282][  0]BlueprintLog: New page: Editor Load
+[2021.02.26-20.35.02:374][  0]LocalizationService: Localization service is disabled
+[2021.02.26-20.35.02:753][  0]TimingProfiler: Initialize
+[2021.02.26-20.35.02:754][  0]TimingProfiler: OnSessionChanged
+[2021.02.26-20.35.02:755][  0]LoadingProfiler: Initialize
+[2021.02.26-20.35.02:755][  0]LoadingProfiler: OnSessionChanged
+[2021.02.26-20.35.02:755][  0]NetworkingProfiler: Initialize
+[2021.02.26-20.35.02:755][  0]NetworkingProfiler: OnSessionChanged
+[2021.02.26-20.35.02:755][  0]MemoryProfiler: Initialize
+[2021.02.26-20.35.02:756][  0]MemoryProfiler: OnSessionChanged
+[2021.02.26-20.35.05:007][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.02.26-20.35.05:007][  0]LogCook: Display: Mobile HDR setting 1
+[2021.02.26-20.35.06:307][  0]LogFileCache: Scanning file cache for directory 'H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/' took 0.39s
+[2021.02.26-20.35.08:120][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.02.26-20.35.08:267][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.35.08:267][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.02.26-20.35.08:267][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.35.08:267][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.02.26-20.35.08:267][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.35.08:267][  0]LogWindows: Warning: URL: C:\Users\Montana\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.02.26-20.35.08:268][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.35.08:268][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.02.26-20.35.08:268][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.35.08:268][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.02.26-20.35.08:268][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.35.08:268][  0]LogWindows: Warning: URL: C:\Users\Montana\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.02.26-20.35.08:268][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.02.26-20.35.08:268][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.02.26-20.35.08:268][  0]LogUnrealEdMisc: Loading editor; pre map load, took 78.804
+[2021.02.26-20.35.08:296][  0]Cmd: MAP LOAD FILE="../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.26-20.35.08:329][  0]LightingResults: New page: Lighting Build
+[2021.02.26-20.35.08:379][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.02.26-20.35.08:402][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-20.35.08:411][  0]MapCheck: New page: Map Check
+[2021.02.26-20.35.08:411][  0]LightingResults: New page: Lighting Build
+[2021.02.26-20.35.08:612][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.02.26-20.35.09:176][  0]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\Settings.uasset: [Compiler] On Value Changed (Slider_2)  does not have a valid matching component!
+[2021.02.26-20.35.09:176][  0]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\Settings.uasset: [Compiler] On Clicked (Button_192)  does not have a valid matching component!
+[2021.02.26-20.35.09:176][  0]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\Settings.uasset: [Compiler] On Value Changed (Slider_1)  does not have a valid matching component!
+[2021.02.26-20.35.09:177][  0]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\Settings.uasset: [Compiler] On Value Changed (Slider)  does not have a valid matching component!
+[2021.02.26-20.35.09:179][  0]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\UI\Widgets\TestLevels.uasset: [Compiler] On Clicked (Button_192)  does not have a valid matching component!
+[2021.02.26-20.35.09:288][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.02.26-20.35.09:289][  0]LogAIModule: Creating AISystem for world MainMenu
+[2021.02.26-20.35.09:453][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.26-20.35.09:513][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.02.26-20.35.09:529][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.26-20.35.09:530][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
+[2021.02.26-20.35.09:530][  0]LogFileHelpers: Loading map 'MainMenu' took 1.242
+[2021.02.26-20.35.10:230][  0]LogUnrealEdMisc: Total Editor Startup Time, took 80.766
+[2021.02.26-20.35.10:803][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-20.35.10:813][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-20.35.10:817][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-20.35.10:821][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-20.35.11:018][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0073 seconds. Added 3601 classes and 859 folders.
+[2021.02.26-20.35.11:101][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.26-20.35.11:267][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.26-20.35.11:267][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:267][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.26-20.35.11:267][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.02.26-20.35.11:274][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.02.26-20.35.11:274][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:274][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.02.26-20.35.11:274][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.02.26-20.35.11:279][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.02.26-20.35.11:279][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:279][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.02.26-20.35.11:279][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.02.26-20.35.11:286][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.26-20.35.11:286][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:286][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.26-20.35.11:286][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.02.26-20.35.11:292][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.02.26-20.35.11:292][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:292][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.02.26-20.35.11:292][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.02.26-20.35.11:297][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.02.26-20.35.11:297][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:297][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.02.26-20.35.11:297][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.02.26-20.35.11:303][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.02.26-20.35.11:303][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:303][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.02.26-20.35.11:303][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.02.26-20.35.11:309][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.02.26-20.35.11:309][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:309][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.02.26-20.35.11:309][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.02.26-20.35.11:316][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.26-20.35.11:317][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:317][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.26-20.35.11:317][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.02.26-20.35.11:322][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.02.26-20.35.11:322][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:322][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.02.26-20.35.11:322][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.02.26-20.35.11:327][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.02.26-20.35.11:327][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:327][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.02.26-20.35.11:327][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.02.26-20.35.11:334][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.26-20.35.11:334][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:334][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.26-20.35.11:334][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.02.26-20.35.11:339][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.26-20.35.11:339][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:339][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.26-20.35.11:339][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.02.26-20.35.11:345][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.26-20.35.11:345][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:345][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.26-20.35.11:345][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.02.26-20.35.11:351][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.02.26-20.35.11:351][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:351][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.02.26-20.35.11:351][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.02.26-20.35.11:357][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.26-20.35.11:358][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:358][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.26-20.35.11:358][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.02.26-20.35.11:363][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.02.26-20.35.11:363][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:363][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.02.26-20.35.11:363][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.02.26-20.35.11:369][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.26-20.35.11:369][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:369][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.26-20.35.11:369][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.02.26-20.35.11:374][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.26-20.35.11:374][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:374][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.26-20.35.11:374][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2021.02.26-20.35.11:381][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.26-20.35.11:381][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:381][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.26-20.35.11:381][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2021.02.26-20.35.11:386][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.26-20.35.11:387][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:387][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.26-20.35.11:387][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2021.02.26-20.35.11:392][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.26-20.35.11:392][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:392][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.26-20.35.11:392][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2021.02.26-20.35.11:412][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.02.26-20.35.11:412][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:412][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.02.26-20.35.11:412][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2021.02.26-20.35.11:419][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.26-20.35.11:419][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:419][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.26-20.35.11:419][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.02.26-20.35.11:425][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.26-20.35.11:425][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:425][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.26-20.35.11:425][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2021.02.26-20.35.11:452][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.02.26-20.35.11:452][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-20.35.11:452][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.02.26-20.35.11:452][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2021.02.26-20.35.12:917][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.26-20.35.13:112][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.02.26-20.35.15:306][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.02.26-20.35.15:759][  0]LogSlate: Took 0.023463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.02.26-20.35.15:819][  0]LogSlate: Took 0.027053 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.02.26-20.35.15:953][  0]LogSlate: Took 0.020402 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.02.26-20.35.16:845][  0]LogRenderer: Reallocating scene render targets to support 1060x564 Format 10 NumSamples 1 (Frame:1).
+[2021.02.26-20.35.17:777][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.26-20.35.17:777][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.02.26-20.35.17:777][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.02.26-20.35.17:777][  0]LogLoad: (Engine Initialization) Total time: 88.31 seconds
+[2021.02.26-20.35.17:777][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.02.26-20.35.17:784][  0]LogInit: First time updating LLM stats...
+[2021.02.26-20.35.20:252][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.02.26-20.35.22:441][  2]LogAssetRegistry: Asset discovery search completed in 54.0635 seconds
+[2021.02.26-20.35.22:454][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000183 seconds (updated 0 objects)
+[2021.02.26-20.35.22:492][  2]LogSlate: Took 0.032265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.26-20.35.22:715][  2]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.26-20.35.26:795][ 12]LogFileCache: Retrieving MD5 hashes for directory 'H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/' took 8.62s
+[2021.02.26-20.35.34:845][472]LogSlate: Window 'Project Settings' being destroyed
+[2021.02.26-20.35.34:855][472]LogSlate: Window 'Project Settings' being destroyed
+[2021.02.26-20.36.01:548][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\Materials\paint1.uasset: Failed to load '/Game/Materials/MaterialFunctions/F_Displacement': Can't find file.
+[2021.02.26-20.36.01:560][434]LoadErrors: Failed to load /Game/Blueprints/AOE/Projectile/Materials/paint1.paint1 Referenced by PaintBall_GEN_VARIABLE
+[2021.02.26-20.36.01:560][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\Materials\paint1.uasset: Failed to load '/Game/Materials/MaterialFunctions/F_Displacement': Can't find file.
+[2021.02.26-20.36.01:579][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\Materials\paint1.uasset: Failed to load '/Game/Materials/MaterialFunctions/F_Displacement': Can't find file.
+[2021.02.26-20.36.02:055][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\Materials\paint2.uasset: Failed to load '/Game/Materials/Textures/T_Splatter_A': Can't find file.
+[2021.02.26-20.36.02:055][434]LoadErrors: Failed to load /Game/Blueprints/AOE/Projectile/Materials/paint2.paint2 Referenced by Decal_GEN_VARIABLE
+[2021.02.26-20.36.02:055][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\Materials\paint2.uasset: Failed to load '/Game/Materials/Textures/T_Splatter_A': Can't find file.
+[2021.02.26-20.36.02:056][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\Materials\paint2.uasset: Failed to load '/Game/Materials/Textures/T_Splatter_A': Can't find file.
+[2021.02.26-20.36.02:290][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Magenta.uasset: Failed to load '/Game/PortalPaint/Blueprints/DarkGreen1': Can't find file.
+[2021.02.26-20.36.02:290][434]LoadErrors: Failed to load /Game/PortalPaint/Blueprints/DarkGreen1.DarkGreen1_C Referenced by Default__ThirdPersonCharacter_C
+[2021.02.26-20.36.02:290][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Magenta.uasset: Failed to load '/Game/PortalPaint/Blueprints/DarkGreen1': Can't find file.
+[2021.02.26-20.36.02:290][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Magenta.uasset: Failed to load '/Game/PortalPaint/Blueprints/LightGreen1': Can't find file.
+[2021.02.26-20.36.02:290][434]LoadErrors: Failed to load /Game/PortalPaint/Blueprints/LightGreen1.LightGreen1_C Referenced by Default__ThirdPersonCharacter_C
+[2021.02.26-20.36.02:290][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Magenta.uasset: Failed to load '/Game/PortalPaint/Blueprints/LightGreen1': Can't find file.
+[2021.02.26-20.36.02:978][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Blue.uasset: Failed to load '/Game/PortalPaint/Blueprints/DarkGreen1': Can't find file.
+[2021.02.26-20.36.02:978][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Blue.uasset: Failed to load '/Game/PortalPaint/Blueprints/LightGreen1': Can't find file.
+[2021.02.26-20.36.02:978][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Blue.uasset: Failed to load '/Game/PortalPaint/Blueprints/DarkGreen1': Can't find file.
+[2021.02.26-20.36.02:978][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Blue.uasset: Failed to load '/Game/PortalPaint/Blueprints/LightGreen1': Can't find file.
+[2021.02.26-20.36.02:978][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Blue.uasset: Failed to load '/Game/PortalPaint/SFX/BluePortal': Can't find file.
+[2021.02.26-20.36.02:978][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Blue.uasset: Failed to load '/Game/PortalPaint/SFX/BluePortal': Can't find file.
+[2021.02.26-20.36.02:978][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Blue.uasset: Failed to load '/Game/PortalPaint/SFX/BluePortal': Can't find file.
+[2021.02.26-20.36.02:979][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Blue.uasset: Failed to load '/Game/PortalPaint/Blueprints/LightGreen1': Can't find file.
+[2021.02.26-20.36.02:979][434]LoadErrors: Failed to load /Game/PortalPaint/Blueprints/LightGreen1.LightGreen1_C Referenced by AO1E
+[2021.02.26-20.36.02:986][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Blue.uasset: Failed to load '/Game/PortalPaint/Blueprints/LightGreen1': Can't find file.
+[2021.02.26-20.36.02:986][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Blue.uasset: Failed to load '/Game/PortalPaint/Blueprints/DarkGreen1': Can't find file.
+[2021.02.26-20.36.02:986][434]LoadErrors: Failed to load /Game/PortalPaint/Blueprints/DarkGreen1.DarkGreen1_C Referenced by AO1E
+[2021.02.26-20.36.02:988][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Blue.uasset: Failed to load '/Game/PortalPaint/Blueprints/LightGreen1': Can't find file.
+[2021.02.26-20.36.02:988][434]LoadErrors: Failed to load /Game/PortalPaint/Blueprints/LightGreen1.LightGreen1_C Referenced by K2Node_SpawnActorFromClass_2
+[2021.02.26-20.36.02:988][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Blue.uasset: Failed to load '/Game/PortalPaint/Blueprints/LightGreen1': Can't find file.
+[2021.02.26-20.36.02:990][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Blue.uasset: Failed to load '/Game/PortalPaint/SFX/BluePortal': Can't find file.
+[2021.02.26-20.36.02:990][434]LoadErrors: Failed to load /Game/PortalPaint/SFX/BluePortal.BluePortal Referenced by K2Node_CallFunction_18
+[2021.02.26-20.36.03:250][434]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Blue.uasset: [Compiler] On Component Begin Overlap (collider)  does not have a valid matching component!
+[2021.02.26-20.36.03:268][434]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Green.uasset: [Compiler] On Component Begin Overlap (collider)  does not have a valid matching component!
+[2021.02.26-20.36.03:282][434]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Magenta.uasset: [Compiler] On Component Begin Overlap (collider)  does not have a valid matching component!
+[2021.02.26-20.36.03:570][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\AO1E.uasset: Failed to load '/Game/PortalPaint/Blueprints/DarkGreen1': Can't find file.
+[2021.02.26-20.36.03:570][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\AO1E.uasset: Failed to load '/Game/PortalPaint/Blueprints/LightGreen1': Can't find file.
+[2021.02.26-20.36.03:570][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\AO1E.uasset: Failed to load '/Game/PortalPaint/Blueprints/DarkGreen1': Can't find file.
+[2021.02.26-20.36.03:571][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\AO1E.uasset: Failed to load '/Game/PortalPaint/Blueprints/LightGreen1': Can't find file.
+[2021.02.26-20.36.03:571][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\AO1E.uasset: Failed to load '/Game/PortalPaint/SFX/BluePortal': Can't find file.
+[2021.02.26-20.36.03:571][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\AO1E.uasset: Failed to load '/Game/PortalPaint/SFX/BluePortal': Can't find file.
+[2021.02.26-20.36.03:605][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\Materials\paint2.uasset: Failed to load '/Game/Materials/Textures/T_Splatter_A': Can't find file.
+[2021.02.26-20.36.03:605][434]LoadErrors: Failed to load /Game/Materials/Textures/T_Splatter_A.T_Splatter_A Referenced by MaterialExpressionTextureSample_2
+[2021.02.26-20.36.03:715][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\Materials\paint1.uasset: Failed to load '/Game/Materials/MaterialFunctions/F_Displacement': Can't find file.
+[2021.02.26-20.36.03:715][434]LoadErrors: Failed to load /Game/Materials/MaterialFunctions/F_Displacement.F_Displacement Referenced by MaterialExpressionMaterialFunctionCall_0
+[2021.02.26-20.36.03:715][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\Materials\paint1.uasset: Failed to load '/Game/Materials/MaterialFunctions/F_Displacement': Can't find file.
+[2021.02.26-20.36.03:715][434]LoadErrors: Failed to load /Game/Materials/MaterialFunctions/F_Displacement.F_Displacement Referenced by MaterialExpressionMaterialFunctionCall_2
+[2021.02.26-20.36.03:715][434]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\Materials\paint1.uasset: Failed to load '/Game/Materials/MaterialFunctions/F_Displacement': Can't find file.
+[2021.02.26-20.36.03:715][434]LoadErrors: Failed to load /Game/Materials/MaterialFunctions/F_Displacement.F_Displacement Referenced by MaterialExpressionMaterialFunctionCall_3
+[2021.02.26-20.36.03:926][434]LogMaterial: Display: Missing cached shader map for material paint1, compiling. 
+[2021.02.26-20.36.03:980][434]LogMaterial: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\Materials\paint1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.26-20.36.03:980][434]LogMaterial: Display: 	Missing Material Function
+[2021.02.26-20.36.04:238][434]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AOE/Splatter/AOE_Decal.AOE_Decal
+[2021.02.26-20.36.05:310][434]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.02.26-20.36.07:223][434]LogSlate: Took 0.025619 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.26-20.36.07:881][435]LogSlate: Took 0.015775 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.26-20.36.17:077][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.02.26-20.36.34:568][327]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Forest.Forest
+[2021.02.26-20.36.34:578][327]Cmd: MAP LOAD FILE="../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Levels/Forest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.26-20.36.34:579][327]LightingResults: New page: Lighting Build
+[2021.02.26-20.36.34:579][327]LoadErrors: New page: Loading map: Forest.umap
+[2021.02.26-20.36.34:645][327]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.02.26-20.36.34:654][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-20.36.34:667][327]MapCheck: New page: Map Check
+[2021.02.26-20.36.34:667][327]LightingResults: New page: Lighting Build
+[2021.02.26-20.36.34:694][327]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.26-20.36.34:811][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.02.26-20.36.34:816][327]LogAudio: Display: Audio Device (ID: 1) registered with world 'Forest'.
+[2021.02.26-20.36.35:115][327]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.26-20.36.35:115][327]LogAIModule: Creating AISystem for world Forest
+[2021.02.26-20.36.35:228][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.02.26-20.36.35:244][327]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.26-20.36.35:244][327]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.132ms to complete.
+[2021.02.26-20.36.35:244][327]LogFileHelpers: Loading map 'Forest' took 0.666
+[2021.02.26-20.38.01:737][588]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Island1_L)
+[2021.02.26-20.38.18:071][112]LogHttp: Warning: 00000266AAD2AB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B85CF4B26-4022-01EA-4287-76BCE4A3A9B1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=eb6d55214b4a87617436a0acffcd7d03%7C73354c3532ff48c3a88e5dfd2ad0e6e5%7C472273e1-d1e4-4d51-9864-4450d63f4848&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.02.26-20.38.18:071][112]LogHttp: Warning: 00000266AAD2AB00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.02.26-20.38.18:071][112]LogHttp: Warning: 00000266AAD2AB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2664c8efeb0 [can pipeline])
+[2021.02.26-20.38.18:071][112]LogHttp: Warning: 00000266AAD2AB00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.02.26-20.38.18:071][112]LogHttp: Warning: 00000266AAD2AB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.174.193.0) port 443 (#0))
+[2021.02.26-20.38.18:071][112]LogHttp: Warning: 00000266AAD2AB00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.02.26-20.38.18:071][112]LogHttp: Warning: 00000266AAD2AB00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.02.26-20.38.18:071][112]LogHttp: Warning: 00000266AAD2AB00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.02.26-20.38.18:071][112]LogHttp: Warning: 00000266AAD2AB00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.02.26-20.38.18:071][112]LogHttp: Warning: 00000266AAD2AB00: libcurl info message cache 7 (Closing connection 0)
+[2021.02.26-20.38.18:071][112]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B85CF4B26-4022-01EA-4287-76BCE4A3A9B1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=eb6d55214b4a87617436a0acffcd7d03%7C73354c3532ff48c3a88e5dfd2ad0e6e5%7C472273e1-d1e4-4d51-9864-4450d63f4848&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.02.26-20.38.20:786][385]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fireflies3)
+[2021.02.26-20.38.23:850][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Log1_Forest_Low3)
+[2021.02.26-20.39.50:001][537]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2021.02.26-20.39.50:107][537]LogStaticMesh: Building static mesh Forest_Plant_One_LP...
+[2021.02.26-20.39.50:130][537]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2021.02.26-20.39.50:130][537]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.02.26-20.39.50:130][537]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.02.26-20.39.50:130][537]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.02.26-20.39.50:130][537]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.02.26-20.39.50:130][537]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2021.02.26-20.39.50:497][537]LogStaticMesh: Built static mesh [0.37s] /Game/Plants/Forest_Plant_One_LP.Forest_Plant_One_LP
+[2021.02.26-20.39.50:632][537]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Plants/ReactivePlant.ReactivePlant
+[2021.02.26-20.41.00:082][319]LogRenderer: Reallocating scene render targets to support 1324x712 Format 10 NumSamples 1 (Frame:1).
+[2021.02.26-20.42.57:654][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.02.26-20.43.01:700][703]LogSlate: Window 'Save Content' being destroyed
+[2021.02.26-20.43.02:283][703]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: Failed to load '/Game/Levels/NewMap_BuiltData': Can't find file.
+[2021.02.26-20.43.02:283][703]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: Failed to load '/Game/Levels/NewMap_BuiltData': Can't find file.
+[2021.02.26-20.43.02:315][703]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: Failed to load '/Game/Levels/NewMap_BuiltData': Can't find file.
+[2021.02.26-20.43.02:367][703]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: Failed to load '/Game/Levels/NewMap_BuiltData': Can't find file.
+[2021.02.26-20.43.02:367][703]LoadErrors: Failed to load /Game/Levels/NewMap_BuiltData.NewMap_BuiltData Referenced by PersistentLevel
+[2021.02.26-20.43.02:646][703]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/NewMap.NewMap
+[2021.02.26-20.43.02:646][703]Cmd: MAP LOAD FILE="../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Levels/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.26-20.43.02:647][703]LightingResults: New page: Lighting Build
+[2021.02.26-20.43.02:663][703]LoadErrors: New page: Loading map: NewMap.umap
+[2021.02.26-20.43.02:699][703]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2021.02.26-20.43.02:699][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-20.43.02:709][703]MapCheck: New page: Map Check
+[2021.02.26-20.43.02:709][703]LightingResults: New page: Lighting Build
+[2021.02.26-20.43.02:744][703]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.26-20.43.02:841][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.02.26-20.43.02:885][703]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2021.02.26-20.43.02:909][703]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.26-20.43.02:909][703]LogAIModule: Creating AISystem for world NewMap
+[2021.02.26-20.43.02:928][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.02.26-20.43.02:941][703]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.26-20.43.02:941][703]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2021.02.26-20.43.02:941][703]LogFileHelpers: Loading map 'NewMap' took 0.294
+[2021.02.26-20.43.15:597][ 19]LogStaticMesh: Building static mesh Forest_Plant_One_LP...
+[2021.02.26-20.43.15:632][ 19]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/Plants/Forest_Plant_One_LP.Forest_Plant_One_LP
+[2021.02.26-20.43.53:503][390]LogEditorViewport: Clicking on Actor (LMB): ReactivePlant_C (ReactivePlant)
+[2021.02.26-20.43.55:264][587]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Geometry/Meshes/Plants/ReactivePlant.ReactivePlant
+[2021.02.26-20.43.57:222][744]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.02.26-20.43.57:222][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-20.53.06:809][694]BlueprintLog: New page: Compile ReactivePlant
+[2021.02.26-20.53.07:481][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.02.26-20.53.07:674][694]LogSlate: Took 0.035709 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.02.26-20.53.24:676][ 38]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.26-20.53.24:840][ 38]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.02.26-20.53.24:841][ 38]LogPlayLevel: [PlayLevel] Compiling ReactivePlant before play...
+[2021.02.26-20.53.24:890][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.02.26-20.53.24:891][ 38]LogPlayLevel: PlayLevel: Blueprint regeneration took 50 ms (1 blueprints)
+[2021.02.26-20.53.24:939][ 38]PIE: New page: PIE session: NewMap (Feb 26, 2021, 10:53:24 AM)
+[2021.02.26-20.53.24:998][ 38]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.02.26-20.53.24:999][ 38]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.02.26-20.53.25:000][ 38]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2021.02.26-20.53.25:072][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042410s)
+[2021.02.26-20.53.25:089][ 38]LogAIModule: Creating AISystem for world NewMap
+[2021.02.26-20.53.25:099][ 38]LogPlayLevel: PIE: World Init took: (0.026637s)
+[2021.02.26-20.53.25:099][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.099048s)
+[2021.02.26-20.53.25:117][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.02.26-20.53.25:118][ 38]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.02.26-20.53.25:118][ 38]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.26-20.53.25:118][ 38]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.26-20.53.25:118][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.26-20.53.25:118][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.26-20.53.25:118][ 38]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.26-20.53.25:118][ 38]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.26-20.53.25:118][ 38]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.26-20.53.25:118][ 38]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.26-20.53.25:119][ 38]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.26-20.53.25:119][ 38]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.26-20.53.25:124][ 38]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.26-20.53.25:124][ 38]LogAudioMixer: Display: 1: FrontRight
+[2021.02.26-20.53.25:124][ 38]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.26-20.53.25:124][ 38]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.26-20.53.25:124][ 38]LogAudioMixer: Display: 4: BackLeft
+[2021.02.26-20.53.25:124][ 38]LogAudioMixer: Display: 5: BackRight
+[2021.02.26-20.53.25:124][ 38]LogAudioMixer: Display: 6: SideLeft
+[2021.02.26-20.53.25:124][ 38]LogAudioMixer: Display: 7: SideRight
+[2021.02.26-20.53.25:155][ 38]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.26-20.53.25:156][ 38]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.26-20.53.25:156][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.26-20.53.25:156][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.26-20.53.25:156][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.26-20.53.25:156][ 38]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.26-20.53.25:156][ 38]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.26-20.53.25:168][ 38]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.26-20.53.25:168][ 38]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.26-20.53.25:168][ 38]LogInit: FAudioDevice initialized.
+[2021.02.26-20.53.25:168][ 38]LogAudio: Display: Audio Device (ID: 2) registered with world 'NewMap'.
+[2021.02.26-20.53.25:190][ 38]LogLoad: Game class is 'Mechanic_Test_C'
+[2021.02.26-20.53.25:278][ 38]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.02.26-15.53.25
+[2021.02.26-20.53.25:281][ 38]LogWorld: Bringing up level for play took: 0.003775
+[2021.02.26-20.53.25:315][ 38]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.02.26-20.53.25:471][ 38]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.02.26-20.53.25:625][ 38]PIE: Server logged in
+[2021.02.26-20.53.25:627][ 38]PIE: Play in editor total start time 0.941 seconds.
+[2021.02.26-20.53.25:808][ 39]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.02.26-20.53.32:741][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-20.53.32:741][820]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2021.02.26-20.53.32:755][820]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.26-20.53.32:767][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-20.53.32:811][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.26-20.53.32:829][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-20.53.32:852][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-20.53.32:900][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.26-20.53.32:901][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.26-20.53.33:006][820]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.02.26-20.53.33:032][821]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.02.26-20.53.36:559][224]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.26-20.53.36:568][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.26-20.53.36:568][224]PIE: New page: PIE session: NewMap (Feb 26, 2021, 10:53:36 AM)
+[2021.02.26-20.53.36:605][224]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2021.02.26-20.53.36:608][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003026s)
+[2021.02.26-20.53.36:609][224]LogAIModule: Creating AISystem for world NewMap
+[2021.02.26-20.53.36:609][224]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2021.02.26-20.53.36:609][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.003987s)
+[2021.02.26-20.53.36:704][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.02.26-20.53.36:705][224]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.02.26-20.53.36:705][224]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.26-20.53.36:705][224]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.26-20.53.36:705][224]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.26-20.53.36:705][224]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.26-20.53.36:705][224]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.26-20.53.36:705][224]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.26-20.53.36:705][224]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.26-20.53.36:705][224]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.26-20.53.36:706][224]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.26-20.53.36:706][224]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.26-20.53.36:710][224]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.26-20.53.36:710][224]LogAudioMixer: Display: 1: FrontRight
+[2021.02.26-20.53.36:710][224]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.26-20.53.36:710][224]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.26-20.53.36:710][224]LogAudioMixer: Display: 4: BackLeft
+[2021.02.26-20.53.36:710][224]LogAudioMixer: Display: 5: BackRight
+[2021.02.26-20.53.36:710][224]LogAudioMixer: Display: 6: SideLeft
+[2021.02.26-20.53.36:710][224]LogAudioMixer: Display: 7: SideRight
+[2021.02.26-20.53.36:741][224]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.26-20.53.36:741][224]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.26-20.53.36:741][224]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.26-20.53.36:741][224]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.26-20.53.36:742][224]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.26-20.53.36:742][224]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.26-20.53.36:742][224]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.26-20.53.36:753][224]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.26-20.53.36:753][224]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.26-20.53.36:753][224]LogInit: FAudioDevice initialized.
+[2021.02.26-20.53.36:753][224]LogAudio: Display: Audio Device (ID: 3) registered with world 'NewMap'.
+[2021.02.26-20.53.36:762][224]LogLoad: Game class is 'Mechanic_Test_C'
+[2021.02.26-20.53.36:764][224]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.02.26-15.53.36
+[2021.02.26-20.53.36:764][224]LogWorld: Bringing up level for play took: 0.000716
+[2021.02.26-20.53.36:764][224]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.02.26-20.53.36:766][224]PIE: Server logged in
+[2021.02.26-20.53.36:767][224]PIE: Play in editor total start time 0.2 seconds.
+[2021.02.26-20.53.57:225][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-20.53.57:225][670]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2021.02.26-20.53.57:226][670]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.26-20.53.57:226][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-20.53.57:235][670]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.26-20.53.57:243][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-20.53.57:263][670]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.26-20.53.57:263][670]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.26-20.53.57:264][670]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.26-20.53.57:300][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-20.53.57:304][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.02.26-20.53.57:333][671]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.02.26-20.54.01:821][146]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/NewMap.NewMap:PersistentLevel.NewMap
+[2021.02.26-20.54.08:536][691]LogSavePackage: Moving '../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/ReactivePlant61B510B44D15DC2BCD3F70A1AE71F1B0.tmp' to '../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/Plants/ReactivePlant.uasset'
+[2021.02.26-20.54.08:589][691]AssetCheck: New page: Asset Save: ReactivePlant
+[2021.02.26-20.54.08:589][691]LogContentValidation: Display: Validating Blueprint /Game/Geometry/Meshes/Plants/ReactivePlant.ReactivePlant
+[2021.02.26-20.54.25:378][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.02.26-20.54.27:248][583]LogSlate: Window 'Save Content' being destroyed
+[2021.02.26-20.54.27:276][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap" FILE="../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.26-20.54.27:314][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.02.26-20.54.27:349][583]LogSavePackage: Moving '../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/NewMapC36B631A47CA13663A1E1ABF503E6EB3.tmp' to '../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Levels/NewMap.umap'
+[2021.02.26-20.54.27:402][583]LogFileHelpers: Saving map 'NewMap' took 0.127
+[2021.02.26-20.54.27:412][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Plants/ReactivePlant" FILE="../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Plants/ReactivePlant.uasset" SILENT=true
+[2021.02.26-20.54.27:430][583]LogSavePackage: Moving '../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/ReactivePlant0A76651240FB49F51D68759629610E65.tmp' to '../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Plants/ReactivePlant.uasset'
+[2021.02.26-20.54.27:652][583]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Forest.Forest
+[2021.02.26-20.54.27:652][583]Cmd: MAP LOAD FILE="../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Levels/Forest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.26-20.54.27:652][583]LightingResults: New page: Lighting Build
+[2021.02.26-20.54.27:652][583]LoadErrors: New page: Loading map: Forest.umap
+[2021.02.26-20.54.27:735][583]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.02.26-20.54.27:735][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-20.54.27:762][583]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.26-20.54.27:762][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-20.54.27:763][583]MapCheck: New page: Map Check
+[2021.02.26-20.54.27:763][583]LightingResults: New page: Lighting Build
+[2021.02.26-20.54.27:786][583]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.26-20.54.27:793][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.02.26-20.54.27:794][583]LogAudio: Display: Audio Device (ID: 1) registered with world 'Forest'.
+[2021.02.26-20.54.27:823][583]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.26-20.54.27:823][583]LogAIModule: Creating AISystem for world Forest
+[2021.02.26-20.54.27:898][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.02.26-20.54.27:912][583]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.26-20.54.27:912][583]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2021.02.26-20.54.27:912][583]LogFileHelpers: Loading map 'Forest' took 0.260
+[2021.02.26-20.54.27:950][583]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.26-20.54.27:950][583]LogContentValidation: Display: Validating Blueprint /Game/Plants/ReactivePlant.ReactivePlant
+[2021.02.26-20.54.27:950][583]LogContentValidation: Display: Validating World /Game/Levels/NewMap.NewMap
+[2021.02.26-20.54.31:623][990]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Forest.Forest:PersistentLevel.Forest
+[2021.02.26-20.54.47:867][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.02.26-20.54.47:892][489]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/NewMap.NewMap
+[2021.02.26-20.54.47:892][489]Cmd: MAP LOAD FILE="../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Levels/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.26-20.54.47:892][489]LightingResults: New page: Lighting Build
+[2021.02.26-20.54.47:892][489]LoadErrors: New page: Loading map: NewMap.umap
+[2021.02.26-20.54.47:964][489]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.02.26-20.54.47:964][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-20.54.47:996][489]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2021.02.26-20.54.47:996][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-20.54.47:996][489]MapCheck: New page: Map Check
+[2021.02.26-20.54.47:996][489]LightingResults: New page: Lighting Build
+[2021.02.26-20.54.48:020][489]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.26-20.54.48:027][489]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.02.26-20.54.48:028][489]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2021.02.26-20.54.48:034][489]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.26-20.54.48:034][489]LogAIModule: Creating AISystem for world NewMap
+[2021.02.26-20.54.48:062][489]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.02.26-20.54.48:075][489]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.26-20.54.48:075][489]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2021.02.26-20.54.48:075][489]LogFileHelpers: Loading map 'NewMap' took 0.184
+[2021.02.26-20.54.51:125][811]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/NewMap.NewMap:PersistentLevel.NewMap
+[2021.02.26-20.54.53:388][ 23]LogProperty: Warning: Illegal TEXT reference to a private object in external package (StaircaseBP_C /Game/Levels/Forest.Forest:PersistentLevel.StaircaseBP_5) from referencer (K2Node_Literal /Game/Levels/NewMap.NewMap:PersistentLevel.NewMap.EventGraph.K2Node_Literal_5).  Import failed...
+[2021.02.26-20.54.53:388][ 23]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'StaircaseBP_C'"/Game/Levels/Forest.Forest:PersistentLevel.StaircaseBP_5"''
+[2021.02.26-20.54.53:389][ 23]LogProperty: Warning: Illegal TEXT reference to a private object in external package (StaircaseBP_C /Game/Levels/Forest.Forest:PersistentLevel.StaircaseBP_5) from referencer (K2Node_Literal /Game/Levels/NewMap.NewMap:PersistentLevel.NewMap.EventGraph.K2Node_Literal_6).  Import failed...
+[2021.02.26-20.54.53:389][ 23]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'StaircaseBP_C'"/Game/Levels/Forest.Forest:PersistentLevel.StaircaseBP_5"''
+[2021.02.26-20.54.53:389][ 23]LogProperty: Warning: Illegal TEXT reference to a private object in external package (disappear_cube_blueprint_C /Game/Levels/Forest.Forest:PersistentLevel.disappear_cube_blueprint5) from referencer (K2Node_Literal /Game/Levels/NewMap.NewMap:PersistentLevel.NewMap.EventGraph.K2Node_Literal_7).  Import failed...
+[2021.02.26-20.54.53:389][ 23]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'disappear_cube_blueprint_C'"/Game/Levels/Forest.Forest:PersistentLevel.disappear_cube_blueprint5"''
+[2021.02.26-20.54.53:389][ 23]LogProperty: Warning: Illegal TEXT reference to a private object in external package (disappear_cube_blueprint_C /Game/Levels/Forest.Forest:PersistentLevel.disappear_cube_blueprint6) from referencer (K2Node_Literal /Game/Levels/NewMap.NewMap:PersistentLevel.NewMap.EventGraph.K2Node_Literal_8).  Import failed...
+[2021.02.26-20.54.53:389][ 23]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'disappear_cube_blueprint_C'"/Game/Levels/Forest.Forest:PersistentLevel.disappear_cube_blueprint6"''
+[2021.02.26-20.54.53:389][ 23]LogProperty: Warning: Illegal TEXT reference to a private object in external package (disappear_cube_blueprint_C /Game/Levels/Forest.Forest:PersistentLevel.disappear_cube_blueprint4_9) from referencer (K2Node_Literal /Game/Levels/NewMap.NewMap:PersistentLevel.NewMap.EventGraph.K2Node_Literal_9).  Import failed...
+[2021.02.26-20.54.53:389][ 23]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'disappear_cube_blueprint_C'"/Game/Levels/Forest.Forest:PersistentLevel.disappear_cube_blueprint4_9"''
+[2021.02.26-20.54.53:389][ 23]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TriggerBox /Game/Levels/Forest.Forest:PersistentLevel.TriggerBox_2) from referencer (K2Node_ActorBoundEvent /Game/Levels/NewMap.NewMap:PersistentLevel.NewMap.EventGraph.K2Node_ActorBoundEvent_4).  Import failed...
+[2021.02.26-20.54.53:389][ 23]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_ActorBoundEvent:EventOwner: unresolved reference to 'TriggerBox'"/Game/Levels/Forest.Forest:PersistentLevel.TriggerBox_2"''
+[2021.02.26-20.54.53:389][ 23]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TriggerBox /Game/Levels/Forest.Forest:PersistentLevel.TriggerBox2) from referencer (K2Node_ActorBoundEvent /Game/Levels/NewMap.NewMap:PersistentLevel.NewMap.EventGraph.K2Node_ActorBoundEvent_5).  Import failed...
+[2021.02.26-20.54.53:389][ 23]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_ActorBoundEvent:EventOwner: unresolved reference to 'TriggerBox'"/Game/Levels/Forest.Forest:PersistentLevel.TriggerBox2"''
+[2021.02.26-20.54.53:391][ 23]LogProperty: Warning: Illegal TEXT reference to a private object in external package (Door1_Blueprint_C /Game/Levels/Forest.Forest:PersistentLevel.Door1_Blueprint) from referencer (K2Node_Literal /Game/Levels/NewMap.NewMap:PersistentLevel.NewMap.EventGraph.K2Node_Literal_2).  Import failed...
+[2021.02.26-20.54.53:391][ 23]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'Door1_Blueprint_C'"/Game/Levels/Forest.Forest:PersistentLevel.Door1_Blueprint"''
+[2021.02.26-20.54.53:391][ 23]LogProperty: Warning: Illegal TEXT reference to a private object in external package (Door2_Blueprint_C /Game/Levels/Forest.Forest:PersistentLevel.Door2_Blueprint) from referencer (K2Node_Literal /Game/Levels/NewMap.NewMap:PersistentLevel.NewMap.EventGraph.K2Node_Literal_12).  Import failed...
+[2021.02.26-20.54.53:391][ 23]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'Door2_Blueprint_C'"/Game/Levels/Forest.Forest:PersistentLevel.Door2_Blueprint"''
+[2021.02.26-20.54.53:391][ 23]LogProperty: Warning: Illegal TEXT reference to a private object in external package (Door1_Blueprint_C /Game/Levels/Forest.Forest:PersistentLevel.Door1_Blueprint) from referencer (K2Node_ActorBoundEvent /Game/Levels/NewMap.NewMap:PersistentLevel.NewMap.EventGraph.K2Node_ActorBoundEvent_2).  Import failed...
+[2021.02.26-20.54.53:391][ 23]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_ActorBoundEvent:EventOwner: unresolved reference to 'Door1_Blueprint_C'"/Game/Levels/Forest.Forest:PersistentLevel.Door1_Blueprint"''
+[2021.02.26-20.54.53:391][ 23]LogProperty: Warning: Illegal TEXT reference to a private object in external package (Door2_Blueprint_C /Game/Levels/Forest.Forest:PersistentLevel.Door2_Blueprint) from referencer (K2Node_ActorBoundEvent /Game/Levels/NewMap.NewMap:PersistentLevel.NewMap.EventGraph.K2Node_ActorBoundEvent_9).  Import failed...
+[2021.02.26-20.54.53:391][ 23]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_ActorBoundEvent:EventOwner: unresolved reference to 'Door2_Blueprint_C'"/Game/Levels/Forest.Forest:PersistentLevel.Door2_Blueprint"''
+[2021.02.26-20.54.53:399][ 23]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TriggerBox /Game/Levels/Forest.Forest:PersistentLevel.TriggerBox3) from referencer (K2Node_ActorBoundEvent /Game/Levels/NewMap.NewMap:PersistentLevel.NewMap.EventGraph.K2Node_ActorBoundEvent_0).  Import failed...
+[2021.02.26-20.54.53:400][ 23]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_ActorBoundEvent:EventOwner: unresolved reference to 'TriggerBox'"/Game/Levels/Forest.Forest:PersistentLevel.TriggerBox3"''
+[2021.02.26-20.54.53:400][ 23]LogProperty: Warning: Illegal TEXT reference to a private object in external package (Door3_Blueprint_C /Game/Levels/Forest.Forest:PersistentLevel.Door3_Blueprint_2) from referencer (K2Node_Literal /Game/Levels/NewMap.NewMap:PersistentLevel.NewMap.EventGraph.K2Node_Literal_1).  Import failed...
+[2021.02.26-20.54.53:400][ 23]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'Door3_Blueprint_C'"/Game/Levels/Forest.Forest:PersistentLevel.Door3_Blueprint_2"''
+[2021.02.26-20.54.53:402][ 23]LogProperty: Warning: Illegal TEXT reference to a private object in external package (Door3_Blueprint_C /Game/Levels/Forest.Forest:PersistentLevel.Door3_Blueprint_2) from referencer (K2Node_ActorBoundEvent /Game/Levels/NewMap.NewMap:PersistentLevel.NewMap.EventGraph.K2Node_ActorBoundEvent_7).  Import failed...
+[2021.02.26-20.54.53:402][ 23]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_ActorBoundEvent:EventOwner: unresolved reference to 'Door3_Blueprint_C'"/Game/Levels/Forest.Forest:PersistentLevel.Door3_Blueprint_2"''
+[2021.02.26-20.54.53:403][ 23]LogProperty: Warning: Illegal TEXT reference to a private object in external package (Door4_BluePrint_C /Game/Levels/Forest.Forest:PersistentLevel.Door4_BluePrint_1) from referencer (K2Node_Literal /Game/Levels/NewMap.NewMap:PersistentLevel.NewMap.EventGraph.K2Node_Literal_3).  Import failed...
+[2021.02.26-20.54.53:403][ 23]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'Door4_BluePrint_C'"/Game/Levels/Forest.Forest:PersistentLevel.Door4_BluePrint_1"''
+[2021.02.26-20.54.53:404][ 23]LogProperty: Warning: Illegal TEXT reference to a private object in external package (Door4_BluePrint_C /Game/Levels/Forest.Forest:PersistentLevel.Door4_BluePrint_1) from referencer (K2Node_ActorBoundEvent /Game/Levels/NewMap.NewMap:PersistentLevel.NewMap.EventGraph.K2Node_ActorBoundEvent_11).  Import failed...
+[2021.02.26-20.54.53:404][ 23]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_ActorBoundEvent:EventOwner: unresolved reference to 'Door4_BluePrint_C'"/Game/Levels/Forest.Forest:PersistentLevel.Door4_BluePrint_1"''
+[2021.02.26-20.54.53:404][ 23]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TriggerBox /Game/Levels/Forest.Forest:PersistentLevel.TriggerBox4_2) from referencer (K2Node_ActorBoundEvent /Game/Levels/NewMap.NewMap:PersistentLevel.NewMap.EventGraph.K2Node_ActorBoundEvent_1).  Import failed...
+[2021.02.26-20.54.53:404][ 23]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_ActorBoundEvent:EventOwner: unresolved reference to 'TriggerBox'"/Game/Levels/Forest.Forest:PersistentLevel.TriggerBox4_2"''
+[2021.02.26-20.54.53:404][ 23]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TriggerBox /Game/Levels/Forest.Forest:PersistentLevel.TriggerBox5_2) from referencer (K2Node_ActorBoundEvent /Game/Levels/NewMap.NewMap:PersistentLevel.NewMap.EventGraph.K2Node_ActorBoundEvent_3).  Import failed...
+[2021.02.26-20.54.53:404][ 23]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_ActorBoundEvent:EventOwner: unresolved reference to 'TriggerBox'"/Game/Levels/Forest.Forest:PersistentLevel.TriggerBox5_2"''
+[2021.02.26-20.54.53:405][ 23]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TargetPoint /Game/Levels/Forest.Forest:PersistentLevel.TargetPoint17_3) from referencer (K2Node_Literal /Game/Levels/NewMap.NewMap:PersistentLevel.NewMap.EventGraph.K2Node_Literal_0).  Import failed...
+[2021.02.26-20.54.53:405][ 23]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'TargetPoint'"/Game/Levels/Forest.Forest:PersistentLevel.TargetPoint17_3"''
+[2021.02.26-20.54.55:336][201]BlueprintLog: New page: Compile NewMap
+[2021.02.26-20.54.55:341][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2021.02.26-20.54.55:341][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2021.02.26-20.54.55:341][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2021.02.26-20.54.55:341][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Could not find a variable named "CanTeleport" in 'NewMap_C'.
+Make sure 'NewMap_C' has been compiled for  Set CanTeleport
+[2021.02.26-20.54.55:341][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Could not find a variable named "CanTeleport" in 'NewMap_C'.
+Make sure 'NewMap_C' has been compiled for  Set CanTeleport
+[2021.02.26-20.54.55:342][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Could not find a variable named "CanTeleport" in 'NewMap_C'.
+Make sure 'NewMap_C' has been compiled for  Get CanTeleport
+[2021.02.26-20.54.55:342][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2021.02.26-20.54.55:342][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Could not find a variable named "CanTeleport" in 'NewMap_C'.
+Make sure 'NewMap_C' has been compiled for  Set CanTeleport
+[2021.02.26-20.54.55:342][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Could not find a variable named "CanTeleport" in 'NewMap_C'.
+Make sure 'NewMap_C' has been compiled for  Set CanTeleport
+[2021.02.26-20.54.55:342][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Could not find a variable named "CanTeleport" in 'NewMap_C'.
+Make sure 'NewMap_C' has been compiled for  Get CanTeleport
+[2021.02.26-20.54.55:342][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2021.02.26-20.54.55:343][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2021.02.26-20.54.55:343][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2021.02.26-20.54.55:344][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Could not find a variable named "CanTeleport" in 'NewMap_C'.
+Make sure 'NewMap_C' has been compiled for  Set CanTeleport
+[2021.02.26-20.54.55:344][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Could not find a variable named "CanTeleport" in 'NewMap_C'.
+Make sure 'NewMap_C' has been compiled for  Set CanTeleport
+[2021.02.26-20.54.55:344][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Could not find a variable named "CanTeleport" in 'NewMap_C'.
+Make sure 'NewMap_C' has been compiled for  Set CanTeleport
+[2021.02.26-20.54.55:344][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Could not find a variable named "CanTeleport" in 'NewMap_C'.
+Make sure 'NewMap_C' has been compiled for  Get CanTeleport
+[2021.02.26-20.54.55:344][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Could not find a variable named "CanTeleport" in 'NewMap_C'.
+Make sure 'NewMap_C' has been compiled for  Set CanTeleport
+[2021.02.26-20.54.55:344][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Could not find a variable named "CanTeleport" in 'NewMap_C'.
+Make sure 'NewMap_C' has been compiled for  Get CanTeleport
+[2021.02.26-20.54.55:344][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2021.02.26-20.54.55:344][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2021.02.26-20.54.55:346][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2021.02.26-20.54.55:346][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2021.02.26-20.54.55:346][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2021.02.26-20.54.55:346][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2021.02.26-20.54.55:346][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2021.02.26-20.54.55:346][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2021.02.26-20.54.55:367][201]LogBlueprint: Error: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] The property associated with  Can Teleport  could not be found in '/Game/Levels/NewMap.NewMap_C'
+[2021.02.26-20.54.55:367][201]LogBlueprint: Error: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] The property associated with  Can Teleport  could not be found in '/Game/Levels/NewMap.NewMap_C'
+[2021.02.26-20.54.55:367][201]LogBlueprint: Error: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] The property associated with  Can Teleport  could not be found in '/Game/Levels/NewMap.NewMap_C'
+[2021.02.26-20.54.55:367][201]LogBlueprint: Error: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] The property associated with  Can Teleport  could not be found in '/Game/Levels/NewMap.NewMap_C'
+[2021.02.26-20.54.55:367][201]LogBlueprint: Error: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] The property associated with  Can Teleport  could not be found in '/Game/Levels/NewMap.NewMap_C'
+[2021.02.26-20.54.55:367][201]LogBlueprint: Error: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] The property associated with  Can Teleport  could not be found in '/Game/Levels/NewMap.NewMap_C'
+[2021.02.26-20.54.55:367][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2021.02.26-20.54.55:367][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2021.02.26-20.54.55:368][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2021.02.26-20.54.55:368][201]LogBlueprint: Error: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] The property associated with  Can Teleport  could not be found in '/Game/Levels/NewMap.NewMap_C'
+[2021.02.26-20.54.55:368][201]LogBlueprint: Error: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] The property associated with  Can Teleport  could not be found in '/Game/Levels/NewMap.NewMap_C'
+[2021.02.26-20.54.55:368][201]LogBlueprint: Error: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] The property associated with  Can Teleport  could not be found in '/Game/Levels/NewMap.NewMap_C'
+[2021.02.26-20.54.55:368][201]LogBlueprint: Error: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] The property associated with  Can Teleport  could not be found in '/Game/Levels/NewMap.NewMap_C'
+[2021.02.26-20.54.55:368][201]LogBlueprint: Error: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] The property associated with  Can Teleport  could not be found in '/Game/Levels/NewMap.NewMap_C'
+[2021.02.26-20.54.55:368][201]LogBlueprint: Error: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] The property associated with  Can Teleport  could not be found in '/Game/Levels/NewMap.NewMap_C'
+[2021.02.26-20.54.55:368][201]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2021.02.26-20.54.55:432][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.02.26-20.55.06:431][200]BlueprintLog: New page: Compile NewMap
+[2021.02.26-20.55.06:434][200]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2021.02.26-20.55.06:434][200]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2021.02.26-20.55.06:435][200]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2021.02.26-20.55.06:436][200]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2021.02.26-20.55.06:436][200]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2021.02.26-20.55.06:436][200]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2021.02.26-20.55.06:436][200]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2021.02.26-20.55.06:436][200]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2021.02.26-20.55.06:437][200]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2021.02.26-20.55.06:437][200]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2021.02.26-20.55.06:437][200]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2021.02.26-20.55.06:437][200]LogBlueprint: Error: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2021.02.26-20.55.06:438][200]LogBlueprint: Error: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2021.02.26-20.55.06:438][200]LogBlueprint: Error: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2021.02.26-20.55.06:438][200]LogBlueprint: Error: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2021.02.26-20.55.06:438][200]LogBlueprint: Error: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Levels\NewMap.umap: [Compiler] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2021.02.26-20.55.06:481][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.02.26-20.55.12:889][832]BlueprintLog: New page: Compile NewMap
+[2021.02.26-20.55.12:939][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.02.26-20.55.16:173][162]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.26-20.55.16:182][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.26-20.55.16:182][162]PIE: New page: PIE session: NewMap (Feb 26, 2021, 10:55:16 AM)
+[2021.02.26-20.55.16:205][162]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2021.02.26-20.55.16:220][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014618s)
+[2021.02.26-20.55.16:220][162]LogAIModule: Creating AISystem for world NewMap
+[2021.02.26-20.55.16:221][162]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2021.02.26-20.55.16:221][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.015519s)
+[2021.02.26-20.55.16:245][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.02.26-20.55.16:246][162]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.02.26-20.55.16:246][162]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.26-20.55.16:246][162]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.26-20.55.16:246][162]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.26-20.55.16:246][162]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.26-20.55.16:246][162]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.26-20.55.16:246][162]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.26-20.55.16:246][162]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.26-20.55.16:246][162]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.26-20.55.16:246][162]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.26-20.55.16:246][162]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.26-20.55.16:252][162]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.26-20.55.16:252][162]LogAudioMixer: Display: 1: FrontRight
+[2021.02.26-20.55.16:252][162]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.26-20.55.16:252][162]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.26-20.55.16:252][162]LogAudioMixer: Display: 4: BackLeft
+[2021.02.26-20.55.16:252][162]LogAudioMixer: Display: 5: BackRight
+[2021.02.26-20.55.16:252][162]LogAudioMixer: Display: 6: SideLeft
+[2021.02.26-20.55.16:252][162]LogAudioMixer: Display: 7: SideRight
+[2021.02.26-20.55.16:287][162]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.26-20.55.16:288][162]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.26-20.55.16:288][162]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.26-20.55.16:288][162]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.26-20.55.16:288][162]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.26-20.55.16:288][162]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.26-20.55.16:288][162]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.26-20.55.16:300][162]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.26-20.55.16:300][162]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.26-20.55.16:300][162]LogInit: FAudioDevice initialized.
+[2021.02.26-20.55.16:300][162]LogAudio: Display: Audio Device (ID: 4) registered with world 'NewMap'.
+[2021.02.26-20.55.16:306][162]LogLoad: Game class is 'Mechanic_Test_C'
+[2021.02.26-20.55.16:307][162]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.02.26-15.55.16
+[2021.02.26-20.55.16:308][162]LogWorld: Bringing up level for play took: 0.000756
+[2021.02.26-20.55.16:308][162]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.02.26-20.55.16:338][162]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.02.26-20.55.16:360][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-20.55.16:380][162]PIE: Server logged in
+[2021.02.26-20.55.16:381][162]PIE: Play in editor total start time 0.199 seconds.
+[2021.02.26-20.55.17:159][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-20.55.35:326][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-20.55.35:326][425]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2021.02.26-20.55.35:326][425]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.26-20.55.35:326][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-20.55.35:336][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.26-20.55.35:340][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-20.55.35:364][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-20.55.35:364][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.26-20.55.35:364][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.26-20.55.35:414][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.02.26-20.55.35:436][426]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.02.26-20.55.39:000][653]LogEditorViewport: Clicking on Actor (LMB): ReactivePlant_C (ReactivePlant)
+[2021.02.26-20.56.00:581][ 21]LogHttp: Warning: 00000267130B4100: request has been successfully processed. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B85CF4B26-4022-01EA-4287-76BCE4A3A9B1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=eb6d55214b4a87617436a0acffcd7d03%7C73354c3532ff48c3a88e5dfd2ad0e6e5%7C472273e1-d1e4-4d51-9864-4450d63f4848&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 502, content length: 122, actual payload size: 122, elapsed: 60.06s
+[2021.02.26-20.56.00:581][ 21]LogHttp: Warning: 00000267130B4100 Response Header Server: awselb/2.0
+[2021.02.26-20.56.00:581][ 21]LogHttp: Warning: 00000267130B4100 Response Header Date: Fri, 26 Feb 2021 20:56:49 GMT
+[2021.02.26-20.56.00:581][ 21]LogHttp: Warning: 00000267130B4100 Response Header Content-Type: text/html
+[2021.02.26-20.56.00:581][ 21]LogHttp: Warning: 00000267130B4100 Response Header Content-Length: 122
+[2021.02.26-20.56.00:581][ 21]LogHttp: Warning: 00000267130B4100 Response Header Connection: keep-alive
+[2021.02.26-20.56.05:599][527]BlueprintLog: New page: Compile ReactivePlant
+[2021.02.26-20.56.05:650][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.02.26-20.56.07:853][748]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.26-20.56.07:861][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.26-20.56.07:861][748]PIE: New page: PIE session: NewMap (Feb 26, 2021, 10:56:07 AM)
+[2021.02.26-20.56.07:895][748]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2021.02.26-20.56.07:899][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004498s)
+[2021.02.26-20.56.07:900][748]LogAIModule: Creating AISystem for world NewMap
+[2021.02.26-20.56.07:900][748]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2021.02.26-20.56.07:900][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.005341s)
+[2021.02.26-20.56.07:926][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.02.26-20.56.07:926][748]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.02.26-20.56.07:927][748]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.26-20.56.07:927][748]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.26-20.56.07:927][748]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.26-20.56.07:927][748]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.26-20.56.07:927][748]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.26-20.56.07:927][748]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.26-20.56.07:927][748]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.26-20.56.07:927][748]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.26-20.56.07:927][748]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.26-20.56.07:927][748]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.26-20.56.07:931][748]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.26-20.56.07:931][748]LogAudioMixer: Display: 1: FrontRight
+[2021.02.26-20.56.07:931][748]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.26-20.56.07:931][748]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.26-20.56.07:931][748]LogAudioMixer: Display: 4: BackLeft
+[2021.02.26-20.56.07:931][748]LogAudioMixer: Display: 5: BackRight
+[2021.02.26-20.56.07:931][748]LogAudioMixer: Display: 6: SideLeft
+[2021.02.26-20.56.07:931][748]LogAudioMixer: Display: 7: SideRight
+[2021.02.26-20.56.07:960][748]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.26-20.56.07:960][748]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.26-20.56.07:960][748]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.26-20.56.07:960][748]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.26-20.56.07:961][748]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.26-20.56.07:961][748]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.26-20.56.07:961][748]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.26-20.56.07:972][748]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.26-20.56.07:972][748]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.26-20.56.07:972][748]LogInit: FAudioDevice initialized.
+[2021.02.26-20.56.07:972][748]LogAudio: Display: Audio Device (ID: 5) registered with world 'NewMap'.
+[2021.02.26-20.56.07:980][748]LogLoad: Game class is 'Mechanic_Test_C'
+[2021.02.26-20.56.07:981][748]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.02.26-15.56.07
+[2021.02.26-20.56.07:981][748]LogWorld: Bringing up level for play took: 0.000745
+[2021.02.26-20.56.07:982][748]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.02.26-20.56.07:984][748]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.02.26-20.56.07:984][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-20.56.07:984][748]PIE: Server logged in
+[2021.02.26-20.56.07:985][748]PIE: Play in editor total start time 0.123 seconds.
+[2021.02.26-20.56.13:670][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-20.56.17:375][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-20.56.17:375][870]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2021.02.26-20.56.17:375][870]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.26-20.56.17:375][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-20.56.17:388][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.26-20.56.17:396][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-20.56.17:420][870]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.26-20.56.17:420][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.26-20.56.17:421][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.26-20.56.17:453][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-20.56.17:456][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.02.26-20.56.17:484][871]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.02.26-20.56.18:606][  4]LogEditorViewport: Clicking on Actor (LMB): ReactivePlant_C (ReactivePlant)
+[2021.02.26-20.56.44:427][607]BlueprintLog: New page: Compile ReactivePlant
+[2021.02.26-20.56.44:477][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.02.26-20.57.05:643][661]BlueprintLog: New page: Compile ReactivePlant
+[2021.02.26-20.57.05:696][661]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.02.26-20.57.07:474][836]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.26-20.57.07:483][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.26-20.57.07:483][836]PIE: New page: PIE session: NewMap (Feb 26, 2021, 10:57:07 AM)
+[2021.02.26-20.57.07:505][836]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2021.02.26-20.57.07:509][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004425s)
+[2021.02.26-20.57.07:510][836]LogAIModule: Creating AISystem for world NewMap
+[2021.02.26-20.57.07:510][836]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2021.02.26-20.57.07:510][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.005312s)
+[2021.02.26-20.57.07:536][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.02.26-20.57.07:536][836]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.02.26-20.57.07:536][836]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.26-20.57.07:536][836]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.26-20.57.07:536][836]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.26-20.57.07:537][836]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.26-20.57.07:537][836]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.26-20.57.07:537][836]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.26-20.57.07:537][836]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.26-20.57.07:537][836]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.26-20.57.07:537][836]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.26-20.57.07:537][836]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.26-20.57.07:541][836]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.26-20.57.07:541][836]LogAudioMixer: Display: 1: FrontRight
+[2021.02.26-20.57.07:541][836]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.26-20.57.07:541][836]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.26-20.57.07:541][836]LogAudioMixer: Display: 4: BackLeft
+[2021.02.26-20.57.07:541][836]LogAudioMixer: Display: 5: BackRight
+[2021.02.26-20.57.07:541][836]LogAudioMixer: Display: 6: SideLeft
+[2021.02.26-20.57.07:541][836]LogAudioMixer: Display: 7: SideRight
+[2021.02.26-20.57.07:570][836]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.26-20.57.07:570][836]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.26-20.57.07:570][836]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.26-20.57.07:570][836]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.26-20.57.07:570][836]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.26-20.57.07:570][836]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.26-20.57.07:570][836]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.26-20.57.07:582][836]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.26-20.57.07:582][836]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.26-20.57.07:582][836]LogInit: FAudioDevice initialized.
+[2021.02.26-20.57.07:582][836]LogAudio: Display: Audio Device (ID: 6) registered with world 'NewMap'.
+[2021.02.26-20.57.07:590][836]LogLoad: Game class is 'Mechanic_Test_C'
+[2021.02.26-20.57.07:591][836]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.02.26-15.57.07
+[2021.02.26-20.57.07:592][836]LogWorld: Bringing up level for play took: 0.000743
+[2021.02.26-20.57.07:592][836]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.02.26-20.57.07:594][836]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.02.26-20.57.07:594][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-20.57.07:594][836]PIE: Server logged in
+[2021.02.26-20.57.07:595][836]PIE: Play in editor total start time 0.113 seconds.
+[2021.02.26-20.57.12:895][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-20.57.12:895][460]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2021.02.26-20.57.12:895][460]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.26-20.57.12:896][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-20.57.12:910][460]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.26-20.57.12:918][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-20.57.12:942][460]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.26-20.57.12:942][460]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.26-20.57.12:943][460]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.26-20.57.12:957][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-20.57.12:960][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.02.26-20.57.12:989][461]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.02.26-20.57.15:953][805]LogEditorViewport: Clicking on Actor (LMB): ReactivePlant_C (ReactivePlant)
+[2021.02.26-20.57.23:269][534]LogEditorViewport: Clicking on Actor (LMB): ReactivePlant_C (ReactivePlant)
+[2021.02.26-20.57.24:247][649]Cmd: DELETE
+[2021.02.26-20.57.24:261][649]Cmd: ACTOR DELETE
+[2021.02.26-20.57.24:622][649]LogEditorActor: Deleted Actor: ReactivePlant_C
+[2021.02.26-20.57.24:648][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.02.26-20.57.24:662][649]LogEditorActor: Deleted 1 Actors (0.108 secs)
+[2021.02.26-20.57.32:275][536]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.26-20.57.32:284][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.26-20.57.32:284][536]PIE: New page: PIE session: NewMap (Feb 26, 2021, 10:57:32 AM)
+[2021.02.26-20.57.32:315][536]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2021.02.26-20.57.32:319][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004523s)
+[2021.02.26-20.57.32:319][536]LogAIModule: Creating AISystem for world NewMap
+[2021.02.26-20.57.32:319][536]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2021.02.26-20.57.32:319][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.005398s)
+[2021.02.26-20.57.32:351][536]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.02.26-20.57.32:352][536]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.02.26-20.57.32:352][536]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.26-20.57.32:352][536]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.26-20.57.32:352][536]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.26-20.57.32:352][536]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.26-20.57.32:352][536]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.26-20.57.32:352][536]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.26-20.57.32:352][536]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.26-20.57.32:352][536]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.26-20.57.32:352][536]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.26-20.57.32:352][536]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.26-20.57.32:357][536]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.26-20.57.32:357][536]LogAudioMixer: Display: 1: FrontRight
+[2021.02.26-20.57.32:357][536]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.26-20.57.32:357][536]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.26-20.57.32:357][536]LogAudioMixer: Display: 4: BackLeft
+[2021.02.26-20.57.32:357][536]LogAudioMixer: Display: 5: BackRight
+[2021.02.26-20.57.32:357][536]LogAudioMixer: Display: 6: SideLeft
+[2021.02.26-20.57.32:357][536]LogAudioMixer: Display: 7: SideRight
+[2021.02.26-20.57.32:385][536]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.26-20.57.32:385][536]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.26-20.57.32:385][536]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.26-20.57.32:385][536]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.26-20.57.32:385][536]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.26-20.57.32:385][536]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.26-20.57.32:385][536]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.26-20.57.32:397][536]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.26-20.57.32:397][536]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.26-20.57.32:397][536]LogInit: FAudioDevice initialized.
+[2021.02.26-20.57.32:397][536]LogAudio: Display: Audio Device (ID: 7) registered with world 'NewMap'.
+[2021.02.26-20.57.32:405][536]LogLoad: Game class is 'Mechanic_Test_C'
+[2021.02.26-20.57.32:407][536]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.02.26-15.57.32
+[2021.02.26-20.57.32:407][536]LogWorld: Bringing up level for play took: 0.000738
+[2021.02.26-20.57.32:407][536]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.02.26-20.57.32:409][536]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.02.26-20.57.32:409][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-20.57.32:409][536]PIE: Server logged in
+[2021.02.26-20.57.32:410][536]PIE: Play in editor total start time 0.127 seconds.
+[2021.02.26-20.57.35:025][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-20.57.35:025][845]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2021.02.26-20.57.35:025][845]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.26-20.57.35:026][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-20.57.35:034][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.26-20.57.35:042][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-20.57.35:066][845]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.26-20.57.35:066][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.26-20.57.35:067][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.26-20.57.35:109][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-20.57.35:112][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.02.26-20.57.35:139][846]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.02.26-20.58.00:972][603]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Plants/ReactivePlant.ReactivePlant
+[2021.02.26-20.58.35:011][138]BlueprintLog: New page: Compile ReactivePlant
+[2021.02.26-20.58.35:087][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.02.26-20.58.43:288][955]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.02.26-20.58.43:288][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-20.58.45:739][168]BlueprintLog: New page: Compile ReactivePlant
+[2021.02.26-20.58.45:787][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.02.26-20.58.50:007][598]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Plants/ReactivePlant.ReactivePlant
+[2021.02.26-20.58.52:204][790]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.02.26-20.58.52:204][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-20.59.00:236][649]LogEditorViewport: Clicking on Actor (LMB): ReactivePlant_C (ReactivePlant)
+[2021.02.26-20.59.00:941][732]Cmd: DELETE
+[2021.02.26-20.59.00:941][732]Cmd: ACTOR DELETE
+[2021.02.26-20.59.00:944][732]LogEditorActor: Deleted Actor: ReactivePlant_C
+[2021.02.26-20.59.00:977][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.02.26-20.59.00:978][732]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2021.02.26-20.59.02:072][852]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.26-20.59.02:081][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.26-20.59.02:081][852]PIE: New page: PIE session: NewMap (Feb 26, 2021, 10:59:02 AM)
+[2021.02.26-20.59.02:105][852]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2021.02.26-20.59.02:109][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004313s)
+[2021.02.26-20.59.02:110][852]LogAIModule: Creating AISystem for world NewMap
+[2021.02.26-20.59.02:110][852]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2021.02.26-20.59.02:110][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.005144s)
+[2021.02.26-20.59.02:135][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.02.26-20.59.02:136][852]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.02.26-20.59.02:136][852]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.26-20.59.02:136][852]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.26-20.59.02:136][852]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.26-20.59.02:136][852]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.26-20.59.02:136][852]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.26-20.59.02:136][852]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.26-20.59.02:136][852]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.26-20.59.02:136][852]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.26-20.59.02:136][852]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.26-20.59.02:137][852]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.26-20.59.02:141][852]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.26-20.59.02:141][852]LogAudioMixer: Display: 1: FrontRight
+[2021.02.26-20.59.02:141][852]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.26-20.59.02:141][852]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.26-20.59.02:141][852]LogAudioMixer: Display: 4: BackLeft
+[2021.02.26-20.59.02:141][852]LogAudioMixer: Display: 5: BackRight
+[2021.02.26-20.59.02:141][852]LogAudioMixer: Display: 6: SideLeft
+[2021.02.26-20.59.02:141][852]LogAudioMixer: Display: 7: SideRight
+[2021.02.26-20.59.02:172][852]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.26-20.59.02:172][852]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.26-20.59.02:172][852]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.26-20.59.02:172][852]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.26-20.59.02:173][852]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.26-20.59.02:173][852]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.26-20.59.02:173][852]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.26-20.59.02:173][852]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.26-20.59.02:173][852]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.26-20.59.02:173][852]LogInit: FAudioDevice initialized.
+[2021.02.26-20.59.02:173][852]LogAudio: Display: Audio Device (ID: 8) registered with world 'NewMap'.
+[2021.02.26-20.59.02:187][852]LogLoad: Game class is 'Mechanic_Test_C'
+[2021.02.26-20.59.02:189][852]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.02.26-15.59.02
+[2021.02.26-20.59.02:189][852]LogWorld: Bringing up level for play took: 0.000758
+[2021.02.26-20.59.02:189][852]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.02.26-20.59.02:226][852]LogOutputDevice: Warning: 
+
+Script Stack (1 frames):
+ReactivePlant_C.ReceiveBeginPlay
+
+[2021.02.26-20.59.04:190][852]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.965 s
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: === Handled ensure: ===
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: 
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Blueprint.cpp] [Line: 903]
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: Type mismatch: Expected ReactivePlant_C, Found REINST_ReactivePlant_C_186
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: Stack: 
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: [Callstack] 0x00007ffaf4f8ed07 UE4Editor-Engine.dll!UnknownFunction []
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: [Callstack] 0x00007ffaf38a7824 UE4Editor-Engine.dll!UnknownFunction []
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: [Callstack] 0x00007ffaf85446fe UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: [Callstack] 0x00007ffaf89bc46a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: [Callstack] 0x00007ffafa65bf71 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: [Callstack] 0x00007ffafa670740 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: [Callstack] 0x00007ffafa64238d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: [Callstack] 0x00007ffafa641794 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: [Callstack] 0x00007ffafa3b26a4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: [Callstack] 0x00007ffafa640ef3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: [Callstack] 0x00007ffaf35ac125 UE4Editor-Engine.dll!UnknownFunction []
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: [Callstack] 0x00007ffaf357acc7 UE4Editor-Engine.dll!UnknownFunction []
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: [Callstack] 0x00007ffaf358410c UE4Editor-Engine.dll!UnknownFunction []
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: [Callstack] 0x00007ffaf4957683 UE4Editor-Engine.dll!UnknownFunction []
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: [Callstack] 0x00007ffaf3cd4001 UE4Editor-Engine.dll!UnknownFunction []
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: [Callstack] 0x00007ffaf48fbece UE4Editor-Engine.dll!UnknownFunction []
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: [Callstack] 0x00007ffaf3cf5fed UE4Editor-Engine.dll!UnknownFunction []
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: [Callstack] 0x00007ffaf8658a15 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: [Callstack] 0x00007ffaf867b8bf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: [Callstack] 0x00007ffaf865974d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: [Callstack] 0x00007ffaf8697d32 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.26-20.59.04:203][852]LogOutputDevice: Error: [Callstack] 0x00007ffaf869b2c1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.26-20.59.04:204][852]LogOutputDevice: Error: [Callstack] 0x00007ffaf869ab88 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.26-20.59.04:204][852]LogOutputDevice: Error: [Callstack] 0x00007ffaf80f8ce8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.26-20.59.04:204][852]LogOutputDevice: Error: [Callstack] 0x00007ffaf8a14206 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.26-20.59.04:204][852]LogOutputDevice: Error: [Callstack] 0x00007ff66f8d9bda UE4Editor.exe!UnknownFunction []
+[2021.02.26-20.59.04:204][852]LogOutputDevice: Error: [Callstack] 0x00007ff66f8f11ac UE4Editor.exe!UnknownFunction []
+[2021.02.26-20.59.04:204][852]LogOutputDevice: Error: [Callstack] 0x00007ff66f8f128a UE4Editor.exe!UnknownFunction []
+[2021.02.26-20.59.04:204][852]LogOutputDevice: Error: [Callstack] 0x00007ff66f9052ed UE4Editor.exe!UnknownFunction []
+[2021.02.26-20.59.04:204][852]LogOutputDevice: Error: [Callstack] 0x00007ff66f90801a UE4Editor.exe!UnknownFunction []
+[2021.02.26-20.59.04:204][852]LogOutputDevice: Error: [Callstack] 0x00007ffb696e7034 KERNEL32.DLL!UnknownFunction []
+[2021.02.26-20.59.04:204][852]LogOutputDevice: Error: [Callstack] 0x00007ffb6a31d241 ntdll.dll!UnknownFunction []
+[2021.02.26-20.59.04:204][852]LogOutputDevice: Error: 
