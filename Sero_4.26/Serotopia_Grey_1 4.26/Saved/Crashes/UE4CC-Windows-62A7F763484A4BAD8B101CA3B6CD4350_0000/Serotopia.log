@@ -1,0 +1,1201 @@
+﻿Log file open, 03/16/21 21:08:07
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Serotopia
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.193638
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/jedie/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.17-01.08.08:187][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.17-01.08.08:187][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.17-01.08.08:187][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.03.17-01.08.08:187][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.17-01.08.08:187][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.03.17-01.08.08:187][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:0]]
+[2021.03.17-01.08.08:187][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.03.17-01.08.08:187][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.03.17-01.08.08:187][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.17-01.08.08:187][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.17-01.08.08:187][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.17-01.08.08:187][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.17-01.08.08:187][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.17-01.08.08:187][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.17-01.08.08:187][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.17-01.08.08:187][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.17-01.08.08:187][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.17-01.08.08:187][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.17-01.08.08:187][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.17-01.08.08:187][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.17-01.08.08:187][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.17-01.08.08:187][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.17-01.08.08:187][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.03.17-01.08.08:188][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.17-01.08.08:188][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.17-01.08.08:188][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.17-01.08.08:188][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.17-01.08.08:188][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.17-01.08.08:188][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.17-01.08.08:188][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.17-01.08.08:188][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.17-01.08.08:188][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.17-01.08.08:188][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.17-01.08.08:188][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.17-01.08.08:188][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.17-01.08.08:188][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.17-01.08.08:188][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.17-01.08.08:188][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.03.17-01.08.08:188][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.03.17-01.08.08:213][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-01.08.08:213][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.17-01.08.08:213][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.17-01.08.08:213][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-01.08.08:213][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.17-01.08.08:213][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-01.08.08:213][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.17-01.08.08:213][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.17-01.08.08:213][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.17-01.08.08:213][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.17-01.08.08:213][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.17-01.08.08:213][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.17-01.08.08:213][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.17-01.08.08:213][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.17-01.08.08:213][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.17-01.08.08:213][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.17-01.08.08:214][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.17-01.08.08:214][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.17-01.08.08:214][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.17-01.08.08:215][  0]LogHAL: Display: Platform has ~ 16 GB [17115226112 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.17-01.08.08:215][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.17-01.08.08:215][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.17-01.08.08:215][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.17-01.08.08:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.17-01.08.08:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.17-01.08.08:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.17-01.08.08:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.17-01.08.08:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.17-01.08.08:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.17-01.08.08:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.17-01.08.08:216][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-01.08.08:216][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.17-01.08.08:216][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.17-01.08.08:216][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-01.08.08:216][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.17-01.08.08:216][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.17-01.08.08:216][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.17-01.08.08:216][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.17-01.08.08:216][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.17-01.08.08:216][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.17-01.08.08:216][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.17-01.08.08:216][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.03.17-01.08.08:216][  0]LogInit: Computer: DESKTOP-FB3K3NO
+[2021.03.17-01.08.08:216][  0]LogInit: User: jedie
+[2021.03.17-01.08.08:216][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.03.17-01.08.08:216][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.17-01.08.08:216][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.03.17-01.08.08:216][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.17-01.08.08:216][  0]LogMemory: Process Physical Memory: 140.83 MB used, 140.84 MB peak
+[2021.03.17-01.08.08:216][  0]LogMemory: Process Virtual Memory: 116.24 MB used, 116.24 MB peak
+[2021.03.17-01.08.08:216][  0]LogMemory: Physical Memory: 6912.72 MB used,  9409.63 MB free, 16322.35 MB total
+[2021.03.17-01.08.08:216][  0]LogMemory: Virtual Memory: 134211416.00 MB used,  6309.84 MB free, 134217728.00 MB total
+[2021.03.17-01.08.08:220][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.17-01.08.08:254][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.17-01.08.08:256][  0]LogInit: Using OS detected language (en-US).
+[2021.03.17-01.08.08:256][  0]LogInit: Using OS detected locale (en-US).
+[2021.03.17-01.08.08:261][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.03.17-01.08.08:428][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.17-01.08.08:436][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.17-01.08.08:484][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.17-01.08.08:484][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.17-01.08.08:618][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.17-01.08.08:618][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.17-01.08.08:618][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.17-01.08.08:618][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.17-01.08.08:689][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2021.03.17-01.08.08:689][  0]LogD3D11RHI:       8031/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.03.17-01.08.08:691][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.17-01.08.08:691][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.17-01.08.08:691][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.17-01.08.08:696][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.17-01.08.08:696][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.17-01.08.08:696][  0]LogWindows: EnumDisplayDevices:
+[2021.03.17-01.08.08:696][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2021.03.17-01.08.08:696][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2021.03.17-01.08.08:696][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.03.17-01.08.08:696][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.03.17-01.08.08:697][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.17-01.08.08:697][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2021.03.17-01.08.08:697][  0]LogD3D11RHI:   Driver Version: 457.30 (internal:27.21.14.5730, unified:457.30)
+[2021.03.17-01.08.08:697][  0]LogD3D11RHI:      Driver Date: 11-6-2020
+[2021.03.17-01.08.08:697][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.03.17-01.08.08:743][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.17-01.08.08:743][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.17-01.08.08:743][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.17-01.08.08:761][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.17-01.08.08:762][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.03.17-01.08.09:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.17-01.08.09:052][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.17-01.08.09:052][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.17-01.08.09:052][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.17-01.08.09:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.17-01.08.09:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.17-01.08.09:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.17-01.08.09:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.17-01.08.09:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.17-01.08.09:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.17-01.08.09:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.17-01.08.09:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.17-01.08.09:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.17-01.08.09:078][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.17-01.08.09:087][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.17-01.08.09:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.17-01.08.09:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.17-01.08.09:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.17-01.08.09:116][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.17-01.08.09:123][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.17-01.08.09:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.17-01.08.09:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.17-01.08.09:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.17-01.08.09:156][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.17-01.08.09:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.17-01.08.09:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.17-01.08.09:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.17-01.08.09:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.17-01.08.09:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.17-01.08.09:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.17-01.08.09:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.17-01.08.09:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.17-01.08.09:212][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.17-01.08.09:217][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.17-01.08.09:265][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.17-01.08.09:265][  0]LogShaderCompilers: Guid format shader working directory is -64 characters bigger than the processId version (../../../../../../Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Intermediate/Shaders/WorkingDirectory/2304/).
+[2021.03.17-01.08.09:265][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jedie/AppData/Local/Temp/UnrealShaderWorkingDir/67029272458FF244354A6AA9DE291910/'.
+[2021.03.17-01.08.09:265][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.17-01.08.09:265][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.17-01.08.09:908][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.17-01.08.09:956][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/jedie/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.17-01.08.09:956][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jedie/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.17-01.08.09:956][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.17-01.08.09:956][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.17-01.08.09:956][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.17-01.08.09:956][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.17-01.08.09:966][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.17-01.08.09:966][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.17-01.08.09:966][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.17-01.08.09:977][  0]LogDerivedDataCache: Speed tests for C:/Users/jedie/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.03.17-01.08.09:977][  0]LogDerivedDataCache: Display: Performance to C:/Users/jedie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=276.80MBs, RandomWriteSpeed=142.10MBs. Assigned SpeedClass 'Local'
+[2021.03.17-01.08.09:977][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jedie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.17-01.08.09:977][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.17-01.08.09:977][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.17-01.08.10:021][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.17-01.08.10:022][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.17-01.08.10:043][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2021.03.17-01.08.10:298][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.17-01.08.10:298][  0]LogInit: Active device profile: [000001662DB1A200][000001662B8E6840 49] Windows
+[2021.03.17-01.08.10:298][  0]LogInit: Profiles: [000001662DB1A200][000001662B8E6840 49] Windows, [000001662D9BB800][000001662B9789C0 49] WindowsNoEditor, [000001662DB18800][000001662B986B40 49] WindowsServer, [000001662D9B8B00][000001662B98ACC0 49] WindowsClient, [000001662DB1B100][000001662B98EE40 49] IOS, [000001662D9B8800][000001662B992FC0 49] iPadAir, [000001662DB1B400][000001662B3CB140 49] iPadAir2, [000001662D7AB300][000001662B3EF400 49] IPadPro, [000001662D7AB400][000001662B3CF440 49] iPadAir3, [000001662DB19400][000001662B4255C0 49] iPadAir4, [000001662D7AB700][000001662B8EB700 49] iPadMini2, [000001662DB18C00][000001662B455840 49] iPadMini3, [000001662D7A9500][000001662B459980 49] iPadMini4, [000001662DB1AE00][000001662B45DAC0 49] iPadMini5, [000001662D806C00][000001662B4680C0 49] iPhone6, [000001662D806D00][000001662B464100 49] iPodTouch6, [000001662D7ABE00][000001662B4703C0 49] iPhone7, [000001662D7ABF00][000001662B46C400 49] iPodTouch7, [000001662D804E00][000001662B474580 49] iPhone5S, [000001662D7AB000][000001662B478700 49] iPhone6Plus, [000001662D805200][000001662B47C880 49] iPhone6S, [000001662D7A9300][000001662B480A00 49] iPhone6SPlus, [000001662D806900][000001662B4C6B80 49] iPhone7Plus, [000001662D7ABB00][000001662B4CAD00 49] iPhoneSE, [000001662D806E00][000001662B4CEE80 49] iPhone8, [000001662D7AB100][000001662B4D3000 49] iPhone8Plus, [000001662D806100][000001662B4D7180 49] iPhoneX, [000001662D7A9A00][000001662B4DB300 49] iPhoneXS, [000001662D804500][000001662B4DF480 49] iPhoneXSMax, [000001662D7A8600][000001662B4E3600 49] iPhoneXR, [000001662D807E00][000001662B461740 49] iPhone11, [000001662D7A8100][000001662B513880 49] iPhone11Pro, [000001662D807000][000001662B5179C0 49] iPhone11ProMax, [000001662D7A8200][000001662B51BB00 49] iPhoneSE2, [000001662D805F00][000001662B523C80 49] iPhone12Mini, [000001662D7A9B00][000001662B526140 49] iPhone12, [000001662D805900][000001662B52A2C0 49] iPhone12Pro, [000001662D7AAE00][000001662B52E440 49] iPhone12ProMax, [000001662D805B00][000001662B5325C0 49] iPadPro105, [000001662D7AA100][000001662B536740 49] iPadPro129, [000001662D807F00][000001662B53A8C0 49] iPadPro97, [000001662D805100][000001662B53EA40 49] iPadPro2_129, [000001662D9B9C00][000001662B542BC0 49] iPad5, [000001662D804F00][000001662B546D40 49] iPad6, [000001662D9BB200][000001662B54AEC0 49] iPad7, [000001662D805600][000001662B54F040 49] iPad8, [000001662D9B8400][000001662B5531C0 49] iPadPro11, [000001662D804D00][000001662B557340 49] iPadPro2_11, [000001662D9BBA00][000001662B55B4C0 49] iPadPro3_129, [000001662D805300][000001662B55F640 49] iPadPro4_129, [000001662D9BA900][000001662B5637C0 49] AppleTV, [000001662D805400][000001662B51F900 49] AppleTV4K, [000001662D9BB400][000001662B567A40 49] TVOS, [000001662D7AA700][000001662B56BB80 49] Mac, [000001662D9BBE00][000001662B573D00 49] MacClient, [000001662D7A9900][000001662B5761C0 49] MacNoEditor, [000001662D9BB700][000001662B57A340 49] MacServer, [000001662D7A9E00][000001662B57E4C0 49] Linux, [000001662D9BAE00][000001662B582640 49] LinuxNoEditor, [000001662D7A8C00][000001662B5867C0 49] LinuxAArch64NoEditor, [000001662D9BA500][000001662B58A940 49] LinuxClient, [000001662D7ABA00][000001662B58EAC0 49] LinuxAArch64Client, [000001662D9B9000][000001662B592C40 49] LinuxServer, [000001662D7AB200][000001662B596DC0 49] LinuxAArch64Server, [000001662D9B8D00][000001662B59AF40 49] Android, [000001662D7AB600][000001662B59F0C0 49] Android_Low, [000001662D9B8100][000001662B5A3240 49] Android_Mid, [000001662D7AAB00][000001662B5A73C0 49] Android_High, [000001662D9B9300][000001662B5AB540 49] Android_Default, [000001662D7A9400][000001662B5AF6C0 49] Android_Adreno4xx, [000001662D9BBF00][000001662B5B3840 49] Android_Adreno5xx_Low, [000001662D7AAA00][000001662B56F980 49] Android_Adreno5xx, [000001662D9BBD00][000001662B5B7AC0 49] Android_Adreno6xx, [000001662D7A9100][000001662B5BBC00 49] Android_Adreno6xx_Vulkan, [000001662D9B9800][000001662DDF40C0 49] Android_Mali_T6xx, [000001662D7A9600][000001662DDF8240 49] Android_Mali_T7xx, [000001662D9B9200][000001662DDFC3C0 49] Android_Mali_T8xx, [000001662D7A8700][000001662DE00540 49] Android_Mali_G71, [000001662D9B8300][000001662DE046C0 49] Android_Mali_G72, [000001662D7A8F00][000001662DE08840 49] Android_Mali_G72_Vulkan, [000001662D9BA300][000001662DE0C9C0 49] Android_Mali_G76, [000001662D7AB500][000001662DE10B40 49] Android_Mali_G76_Vulkan, [000001662D9BB300][000001662DE14CC0 49] Android_Mali_G77, [000001662D7A8A00][000001662DE18E40 49] Android_Mali_G77_Vulkan, [000001662D9BAD00][000001662DE1CFC0 49] Android_Vulkan_SM5, [000001662D7A8E00][000001662DE21140 49] Android_PowerVR_G6xxx, [000001662D9BA700][000001662DE252C0 49] Android_PowerVR_GT7xxx, [000001662D7A9C00][000001662DE29440 49] Android_PowerVR_GE8xxx, [000001662D9BAA00][000001662DE2D5C0 49] Android_PowerVR_GM9xxx, [000001662D7AA400][000001662DE31740 49] Android_PowerVR_GM9xxx_Vulkan, [000001662D9B9400][000001662DE358C0 49] Android_TegraK1, [000001662D7AA000][000001662DDF1A00 49] Android_Unknown_Vulkan, [000001662D9BA200][000001662DE39B40 49] Lumin, [000001662D7A9800][000001662DE3DC80 49] Lumin_Desktop, [000001662D9B9F00][000001662DE40100 49] HoloLens, 
+[2021.03.17-01.08.10:386][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.17-01.08.10:386][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.17-01.08.10:386][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.17-01.08.10:386][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.17-01.08.10:386][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.17-01.08.10:422][  0]LogNetVersion: Serotopia 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1805940841)
+[2021.03.17-01.08.10:795][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.03.17-01.08.10:858][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.062586 seconds
+[2021.03.17-01.08.10:864][  0]LogUObjectArray: 16836 objects as part of root set at end of initial load.
+[2021.03.17-01.08.10:864][  0]LogUObjectAllocator: 4210784 out of 0 bytes used by permanent object pool.
+[2021.03.17-01.08.10:864][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.17-01.08.11:159][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.17-01.08.11:163][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.17-01.08.11:278][  0]SourceControl: Source control is disabled
+[2021.03.17-01.08.11:278][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:279][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.03.17-01.08.11:279][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:279][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.03.17-01.08.11:279][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:279][  0]LogWindows: Warning: URL: C:\Users\jedie\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.03.17-01.08.11:279][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:279][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.03.17-01.08.11:279][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:279][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.03.17-01.08.11:279][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:279][  0]LogWindows: Warning: URL: C:\Users\jedie\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.03.17-01.08.11:279][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:279][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.03.17-01.08.11:282][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:282][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.03.17-01.08.11:282][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:282][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.03.17-01.08.11:282][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:282][  0]LogWindows: Warning: URL: C:\Users\jedie\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.03.17-01.08.11:282][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:282][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.03.17-01.08.11:282][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:282][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.03.17-01.08.11:282][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:282][  0]LogWindows: Warning: URL: C:\Users\jedie\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.03.17-01.08.11:282][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:282][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.03.17-01.08.11:284][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:284][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.03.17-01.08.11:285][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:285][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.03.17-01.08.11:285][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:285][  0]LogWindows: Warning: URL: C:\Users\jedie\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.03.17-01.08.11:285][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:285][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.03.17-01.08.11:285][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:285][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.03.17-01.08.11:285][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:285][  0]LogWindows: Warning: URL: C:\Users\jedie\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.03.17-01.08.11:285][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:285][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.03.17-01.08.11:291][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:291][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.03.17-01.08.11:291][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:291][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.03.17-01.08.11:291][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:291][  0]LogWindows: Warning: URL: C:\Users\jedie\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.03.17-01.08.11:291][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:291][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.03.17-01.08.11:291][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:291][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.03.17-01.08.11:291][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:291][  0]LogWindows: Warning: URL: C:\Users\jedie\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.03.17-01.08.11:291][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.11:291][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.03.17-01.08.11:296][  0]LogUProjectInfo: Found projects:
+[2021.03.17-01.08.11:299][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.03.17-01.08.11:300][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.03.17-01.08.11:423][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.17-01.08.11:438][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.17-01.08.11:438][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.17-01.08.11:477][  0]LogCollectionManager: Loaded 0 collections in 0.001419 seconds
+[2021.03.17-01.08.11:494][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Collections/' took 0.00s
+[2021.03.17-01.08.11:494][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Developers/jedie/Collections/' took 0.00s
+[2021.03.17-01.08.11:494][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Collections/' took 0.00s
+[2021.03.17-01.08.11:494][  0]LogOcInput: OculusInput pre-init called
+[2021.03.17-01.08.11:503][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.17-01.08.11:503][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.17-01.08.11:544][  0]LogEngine: Initializing Engine...
+[2021.03.17-01.08.11:544][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.17-01.08.11:544][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.17-01.08.11:545][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.17-01.08.11:642][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.17-01.08.11:648][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.17-01.08.11:666][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.17-01.08.11:669][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.17-01.08.11:669][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.17-01.08.11:669][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.17-01.08.11:669][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.17-01.08.11:669][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.17-01.08.11:669][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.17-01.08.11:669][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.17-01.08.11:669][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.17-01.08.11:669][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.17-01.08.11:669][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.17-01.08.11:670][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.17-01.08.11:670][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.17-01.08.11:679][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.17-01.08.11:679][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.17-01.08.11:703][  0]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.03.17-01.08.11:708][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.17-01.08.11:709][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.17-01.08.11:709][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.17-01.08.11:710][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.17-01.08.11:710][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.17-01.08.11:710][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.17-01.08.11:711][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.17-01.08.11:711][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.17-01.08.11:711][  0]LogInit: FAudioDevice initialized.
+[2021.03.17-01.08.11:711][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.17-01.08.11:712][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.17-01.08.11:777][  0]LogDerivedDataCache: Saved boot cache 0.06s 73MB C:/Users/jedie/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.17-01.08.11:784][  0]LogInit: Texture streaming: Enabled
+[2021.03.17-01.08.11:793][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.03.17-01.08.11:797][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.17-01.08.11:797][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.17-01.08.11:801][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.17-01.08.11:850][  0]LogInit: Transaction tracking system initialized
+[2021.03.17-01.08.11:866][  0]BlueprintLog: New page: Editor Load
+[2021.03.17-01.08.11:916][  0]LocalizationService: Localization service is disabled
+[2021.03.17-01.08.11:934][  0]TimingProfiler: Initialize
+[2021.03.17-01.08.11:934][  0]TimingProfiler: OnSessionChanged
+[2021.03.17-01.08.11:934][  0]LoadingProfiler: Initialize
+[2021.03.17-01.08.11:934][  0]LoadingProfiler: OnSessionChanged
+[2021.03.17-01.08.11:934][  0]NetworkingProfiler: Initialize
+[2021.03.17-01.08.11:934][  0]NetworkingProfiler: OnSessionChanged
+[2021.03.17-01.08.11:934][  0]MemoryProfiler: Initialize
+[2021.03.17-01.08.11:934][  0]MemoryProfiler: OnSessionChanged
+[2021.03.17-01.08.11:977][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.03.17-01.08.11:978][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.03.17-01.08.12:046][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.17-01.08.12:046][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.17-01.08.12:160][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/' took 0.03s
+[2021.03.17-01.08.12:305][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.03.17-01.08.12:308][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.12:308][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.03.17-01.08.12:308][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.12:308][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.03.17-01.08.12:308][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.12:308][  0]LogWindows: Warning: URL: C:\Users\jedie\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.03.17-01.08.12:308][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.12:308][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.03.17-01.08.12:308][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.12:308][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.03.17-01.08.12:308][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.12:308][  0]LogWindows: Warning: URL: C:\Users\jedie\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.03.17-01.08.12:308][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.17-01.08.12:308][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.03.17-01.08.12:308][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.937
+[2021.03.17-01.08.12:308][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.17-01.08.12:309][  0]LightingResults: New page: Lighting Build
+[2021.03.17-01.08.12:309][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-01.08.12:309][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-01.08.12:309][  0]MapCheck: New page: Map Check
+[2021.03.17-01.08.12:309][  0]LightingResults: New page: Lighting Build
+[2021.03.17-01.08.12:315][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.03.17-01.08.12:355][  0]LogLinker: Warning: [AssetLog] C:\Users\jedie\OneDrive\Documents\GitHub\Serotopia V3\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\Materials\paint2.uasset: Failed to load '/Game/Materials/Textures/T_Splatter_A': Can't find file.
+[2021.03.17-01.08.12:355][  0]LoadErrors: Failed to load /Game/Blueprints/AOE/Projectile/Materials/paint2.paint2 Referenced by Decal_GEN_VARIABLE
+[2021.03.17-01.08.12:356][  0]LogLinker: Warning: [AssetLog] C:\Users\jedie\OneDrive\Documents\GitHub\Serotopia V3\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\Materials\paint2.uasset: Failed to load '/Game/Materials/Textures/T_Splatter_A': Can't find file.
+[2021.03.17-01.08.12:356][  0]LoadErrors: Failed to load /Game/Blueprints/AOE/Projectile/Materials/paint2.paint2 Referenced by Decal_GEN_VARIABLE
+[2021.03.17-01.08.12:356][  0]LogLinker: Warning: [AssetLog] C:\Users\jedie\OneDrive\Documents\GitHub\Serotopia V3\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\Materials\paint2.uasset: Failed to load '/Game/Materials/Textures/T_Splatter_A': Can't find file.
+[2021.03.17-01.08.12:356][  0]LoadErrors: Failed to load /Game/Blueprints/AOE/Projectile/Materials/paint2.paint2 Referenced by Decal_GEN_VARIABLE
+[2021.03.17-01.08.12:555][  0]LogBlueprint: Warning: [AssetLog] C:\Users\jedie\OneDrive\Documents\GitHub\Serotopia V3\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Blue.uasset: [Compiler] On Component Begin Overlap (collider)  does not have a valid matching component!
+[2021.03.17-01.08.12:792][  0]LogLinker: Warning: [AssetLog] C:\Users\jedie\OneDrive\Documents\GitHub\Serotopia V3\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\Materials\paint2.uasset: Failed to load '/Game/Materials/Textures/T_Splatter_A': Can't find file.
+[2021.03.17-01.08.12:792][  0]LoadErrors: Failed to load /Game/Materials/Textures/T_Splatter_A.T_Splatter_A Referenced by MaterialExpressionTextureSample_2
+[2021.03.17-01.08.12:887][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.03.17-01.08.12:888][  0]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.17-01.08.12:898][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.17-01.08.12:906][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.03.17-01.08.12:910][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.17-01.08.12:910][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.117ms to complete.
+[2021.03.17-01.08.12:910][  0]LogFileHelpers: Loading map 'MainMenu' took 0.601
+[2021.03.17-01.08.12:911][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.539
+[2021.03.17-01.08.13:034][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.17-01.08.13:040][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.17-01.08.13:045][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.17-01.08.13:049][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.17-01.08.13:061][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0077 seconds. Added 3601 classes and 859 folders.
+[2021.03.17-01.08.13:063][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.17-01.08.13:064][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.17-01.08.13:064][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:064][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.17-01.08.13:064][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.03.17-01.08.13:065][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.17-01.08.13:065][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:065][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.17-01.08.13:065][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.03.17-01.08.13:065][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.03.17-01.08.13:065][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:065][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.03.17-01.08.13:065][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.03.17-01.08.13:065][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.17-01.08.13:066][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:066][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.17-01.08.13:066][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.03.17-01.08.13:066][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.17-01.08.13:066][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:066][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.17-01.08.13:066][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.03.17-01.08.13:067][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.17-01.08.13:067][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:067][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.17-01.08.13:067][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.03.17-01.08.13:067][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.17-01.08.13:067][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:067][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.17-01.08.13:067][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.03.17-01.08.13:068][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.17-01.08.13:068][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:068][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.17-01.08.13:068][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.03.17-01.08.13:068][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.17-01.08.13:068][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:068][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.17-01.08.13:068][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.03.17-01.08.13:069][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.17-01.08.13:069][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:069][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.17-01.08.13:069][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.03.17-01.08.13:069][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.17-01.08.13:069][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:069][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.17-01.08.13:069][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.03.17-01.08.13:070][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.17-01.08.13:070][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:070][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.17-01.08.13:070][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.03.17-01.08.13:070][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.17-01.08.13:070][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:070][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.17-01.08.13:070][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.03.17-01.08.13:071][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.17-01.08.13:071][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:071][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.17-01.08.13:071][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.03.17-01.08.13:071][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.17-01.08.13:071][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:071][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.17-01.08.13:071][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.03.17-01.08.13:072][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.17-01.08.13:072][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:072][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.17-01.08.13:072][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.03.17-01.08.13:073][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.17-01.08.13:073][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:073][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.17-01.08.13:073][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.03.17-01.08.13:073][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.17-01.08.13:073][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:073][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.17-01.08.13:073][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.03.17-01.08.13:073][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.17-01.08.13:073][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:073][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.17-01.08.13:073][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.03.17-01.08.13:073][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.17-01.08.13:073][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:074][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.17-01.08.13:074][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.03.17-01.08.13:074][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.17-01.08.13:074][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:074][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.17-01.08.13:074][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.03.17-01.08.13:074][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.17-01.08.13:074][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:074][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.17-01.08.13:074][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.03.17-01.08.13:075][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.03.17-01.08.13:075][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:075][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.03.17-01.08.13:075][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.03.17-01.08.13:075][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.17-01.08.13:075][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:075][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.17-01.08.13:075][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.03.17-01.08.13:076][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.17-01.08.13:076][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:076][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.17-01.08.13:076][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.03.17-01.08.13:076][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.17-01.08.13:076][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-01.08.13:076][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.17-01.08.13:076][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.03.17-01.08.13:111][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.17-01.08.13:112][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.03.17-01.08.13:134][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.17-01.08.13:134][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.03.17-01.08.13:134][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.03.17-01.08.13:134][  0]LogLoad: (Engine Initialization) Total time: 5.76 seconds
+[2021.03.17-01.08.13:134][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.17-01.08.13:134][  0]LogInit: First time updating LLM stats...
+[2021.03.17-01.08.13:242][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.17-01.08.13:265][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.17-01.08.13:268][  0]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.17-01.08.13:272][  0]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.17-01.08.13:438][  0]LogRenderer: Reallocating scene render targets to support 912x424 Format 10 NumSamples 1 (Frame:1).
+[2021.03.17-01.08.13:438][  0]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.17-01.08.13:458][  0]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.03.17-01.08.13:497][  1]LogAssetRegistry: Asset discovery search completed in 3.4547 seconds
+[2021.03.17-01.08.13:499][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.03.17-01.08.14:955][139]LogSlate: Window 'Message Log' being destroyed
+[2021.03.17-01.08.14:958][139]LogSlate: Window 'Message Log' being destroyed
+[2021.03.17-01.08.15:964][239]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:224).
+[2021.03.17-01.08.18:492][519]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/' took 5.34s
+[2021.03.17-01.08.25:337][316]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.17-01.08.25:350][316]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gnome_Animated/ChefGnome/ChefGnome.ChefGnome
+[2021.03.17-01.08.25:496][316]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.03.17-01.08.26:540][316]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.17-01.08.26:617][317]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.17-01.08.39:825][794]BlueprintLog: New page: Compile ChefGnome
+[2021.03.17-01.08.39:869][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.03.17-01.08.43:553][224]LogSlate: Window 'ChefGnome' being destroyed
+[2021.03.17-01.08.43:557][224]LogSlate: Window 'ChefGnome' being destroyed
+[2021.03.17-01.08.43:567][224]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-01.08.43:567][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-01.08.47:316][643]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome
+[2021.03.17-01.08.57:428][734]BlueprintLog: New page: Compile Fall_Gnome
+[2021.03.17-01.08.57:472][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.03.17-01.09.12:426][431]BlueprintLog: New page: Compile Fall_Gnome
+[2021.03.17-01.09.12:468][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.03.17-01.09.27:531][121]LogSlate: Window 'Fall_Gnome' being destroyed
+[2021.03.17-01.09.27:536][121]LogSlate: Window 'Fall_Gnome' being destroyed
+[2021.03.17-01.09.27:557][121]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-01.09.27:557][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-01.09.38:360][368]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.03.17-01.09.39:998][368]LogSlate: Window 'Save Content' being destroyed
+[2021.03.17-01.09.40:071][368]LogSavePackage: Moving '../../../../../../Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/ChefGnome0DB7EE3F47C90637718DD9BD37CFCE97.tmp' to '../../../../../../Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Gnome_Animated/ChefGnome/ChefGnome.uasset'
+[2021.03.17-01.09.40:127][368]LogSavePackage: Moving '../../../../../../Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Fall_GnomeB955AC364161D925B3AFBF806A6D1EA2.tmp' to '../../../../../../Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Gnome_Animated/FallGnome/Fall_Gnome.uasset'
+[2021.03.17-01.09.40:336][368]LogLinker: Warning: [AssetLog] C:\Users\jedie\OneDrive\Documents\GitHub\Serotopia V3\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Bubble_House2\BH-Variation_2\mesh\Bubble_House_Combined.uasset: Failed to load '/Game/Bubble_House2/BH-Variation_2/Materials/BH_BaseV2Mat': Can't find file.
+[2021.03.17-01.09.40:336][368]LogLinker: Warning: [AssetLog] C:\Users\jedie\OneDrive\Documents\GitHub\Serotopia V3\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Bubble_House2\BH-Variation_2\mesh\Bubble_House_Combined.uasset: Failed to load '/Game/Bubble_House2/BH-Variation_2/Materials/BH_BaseV2Mat': Can't find file.
+[2021.03.17-01.09.40:337][368]LogLinker: Warning: [AssetLog] C:\Users\jedie\OneDrive\Documents\GitHub\Serotopia V3\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Bubble_House2\BH-Variation_2\mesh\Bubble_House_Combined.uasset: Failed to load '/Game/Bubble_House2/BH-Variation_2/Materials/BH_TopV2Mat': Can't find file.
+[2021.03.17-01.09.40:337][368]LogLinker: Warning: [AssetLog] C:\Users\jedie\OneDrive\Documents\GitHub\Serotopia V3\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Bubble_House2\BH-Variation_2\mesh\Bubble_House_Combined.uasset: Failed to load '/Game/Bubble_House2/BH-Variation_2/Materials/BH_TopV2Mat': Can't find file.
+[2021.03.17-01.09.40:337][368]LogLinker: Warning: [AssetLog] C:\Users\jedie\OneDrive\Documents\GitHub\Serotopia V3\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Bubble_House2\BH-Variation_2\mesh\Bubble_House_Combined.uasset: Failed to load '/Game/Bubble_House2/BH-Variation_2/Materials/BH_BaseV2Mat': Can't find file.
+[2021.03.17-01.09.40:337][368]LogLinker: Warning: [AssetLog] C:\Users\jedie\OneDrive\Documents\GitHub\Serotopia V3\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Bubble_House2\BH-Variation_2\mesh\Bubble_House_Combined.uasset: Failed to load '/Game/Bubble_House2/BH-Variation_2/Materials/BH_TopV2Mat': Can't find file.
+[2021.03.17-01.09.40:343][368]LogLinker: Warning: [AssetLog] C:\Users\jedie\OneDrive\Documents\GitHub\Serotopia V3\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\BubbleTurbine\BubbleTurbine.uasset: Failed to load '/Game/BubbleTurbine/bubbleTurbine1': Can't find file.
+[2021.03.17-01.09.40:343][368]LogLinker: Warning: [AssetLog] C:\Users\jedie\OneDrive\Documents\GitHub\Serotopia V3\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\BubbleTurbine\BubbleTurbine.uasset: Failed to load '/Game/BubbleTurbine/bubbleTurbine1': Can't find file.
+[2021.03.17-01.09.40:343][368]LogLinker: Warning: [AssetLog] C:\Users\jedie\OneDrive\Documents\GitHub\Serotopia V3\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\BubbleTurbine\BubbleTurbine.uasset: Failed to load '/Game/BubbleTurbine/bubbleTurbine1': Can't find file.
+[2021.03.17-01.09.40:556][368]LogLinker: Warning: [AssetLog] C:\Users\jedie\OneDrive\Documents\GitHub\Serotopia V3\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Bubble_House2\BH-Variation_2\mesh\Bubble_House_Combined.uasset: Failed to load '/Game/Bubble_House2/BH-Variation_2/Materials/BH_BaseV2Mat': Can't find file.
+[2021.03.17-01.09.40:556][368]LoadErrors: Failed to load /Game/Bubble_House2/BH-Variation_2/Materials/BH_BaseV2Mat.BH_BaseV2Mat Referenced by Bubble_House_Combined
+[2021.03.17-01.09.40:556][368]LogLinker: Warning: [AssetLog] C:\Users\jedie\OneDrive\Documents\GitHub\Serotopia V3\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Bubble_House2\BH-Variation_2\mesh\Bubble_House_Combined.uasset: Failed to load '/Game/Bubble_House2/BH-Variation_2/Materials/BH_TopV2Mat': Can't find file.
+[2021.03.17-01.09.40:556][368]LoadErrors: Failed to load /Game/Bubble_House2/BH-Variation_2/Materials/BH_TopV2Mat.BH_TopV2Mat Referenced by Bubble_House_Combined
+[2021.03.17-01.09.40:557][368]LogLinker: Warning: [AssetLog] C:\Users\jedie\OneDrive\Documents\GitHub\Serotopia V3\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Bubble_House2\BH-Variation_2\mesh\Bubble_House_Combined.uasset: Failed to load '/Game/Bubble_House2/BH-Variation_2/Materials/BH_BaseV2Mat': Can't find file.
+[2021.03.17-01.09.40:557][368]LogLinker: Warning: [AssetLog] C:\Users\jedie\OneDrive\Documents\GitHub\Serotopia V3\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Bubble_House2\BH-Variation_2\mesh\Bubble_House_Combined.uasset: Failed to load '/Game/Bubble_House2/BH-Variation_2/Materials/BH_TopV2Mat': Can't find file.
+[2021.03.17-01.09.40:559][368]LogLinker: Warning: [AssetLog] C:\Users\jedie\OneDrive\Documents\GitHub\Serotopia V3\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\BubbleTurbine\BubbleTurbine.uasset: Failed to load '/Game/BubbleTurbine/bubbleTurbine1': Can't find file.
+[2021.03.17-01.09.40:559][368]LoadErrors: Failed to load /Game/BubbleTurbine/bubbleTurbine1.bubbleTurbine1 Referenced by BubbleTurbine
+[2021.03.17-01.09.40:559][368]LogLinker: Warning: [AssetLog] C:\Users\jedie\OneDrive\Documents\GitHub\Serotopia V3\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\BubbleTurbine\BubbleTurbine.uasset: Failed to load '/Game/BubbleTurbine/bubbleTurbine1': Can't find file.
+[2021.03.17-01.09.40:848][368]LogMaterial: Display: Material /Game/Materials/Bubble_Wand_Yellow.Bubble_Wand_Yellow needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2021.03.17-01.09.40:850][368]LogMaterial: Display: Missing cached shader map for material Bubble_Wand_Yellow, compiling. 
+[2021.03.17-01.09.40:860][368]MapCheck: Warning: Bubble_Wand_Yellow Material /Game/Materials/Bubble_Wand_Yellow.Bubble_Wand_Yellow was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2021.03.17-01.09.40:878][368]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.03.17-01.09.40:878][368]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.03.17-01.09.40:878][368]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.03.17-01.09.40:878][368]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.03.17-01.09.40:878][368]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.03.17-01.09.40:878][368]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.03.17-01.09.41:034][368]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Bubbleopolis.Bubbleopolis
+[2021.03.17-01.09.41:034][368]LightingResults: New page: Lighting Build
+[2021.03.17-01.09.41:035][368]LoadErrors: New page: Loading map: Bubbleopolis.umap
+[2021.03.17-01.09.41:061][368]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-01.09.41:061][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-01.09.41:061][368]MapCheck: New page: Map Check
+[2021.03.17-01.09.41:061][368]LightingResults: New page: Lighting Build
+[2021.03.17-01.09.41:079][368]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.17-01.09.41:093][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.03.17-01.09.41:095][368]LogAudio: Display: Audio Device (ID: 1) registered with world 'Bubbleopolis'.
+[2021.03.17-01.09.41:241][368]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.17-01.09.41:241][368]LogAIModule: Creating AISystem for world Bubbleopolis
+[2021.03.17-01.09.41:283][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.03.17-01.09.41:312][368]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.17-01.09.41:318][368]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 6.198ms to complete.
+[2021.03.17-01.09.41:318][368]LogFileHelpers: Loading map 'Bubbleopolis' took 0.283
+[2021.03.17-01.09.41:357][368]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.17-01.09.41:357][368]LogContentValidation: Display: Validating Blueprint /Game/Gnome_Animated/ChefGnome/ChefGnome.ChefGnome
+[2021.03.17-01.09.41:358][368]LogContentValidation: Display: Validating Blueprint /Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome
+[2021.03.17-01.09.44:992][608]LogSlate: Window 'Message Log' being destroyed
+[2021.03.17-01.09.44:996][608]LogSlate: Window 'Message Log' being destroyed
+[2021.03.17-01.09.56:487][639]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.03.17-01.10.00:172][838]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.03.17-01.10.04:468][ 97]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.03.17-01.10.05:859][226]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.17-01.10.05:870][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.17-01.10.05:870][226]PIE: New page: PIE session: Bubbleopolis (Mar 16, 2021, 5:10:05 PM)
+[2021.03.17-01.10.05:871][226]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.17-01.10.05:872][226]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.17-01.10.05:872][226]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bubbleopolis
+[2021.03.17-01.10.05:910][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037808s)
+[2021.03.17-01.10.05:911][226]LogAIModule: Creating AISystem for world Bubbleopolis
+[2021.03.17-01.10.05:911][226]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2021.03.17-01.10.05:911][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bubbleopolis.Bubbleopolis to /Game/Levels/UEDPIE_0_Bubbleopolis.Bubbleopolis (0.038961s)
+[2021.03.17-01.10.05:927][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.03.17-01.10.05:931][226]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.03.17-01.10.05:931][226]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.17-01.10.05:931][226]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.17-01.10.05:931][226]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.17-01.10.05:931][226]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.17-01.10.05:931][226]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.17-01.10.05:931][226]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.17-01.10.05:931][226]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.17-01.10.05:931][226]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.17-01.10.05:931][226]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.17-01.10.05:931][226]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.17-01.10.05:933][226]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.17-01.10.05:933][226]LogAudioMixer: Display: 1: FrontRight
+[2021.03.17-01.10.05:942][226]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.03.17-01.10.05:943][226]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.17-01.10.05:943][226]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.17-01.10.05:943][226]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.17-01.10.05:943][226]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.17-01.10.05:943][226]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.17-01.10.05:943][226]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.17-01.10.05:955][226]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.17-01.10.05:955][226]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.17-01.10.05:955][226]LogInit: FAudioDevice initialized.
+[2021.03.17-01.10.05:955][226]LogAudio: Display: Audio Device (ID: 2) registered with world 'Bubbleopolis'.
+[2021.03.17-01.10.05:965][226]LogLoad: Game class is 'Mechanic_Test_C'
+[2021.03.17-01.10.05:976][226]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bubbleopolis.Bubbleopolis up for play (max tick rate 0) at 2021.03.16-21.10.05
+[2021.03.17-01.10.05:979][226]LogWorld: Bringing up level for play took: 0.012597
+[2021.03.17-01.10.05:979][226]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.03.17-01.10.05:986][226]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.03.17-01.10.05:989][226]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.03.17-01.10.05:989][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.17-01.10.05:989][226]PIE: Server logged in
+[2021.03.17-01.10.05:990][226]PIE: Play in editor total start time 0.12 seconds.
+[2021.03.17-01.10.06:604][240]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] landed
+[2021.03.17-01.10.07:128][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.17-01.10.07:128][257]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bubbleopolis
+[2021.03.17-01.10.07:128][257]LogWorld: UWorld::CleanupWorld for Bubbleopolis, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-01.10.07:133][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-01.10.07:167][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.17-01.10.07:183][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-01.10.07:210][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.17-01.10.07:213][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.17-01.10.07:213][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.17-01.10.07:283][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.03.17-01.10.07:322][258]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.03.17-01.10.24:074][ 40]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.17-01.10.24:085][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.17-01.10.24:085][ 40]PIE: New page: PIE session: Bubbleopolis (Mar 16, 2021, 5:10:24 PM)
+[2021.03.17-01.10.24:106][ 40]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bubbleopolis
+[2021.03.17-01.10.24:143][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037567s)
+[2021.03.17-01.10.24:144][ 40]LogAIModule: Creating AISystem for world Bubbleopolis
+[2021.03.17-01.10.24:144][ 40]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2021.03.17-01.10.24:144][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bubbleopolis.Bubbleopolis to /Game/Levels/UEDPIE_0_Bubbleopolis.Bubbleopolis (0.038706s)
+[2021.03.17-01.10.24:185][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.03.17-01.10.24:187][ 40]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.03.17-01.10.24:188][ 40]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.17-01.10.24:188][ 40]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.17-01.10.24:188][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.17-01.10.24:188][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.17-01.10.24:188][ 40]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.17-01.10.24:188][ 40]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.17-01.10.24:188][ 40]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.17-01.10.24:188][ 40]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.17-01.10.24:188][ 40]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.17-01.10.24:188][ 40]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.17-01.10.24:190][ 40]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.17-01.10.24:190][ 40]LogAudioMixer: Display: 1: FrontRight
+[2021.03.17-01.10.24:199][ 40]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.03.17-01.10.24:199][ 40]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.17-01.10.24:199][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.17-01.10.24:199][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.17-01.10.24:200][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.17-01.10.24:200][ 40]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.17-01.10.24:200][ 40]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.17-01.10.24:200][ 40]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.17-01.10.24:200][ 40]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.17-01.10.24:200][ 40]LogInit: FAudioDevice initialized.
+[2021.03.17-01.10.24:200][ 40]LogAudio: Display: Audio Device (ID: 3) registered with world 'Bubbleopolis'.
+[2021.03.17-01.10.24:214][ 40]LogLoad: Game class is 'Mechanic_Test_C'
+[2021.03.17-01.10.24:226][ 40]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bubbleopolis.Bubbleopolis up for play (max tick rate 0) at 2021.03.16-21.10.24
+[2021.03.17-01.10.24:228][ 40]LogWorld: Bringing up level for play took: 0.012590
+[2021.03.17-01.10.24:228][ 40]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.03.17-01.10.24:231][ 40]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.03.17-01.10.24:231][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.17-01.10.24:232][ 40]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.24:232][ 40]PIE: Server logged in
+[2021.03.17-01.10.24:232][ 40]PIE: Play in editor total start time 0.148 seconds.
+[2021.03.17-01.10.24:261][ 41]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.24:364][ 47]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.24:467][ 53]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.24:571][ 59]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.24:683][ 65]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.24:794][ 69]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.24:819][ 70]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] landed
+[2021.03.17-01.10.24:909][ 74]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.25:012][ 79]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.25:119][ 84]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.25:228][ 88]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.25:347][ 92]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.25:468][ 96]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.25:587][100]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.25:704][104]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.25:820][108]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.25:936][112]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.26:051][116]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.26:164][120]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.26:279][124]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.26:389][128]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.26:491][132]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.26:613][137]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.26:713][141]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.26:831][146]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.26:951][151]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.27:071][156]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.27:190][161]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.27:308][166]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.27:429][171]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.27:548][176]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.27:668][181]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.27:786][186]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Destinations' of length 0 in '/Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome_C'!
+[2021.03.17-01.10.27:897][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.17-01.10.27:897][189]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bubbleopolis
+[2021.03.17-01.10.27:898][189]LogWorld: UWorld::CleanupWorld for Bubbleopolis, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-01.10.27:902][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-01.10.27:925][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.17-01.10.27:956][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-01.10.27:970][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.17-01.10.27:972][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.17-01.10.27:973][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.17-01.10.27:989][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.03.17-01.10.28:034][190]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.03.17-01.10.30:081][354]LogEditorViewport: Clicking on Actor (LMB): Fall_Gnome_C (Fall_Gnome)
+[2021.03.17-01.10.30:681][403]Cmd: DELETE
+[2021.03.17-01.10.30:681][403]Cmd: ACTOR DELETE
+[2021.03.17-01.10.30:695][403]LogEditorActor: Deleted Actor: Fall_Gnome_C
+[2021.03.17-01.10.30:711][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.03.17-01.10.30:713][403]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.03.17-01.10.34:645][698]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gnome_Animated/MushGnome/Mush_Gnome.Mush_Gnome
+[2021.03.17-01.10.49:983][804]BlueprintLog: New page: Compile Mush_Gnome
+[2021.03.17-01.10.50:028][804]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.03.17-01.10.52:600][  2]LogSlate: Window 'Mush_Gnome' being destroyed
+[2021.03.17-01.10.52:625][  2]LogSlate: Window 'Mush_Gnome' being destroyed
+[2021.03.17-01.10.52:642][  2]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-01.10.52:643][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-01.10.55:770][224]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gnome_Animated/SpringGnome/Spring_Gnome.Spring_Gnome
+[2021.03.17-01.11.15:759][693]BlueprintLog: New page: Compile Spring_Gnome
+[2021.03.17-01.11.15:807][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.03.17-01.11.17:919][855]LogSlate: Window 'Spring_Gnome' being destroyed
+[2021.03.17-01.11.17:945][855]LogSlate: Window 'Spring_Gnome' being destroyed
+[2021.03.17-01.11.17:953][855]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-01.11.17:953][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-01.11.20:252][ 18]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gnome_Animated/WinterGnome/Winter_Gnome.Winter_Gnome
+[2021.03.17-01.11.29:440][670]BlueprintLog: New page: Compile Winter_Gnome
+[2021.03.17-01.11.29:486][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.03.17-01.11.39:308][429]LogSlate: Window 'Winter_Gnome' being destroyed
+[2021.03.17-01.11.39:333][429]LogSlate: Window 'Winter_Gnome' being destroyed
+[2021.03.17-01.11.39:342][429]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-01.11.39:342][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-01.11.46:296][960]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MushroomBoys/Mush1/Mush1.Mush1
+[2021.03.17-01.11.58:902][858]BlueprintLog: New page: Compile Mush1
+[2021.03.17-01.11.58:949][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.03.17-01.12.10:932][782]LogSlate: Window 'Mush1' being destroyed
+[2021.03.17-01.12.10:957][782]LogSlate: Window 'Mush1' being destroyed
+[2021.03.17-01.12.10:986][782]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-01.12.10:986][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-01.12.13:367][952]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MushroomBoys/Mush2/Mush2_.Mush2_
+[2021.03.17-01.12.24:510][751]BlueprintLog: New page: Compile Mush2_
+[2021.03.17-01.12.24:557][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.03.17-01.12.33:060][409]LogSlate: Window 'Mush2_' being destroyed
+[2021.03.17-01.12.33:088][409]LogSlate: Window 'Mush2_' being destroyed
+[2021.03.17-01.12.33:097][409]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-01.12.33:097][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-01.12.35:433][577]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MushroomBoys/Mush3/Mush3.Mush3
+[2021.03.17-01.13.17:731][569]BlueprintLog: New page: Compile Mush3
+[2021.03.17-01.13.17:780][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.03.17-01.13.22:291][900]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MushroomBoys/Mush4/Mush4.Mush4
+[2021.03.17-01.13.33:784][725]BlueprintLog: New page: Compile Mush4
+[2021.03.17-01.13.33:836][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.03.17-01.13.37:454][997]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.03.17-01.13.38:103][997]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.650 s
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: 
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: Ensure condition failed: !FPackageName::IsShortPackageName(Path) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/UObject/SoftObjectPath.cpp] [Line: 79]
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: Cannot create SoftObjectPath with short package name 'False'! You must pass in fully qualified package names
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: Stack: 
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5f071909 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5ef48c0c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5eec1669 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5eed0ce9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5eeccca6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5eeccb5f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5eb854f8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: [Callstack] 0x00007ffe4f2c1448 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: [Callstack] 0x00007ffe396738c5 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: [Callstack] 0x00007ffe3969da88 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: [Callstack] 0x00007ffe3f237e1e UE4Editor-Kismet.dll!UnknownFunction []
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: [Callstack] 0x00007ffe3f1e1282 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: [Callstack] 0x00007ffe3f1ddfc3 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5ebb2f80 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5edc177a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5edf8d7a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5edbf6c4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5edf8d7a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5edc0184 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5edc1c7b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.17-01.13.38:103][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5edfa28c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5ef89195 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5ef87ff0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5ef9906f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5efa4005 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5efa3698 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe257d9ef3 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe257da200 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe257c7c82 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe37bfb91d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe37bba7c0 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe37b1b70c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe37ad9357 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe37a38374 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe37b261e7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe37b1b8fb UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5c312bf8 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5c396927 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5c37f4ff UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe5c372df9 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe668abc7f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe66899197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe668ae379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe66894310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffea630e858 USER32.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffea630e299 USER32.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffe668af904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ff725c78857 UE4Editor.exe!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ff725c911ac UE4Editor.exe!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ff725c9128a UE4Editor.exe!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ff725ca52ed UE4Editor.exe!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ff725ca801a UE4Editor.exe!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffea64b7034 KERNEL32.DLL!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: [Callstack] 0x00007ffea7522651 ntdll.dll!UnknownFunction []
+[2021.03.17-01.13.38:104][997]LogOutputDevice: Error: 
