@@ -52,12 +52,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B38BE1343990F3C2796737A6413D8750FD265108",
-			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "30BAD151EF345A5205077237E52866E14CF2F6BB",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
@@ -67,6 +61,12 @@
 			"ShaderMapHash": "29ABF1BCA102D7D68CD6CEDCE58CF363CD5CD5B4",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B38BE1343990F3C2796737A6413D8750FD265108",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
 			]
 		},
 		{
@@ -171,13 +171,27 @@
 			"Assets": [
 				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Trees/Tree2/lambert3.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Floor1.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Walls.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Floor2.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Wall_.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Floor.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Water.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Wall.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Sewer/lambert2.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Gates/lambert1.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Levels/Water.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/Plants/Textures/lambert1.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/Default_Material.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/mat_Wood.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/mat_Window.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/mat_Tower.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Water_Can_House/Wood.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Rocks/Small_rock.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Rocks/lambert1.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Chair/lambert1.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/MonkeyBars/Textures/Monkeybar.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/MonkeyBars/Textures/ArcSupport.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/Current/Materials/walkways.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/Current/Materials/towers.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/Current/Materials/pedestal.uasset",
@@ -187,7 +201,6 @@
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Trees/Tree3/lambert4.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Trees/Tree2/lambert1.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Trees/Tree1/lambert1.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Statues/lambert1.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Stairs/lambert1.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/SoapHouse/lambert1.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/SoapBuddy/soapBud.uasset",
@@ -195,11 +208,16 @@
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Plants/lambert1.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/NonEuclideanHallway/lambert1.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Gnomes/WinterGnome/lambert1.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/Statues/lambert1.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/Plants/lambert1.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/Statues/Textures/lambert1.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/SmallTable/Textures/SmallTable1.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/Pipes/Texture/PipeBody.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/Pipes/Texture/Nut1.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/Pipes/Texture/Bolt1.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/NonEuclideanHallway/lambert1.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/MonkeyBars/Monkeybar.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/MonkeyBars/ArcSupport.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/DuckHousing/Textures/Twigs.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/DuckHousing/Textures/Nest1.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/DuckHousing/Textures/Leaf6.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/DuckHousing/Textures/EggShell.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Fence/WornFenceSmall/lambert1.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Fence/WornFenceMed/lambert1.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Fence/FixedFence/lambert1.uasset",
@@ -238,11 +256,11 @@
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/Walkway.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/Tower_top.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/Tower_side.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/Ground1.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/lambert1.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/fountain_top.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/pillar_top.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/pillar_side.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/Ground1.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/base_plat_wall.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/base_plat_top.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bathtub/Materials/lambert5.uasset",
@@ -300,9 +318,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "444CEE4BC388691D91DBB7E31068330B1BF79152",
+			"ShaderMapHash": "20908CFE341D759A1DC0D027F648A82D24A0E5F7",
 			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/AOE/Splatter/Material/paint3.uasset"
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/AOE/Projectile/Materials/paint2.uasset"
 			]
 		},
 		{
@@ -318,24 +336,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "20908CFE341D759A1DC0D027F648A82D24A0E5F7",
-			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/AOE/Projectile/Materials/paint2.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "880BD87CE513DB6F3134942189F58031CED9D8AD",
 			"Assets": [
 				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
 			]
 		},
 		{
+			"ShaderMapHash": "444CEE4BC388691D91DBB7E31068330B1BF79152",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/AOE/Splatter/Material/paint3.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "DA0AB60A1640BCCB82F8EF5267E5A4E930086BD5",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Animation/Materials/lambert3.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Gnome_Animated/FallGnome/lambert7.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/MushroomBoys/Mush5/Top5.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/MushroomBoys/Mush5/lambert2.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/MushroomBoys/Mush4/MM4T.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/MushroomBoys/Mush4/MM4B.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/MushroomBoys/Mush3/lambert7.uasset",
@@ -345,8 +360,11 @@
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Gnome_Animated/WinterGnome/lambert4.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Gnome_Animated/SpringGnome/lambert11.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Gnome_Animated/MushGnome/lambert12.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Gnome_Animated/FallGnome/lambert7.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Gnome_Animated/ChefGnome/lambert2.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Animation/lambert3.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Gnome_Animated/ChefGnome/lambert2.uasset"
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/MushroomBoys/Mush5/Top5.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/MushroomBoys/Mush5/lambert2.uasset"
 			]
 		},
 		{
@@ -362,12 +380,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "97E0CBCB497A5C644D340CF35304FC6E8B2B56C1",
-			"Assets": [
-				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "287CDA7912F74A970D1BFDECE44087CFDC5BAE5A",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/ThirdPerson/Meshes/RampMaterial.uasset"
@@ -380,7 +392,13 @@
 			]
 		},
 		{
-			"ShaderMapHash": "07E8A219A64FE7B7E7138CC09D148DF94831AA82",
+			"ShaderMapHash": "97E0CBCB497A5C644D340CF35304FC6E8B2B56C1",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1FE5C06BDD931EF76D0F7013FD1750FE2D0BB4DF",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/StarterContent/Materials/M_Basic_Wall.uasset"
 			]
@@ -428,12 +446,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "040828EC050BA6FF2D6B59926E397372352F1DF0",
-			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "90725C6A45AFE198B1AD5A6BBF97149404561A63",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/StarterContent/Materials/M_Water_Ocean.uasset"
@@ -461,12 +473,6 @@
 			"ShaderMapHash": "78C4BE9C9475E6922BF327EFBE4E60B66B56CD5C",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "69A8AFAF7E637EFECA4353295A14F6AFA3390E05",
-			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/StarterContent/Materials/M_Basic_Floor.uasset"
 			]
 		},
 		{
@@ -557,12 +563,6 @@
 			"ShaderMapHash": "4F1E0A7E663A1EE7D05E0F384F99FC3F8A9ABF23",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "6894A4786C55984FB9C1113F0263E6FCFD056293",
-			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
 			]
 		},
 		{
@@ -705,6 +705,24 @@
 			]
 		},
 		{
+			"ShaderMapHash": "69A8AFAF7E637EFECA4353295A14F6AFA3390E05",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "040828EC050BA6FF2D6B59926E397372352F1DF0",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6894A4786C55984FB9C1113F0263E6FCFD056293",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "F36F1BA4B0278F1501B5B0F8E7DB14B8AC4128BF",
 			"Assets": [
 				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset"
@@ -760,18 +778,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "1679E43750FB32317174841D26E66EBAEFDB2A38",
-			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_Drops.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "C5A6D661CC690B65E0463FAB6861403126BA9554",
-			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_WaterPikcup.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "7DB699C4620F9ACFF68B46E7F831B6548F3D8E2C",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_YellowPaintPickup.uasset"
@@ -796,17 +802,19 @@
 			]
 		},
 		{
-			"ShaderMapHash": "ABD9081D57CE35CAA4E15E7C2AB6170E4C083359",
+			"ShaderMapHash": "1679E43750FB32317174841D26E66EBAEFDB2A38",
 			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Player/PlayerCharacterV9_lambert1_BaseColor_Mat.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Player/PlayerCharacterYellow.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Player/playerCharacterRed.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Player/PlayerCharacterMag.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Player/PlayerCharacterBlue.uasset"
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_Drops.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "8C7F1B297BD357FBB2596CE6B94AD55244D0A08C",
+			"ShaderMapHash": "C5A6D661CC690B65E0463FAB6861403126BA9554",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_WaterPikcup.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DA8E8092FBAC4CCD16ADDB03035E2B50602C50B3",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Twisted_Grass_Plant_Stem.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Twisted_Grass_Plant_LEaf.uasset",
@@ -843,23 +851,17 @@
 			]
 		},
 		{
-			"ShaderMapHash": "0961AD4AEB26183CFECEBB5073BF2D66B9A5BE13",
+			"ShaderMapHash": "66C3A148A3C6C3F10A2B3966AE03DF39858F1329",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Short_Wide_Plant_Leaf.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Short_Wide_Plant_Flower.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Short_Wide_Plant_Anther.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "539163A73BEA1701354C8764FE4E150327F45000",
+			"ShaderMapHash": "826D0121DF8026FC31FC26580D649A5495DD4EAB",
 			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Short_Wide_Plant_Flower.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "1E844F7463E2BCA333D67E3BF0C1F0E830D4B26C",
-			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/Plants/DualFlowers/DualFlowers.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Plants/DualFlowers/DualFlowers.uasset"
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/Plants/DualFlowers/DualFlowers.uasset"
 			]
 		},
 		{
@@ -867,12 +869,23 @@
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Mushrooms/MushroomA/HoangMushroomA_HP_lambert1_BaseColor_Mat.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Mushrooms/MushroomH/HoangMushroomH_lambert1_BaseColor_Mat.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Mushrooms/MushroomG/HoangMushroomG_lambert1_BaseColor_Mat.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Mushrooms/MushroomF/HoangMushroomF_lambert1_BaseColor_Mat.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Mushrooms/MushroomD/alt_HoangMushroomD_lambert1_BaseColor_Mat.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Mushrooms/MushroomC/HoangMushroomC_lambert1_BaseColor_Mat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Mushrooms/MushroomG/HoangMushroomG_lambert1_BaseColor_Mat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Mushrooms/MushroomD/alt_HoangMushroomD_lambert1_BaseColor_Mat.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Mushrooms/MushroomB/alt_HoangMushroomB_lambert1_BaseColor_Mat.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Mushrooms/MushroomE/HoangMushroomE_lambert1_BaseColor_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5053DD5A025565740995E4963A720EFAD283B2C3",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/Testing/Materials/test_Mat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Tower_floor_final_3_Mat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/Non-Euclidean/Materials/LookingOutTowerBaseMat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/Non-Euclidean/Materials/BaseOutLookingIn_Mat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Tower_texture_final_03_Mat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_Staircase/Bubble_texture_Mat.uasset"
 			]
 		},
 		{
@@ -882,13 +895,13 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5053DD5A025565740995E4963A720EFAD283B2C3",
+			"ShaderMapHash": "ABD9081D57CE35CAA4E15E7C2AB6170E4C083359",
 			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/Testing/Materials/test_Mat.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Tower_floor_final_3_Mat.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/Non-Euclidean/Materials/BaseOutLookingIn_Mat.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/Non-Euclidean/Materials/LookingOutTowerBaseMat.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Tower_texture_final_03_Mat.uasset"
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Player/PlayerCharacterV9_lambert1_BaseColor_Mat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Player/PlayerCharacterYellow.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Player/playerCharacterRed.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Player/PlayerCharacterMag.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Player/PlayerCharacterBlue.uasset"
 			]
 		},
 		{
@@ -924,59 +937,74 @@
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Trees/Tree6/tree6_mat.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Trees/Tree5/tree5_mat.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/WoodenCart/Default_Material.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Tapestry/Rack.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Water_Can_House/Flower_Bud1.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Water_Can_House/Door_knob.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Water_Can_House/Daisy4.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Water_Can_House/Sunflower.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Water_Can_House/Petals2.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Water_Can_House/Leaf_Roof.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Pumpkin_House/Pumpkin_House_Mat.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/PotionBottles/M_RoundBot.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/PotionBottles/M_Cork.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/PotionBottles/M_Bot.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Mushroom_House/lambert12.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Mushroom_House/lambert11.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/MedFence/MedWood.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Easel/M_Easel.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/Tapestry/Texture/Rack.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/FixedFence/FixedFenceMat.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Drawbridge/lambert29.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Easel/M_Easel.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Drawbridge/lambert30.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Drawbridge/lambert23.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Drawbridge/lambert24.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Drawbridge/lambert29.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Drawbridge/lambert27.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Drawbridge/lambert24.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Drawbridge/lambert23.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Candle/M_Candle.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Books/Solo_Book_Mat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Books/Open_book_Mat.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Books/BS_Mat6.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Books/BS_Mat5.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Books/BS_Mat4.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Books/BS_Mat3.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Books/BS_Mat2.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Books/Solo_Book_Mat.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Books/Open_book_Mat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/ToyBoat/M_ToyBoatYellow.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/ToyBoat/M_ToyBoatBlue.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/SoapHouse3/SoapHouse3V2/House3V2.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/SoapHouse3/SoapHouse3V1/Windows3V1.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/SoapFountain/SoapFountain1.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Soap.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/SoapHouse3/SoapHouse3V3/Windows3V3.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/SoapHouse3/SoapHouse3V2/Windows3V2.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/SoapHouse3/SoapHouse3V1/House3V1.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/SoapHouse02/Variant3/NewMaterial.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/SoapHouse02/Variant2/NewMaterial.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/SoapHouse3/SoapHouse3V3/Windows3V3.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/BubbleTrash/BubbleTrashYellow.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_Tree/Tree_Bush2_Mat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_Tree/Tree_Bush_Mat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_Tree/Tree_Base2_Mat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_House2/BH-Variation_3/Materials/BH_TopV3Mat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_House2/BH-Variation_3/Materials/BH_BaseV3Mat.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/BubbleTrash/BubbleTrashRed.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/BubbleTrash/BubbleTrashPurple.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/BubbleTrash/BubbleTrashPink.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bathtub/Materials/BT_Tap.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bathtub/Materials/BT_Stairs.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bathtub/Materials/BT_Silver.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bathtub/Materials/BT_Main.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Water_Can_House/Wood.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Water_Can_House/Watering_Can1.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Water_Can_House/Leaf_Roof.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Water_Can_House/Door_knob.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/ToyBoat/M_ToyBoatRed.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Sun_Rise/The_Sun.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Sun_Rise/Sun_Beams.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Pumpkin_House/Pumpkin_House_Mat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/SewerLadder/lambert1.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Paintstation/Paint_Bottles.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Paintstation/Metal.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Paintstation/Knob.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Paintstation/Cups.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Paintstation/Cabinet.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Paintstation/Brushes.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/King_Textures/King.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_Tree/Tree_Bush_Mat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Levers/M_UniqueSwitch3Runes.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Levers/M_UniqueSwitch3LEver.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Levers/M_UniqueSwitch2Runes.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Levers/M_UniqueSwitch2Levers.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Levers/M_UniqueSwitch1Runes.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Levers/M_UniqueSwitch1Lever.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Levers/M_Base_Lever.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_Tree/Tree_Base_Mat.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_House2/BH-Variation_3/Materials/BH_TopV3Mat.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_House2/BH-Variation_3/Materials/BH_BaseV3Mat.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_Garland/Smol_Bubbles.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_Garland/Every_Other_Smol_Bubble.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_Garland/Every_Other_Big_Bubble.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_Garland/Big_Bubble.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/BubbleTrash/BubbleTrashYellow.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bridge/materials/Default_Material.uasset"
 			]
 		},
@@ -1018,7 +1046,6 @@
 			"ShaderMapHash": "E5E7B7571DE53196933AAC2EE0FC6678BA93F1DB",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Rocks/rock1/lambert2.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Sunflower/NewMaterial.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_Paver.uasset"
 			]
 		},
@@ -1026,13 +1053,13 @@
 			"ShaderMapHash": "B246C09AA54CC2AB327F4871E1DECA7B375BDC00",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Pedestal/lambert1.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Pedestal_Textures/Mat_Pedestal.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Stairs/Broken_Stair_Pieces/Rubble_Piece5_Mat.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Stairs/Broken_Stair_Pieces/Rubble_Piece4_Mat.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Stairs/Broken_Stair_Pieces/Rubble_Piece3_Mat.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Stairs/Broken_Stair_Pieces/Rubble_Piece2_Mat.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Stairs/Broken_Stair_Pieces/Rubble_Piece1_Mat.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Stair_Textures/Mat_Stairs.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Pedestal_Textures/Mat_Pedestal.uasset"
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Stair_Textures/Mat_Stairs.uasset"
 			]
 		},
 		{
@@ -1049,21 +1076,27 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2A4AF3F688C2E66590B9D66E50432A0C6BF756D5",
-			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Logs/Log2/lambert1.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "2B759754001CF513583B0CB66250C135C4DF8EFF",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Axe/material/lambert1.uasset"
 			]
 		},
 		{
+			"ShaderMapHash": "2A4AF3F688C2E66590B9D66E50432A0C6BF756D5",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Logs/Log2/lambert1.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "FFF5874EC5E6E967442A2943620E9F6DC662624B",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Blueprints/Misc/basic_color.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5089B886A51B2BE683DBCCA1AB924BB439F23904",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_Water.uasset"
 			]
 		},
 		{
@@ -1091,7 +1124,7 @@
 			]
 		},
 		{
-			"ShaderMapHash": "07DF7D745B570DAECD67BBDE7C46DAFBC09F1419",
+			"ShaderMapHash": "7BE919D6C1F380F6BF3D1BBE8096050816E43C85",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/Mat_ToonGrass_Anim.uasset"
 			]
@@ -1100,12 +1133,6 @@
 			"ShaderMapHash": "8DAC75317777D6CA2711547A82077CC1546E0F2C",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_TempTower.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "D9C32CFF8BFF23D5FE0216FB8AFBFC2DD9A7CBAE",
-			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_Leaves.uasset"
 			]
 		},
 		{
@@ -1128,17 +1155,11 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5089B886A51B2BE683DBCCA1AB924BB439F23904",
-			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_Water.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "36F0E972D218544347AE1132530E7CADEC82AC48",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_Island6.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_Island5.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_Island4.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_Island5.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_Island3.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_Island2.uasset"
 			]
@@ -1150,32 +1171,26 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A689E8B1338CE3ABE46AE7DC79745AC0469E928E",
+			"ShaderMapHash": "2F528742CF0603E174363D10AD7788C3FB069D39",
 			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Door2Target_Mat.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Door1Target_Mat.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "B27B116BED0DEEA69C32F6C3C8A57055B42D9EAA",
-			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_DoorShadows.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_CloudDeck.uasset"
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Water_Can_House/Watering_Can1.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Stairs/Stair_Mat_Main.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_Stairs.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_Gate/lambert1.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_Bridge/lambert1.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_Garland/Smol_Bubbles.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_Garland/Every_Other_Smol_Bubble.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_Garland/Every_Other_Big_Bubble.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_Garland/Big_Bubble.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bathtub/Materials/BT_Tap.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bathtub/Materials/BT_Stairs.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bathtub/Materials/BT_Silver.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "F5507DEC2843B04F9282674DAE5A1FD0BAFD05F8",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Vase/Vase_Mat.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "CCB63677E0630D55B7B456BFE8DFEF8AFF15E808",
-			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Tapestry/Banner1.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/SoapHouse3/SoapHouse3V3/House3V3.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/SoapHouse02/Variant1/NewMaterial.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/BubbleTrash/BubbleTrashBlue.uasset"
 			]
 		},
 		{
@@ -1188,10 +1203,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2F528742CF0603E174363D10AD7788C3FB069D39",
+			"ShaderMapHash": "0AE2BA8F094BE5F1C3DE362FDB8DB64E9F88DD03",
 			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Stairs/Stair_Mat_Main.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_Stairs.uasset"
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Sunflower/NewMaterial.uasset"
 			]
 		},
 		{
@@ -1214,25 +1228,15 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E8980006612F9A42ED22C7C7BC26AE3071C56AA0",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Outhouse/M_Outhouse_T.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "060F9335B1D22A23ED0F257D33CDBA7D0B0498CE",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Logs/Log1/lambert1.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "C2F9B31245247BB79205A76C972E6339554C7816",
-			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/StarterContent/Textures/T_Wood_Floor_Walnut_Mat.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Bubble_Wand_Yellow.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Gnomes/Gnome_Winter_Poly_lambert2_BaseColor_Mat.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Gnomes/gnome_spring_lambert1_BaseColor_Mat.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Gnomes/Gnome_Mushroom_Low_lambert1_BaseColor_Mat.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "10FA2ED72D43AAC4207B1B5D88A2A5CBFCAFE1B7",
-			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/MM_White.uasset"
 			]
 		},
 		{
@@ -1242,7 +1246,23 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3449C9FF8C673E678C171C7175AC9087D6E12EE5",
+			"ShaderMapHash": "B27B116BED0DEEA69C32F6C3C8A57055B42D9EAA",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_CloudDeck.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_DoorShadows.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CCB63677E0630D55B7B456BFE8DFEF8AFF15E808",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/Tapestry/Texture/Banner1.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/SoapHouse3/SoapHouse3V3/House3V3.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/SoapHouse02/Variant1/NewMaterial.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/BubbleTrash/BubbleTrashBlue.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "66D601A240AC225E86F066EF81B7EDCF1EA64258",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_TreeLeaves.uasset"
 			]
@@ -1255,6 +1275,7 @@
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Drawbridge/lambert28.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Drawbridge/lambert26.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Drawbridge/lambert25.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Soap.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Dresser/Wall_to_Floor.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Dresser/Top_Doors.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Dresser/Right_Drawer.uasset",
@@ -1272,7 +1293,18 @@
 			]
 		},
 		{
-			"ShaderMapHash": "CCC928BBF6242CDE364B287C2077461B0F7ABD59",
+			"ShaderMapHash": "C2F9B31245247BB79205A76C972E6339554C7816",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/ChefHatHouse/M_ChefHatHouse.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/StarterContent/Textures/T_Wood_Floor_Walnut_Mat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Bubble_Wand_Yellow.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Gnomes/Gnome_Winter_Poly_lambert2_BaseColor_Mat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Gnomes/gnome_spring_lambert1_BaseColor_Mat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Gnomes/Gnome_Mushroom_Low_lambert1_BaseColor_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8699631443F7F7DC5FFAF8FF3521FD662FEF559D",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bridge/materials/lambert2.uasset"
 			]
@@ -1290,9 +1322,53 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5B780B938CC153DFEBDD109133FB5C1EA3F2161D",
+			"ShaderMapHash": "099FB74DE9210D02B3C5EBA17E7E58651A7DD3E1",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/ApplePickUp/M_ApplePickUp.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A689E8B1338CE3ABE46AE7DC79745AC0469E928E",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Door2Target_Mat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Door1Target_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "10FA2ED72D43AAC4207B1B5D88A2A5CBFCAFE1B7",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/MM_White.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "59037CB63B5796FF5B00B6869D30C8A3B1F725A5",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Swing/M_Swing_T.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Slide/M_Slide_T.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E05CC8B19B9E9CFAB22B161CF466208CF4480F99",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/MerryGoRound/M_MGR_T.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1D1326CDEB91CB1079EEF993674021CCC8B0EF29",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_Bubbles.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FEFC99AF79424CD9226E030B449B37282C5C90A7",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/ParticleSystems/NS_BubbleTurbine.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CC08F1E8C960E2DCBCA666FCA1A1C4FD5EBA744A",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Materials/Mat_BubbleSky.uasset"
 			]
 		},
 		{
@@ -1307,6 +1383,15 @@
 			]
 		},
 		{
+			"ShaderMapHash": "6CF8967E4E7CE8D4FB395D88C1440FA7DF77F515",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_House2/BH-Variation_2/Materials/BH_TopV2_Mat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_House2/BH-Variation_2/Materials/BH_BaseV2_Mat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_House2/BH-Variation_1/Materials/BH_TopV1_Mat.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_House2/BH-Variation_1/Materials/BH_BaseV1_Mat.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "AA57C35FE91789392447958559208E2EACDBD773",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Bubble_Wand_Violet.uasset",
@@ -1316,15 +1401,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "0F335FF2592D7D33F008E4E2B4F04F57EDB523C7",
+			"ShaderMapHash": "5556C53D47D15A05CEBE48FE6FF16C0BF5FA7C61",
 			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/Current/Materials/walls.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "476774F18B4195662D20B2D77E63EA1495C849D3",
-			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/NewFolder/floor.uasset"
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/BubbleTurbine/M_BubbleTurbine_T1.uasset"
 			]
 		},
 		{
@@ -1334,16 +1413,36 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5C56AA4A5794D94773465F94E9831DFDF98927CE",
+			"ShaderMapHash": "0F335FF2592D7D33F008E4E2B4F04F57EDB523C7",
 			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Tower/Tower_Platform.uasset"
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/Current/Materials/walls.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "59037CB63B5796FF5B00B6869D30C8A3B1F725A5",
+			"ShaderMapHash": "775725FED5F13327338E0A733759E5A97A09D5DF",
 			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Swing/M_Swing_T.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Slide/M_Slide_T.uasset"
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Animation/Soap_Chara/soapBud.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/MushroomBoys/Mush1/MM1Top1.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/MushroomBoys/Mush1/lambert3.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/lambert1.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "476774F18B4195662D20B2D77E63EA1495C849D3",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/NewFolder/floor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F077BAAE79AA561511DB15163639AC6FF7F8365C",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubble_Staircase/M_Staircase_T.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5C56AA4A5794D94773465F94E9831DFDF98927CE",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Tower/Tower_Platform.uasset"
 			]
 		},
 		{
@@ -1408,16 +1507,22 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1E844F7463E2BCA333D67E3BF0C1F0E830D4B26C",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Plants/DualFlowers/DualFlowers.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "28869DD9A5DBF89486DDBD706497B8A0AFDE41B7",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Plants/stem.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Plants/leaf.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Plants/Flower.uasset",
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Plants/Anther.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/Plants/stem.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/Plants/leaf.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/Plants/Flower.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/Plants/Anther.uasset"
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/Plants/Textures/stem.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/Plants/Textures/leaf.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/Plants/Textures/Flower.uasset",
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/Plants/Textures/Anther.uasset"
 			]
 		},
 		{
@@ -1448,27 +1553,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E8980006612F9A42ED22C7C7BC26AE3071C56AA0",
-			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Outhouse/M_Outhouse_T.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "775725FED5F13327338E0A733759E5A97A09D5DF",
-			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/MushroomBoys/Mush1/MM1Top1.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/MushroomBoys/Mush1/lambert3.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Gnome_Animated/lambert2.uasset",
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Geometry/Meshes/lambert1.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "E05CC8B19B9E9CFAB22B161CF466208CF4480F99",
-			"Assets": [
-				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/MerryGoRound/M_MGR_T.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "E0A9044ECBB3709A347C326BC6ACEBFC0823A176",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/T_Tiles_Textues/Tiles_Stone/M_Tile_Stone_3.uasset",
@@ -1490,7 +1574,7 @@
 			]
 		},
 		{
-			"ShaderMapHash": "075A829ECA45055D97A0DF853BD4077102A6737C",
+			"ShaderMapHash": "4E478F2DDB72AA9272AABCE0C90DBEFCBEA5C1CF",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_ToonGrass_Anim.uasset"
 			]
@@ -1511,6 +1595,12 @@
 			"ShaderMapHash": "1CCED6A06F0A807B220E4C6415FB6A6A05D2A31C",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_Plant_Standin.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D9C32CFF8BFF23D5FE0216FB8AFBFC2DD9A7CBAE",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Materials/Mat_Leaves.uasset"
 			]
 		},
 		{
@@ -1568,6 +1658,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "AC956A15A0ACBA2A57E1DB8324D9AA967F233E4B",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/BubbleTurbine/M_BubbleTurbine_T.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "AB89C2433A492A1C4A54322BCDE5A90B4E76D6A0",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/Ground.uasset"
@@ -1577,6 +1673,12 @@
 			"ShaderMapHash": "5BC7F91776A081A8C42201DDDC5A4EC6734DFBC0",
 			"Assets": [
 				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bubbleopolis/NewFolder/walls.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CCC928BBF6242CDE364B287C2077461B0F7ABD59",
+			"Assets": [
+				"D:/ihatethis/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Bridge/materials/lambert3.uasset"
 			]
 		}
 	]
