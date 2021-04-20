@@ -5467,3 +5467,16 @@ Make sure 'Fall_Gnome_C' has been compiled for  Get Is Elliot
 [2021.04.20-02.55.03:803][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.04.20-02.55.03:823][657]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
 [2021.04.20-02.55.03:871][658]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.04.20-02.58.28:147][773]LogAssetRegistry: Error: Package C:/Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Player/ThirdPersonCharacter.uasset has malformed tag
+[2021.04.20-02.59.34:913][972]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.04.20-02.59.35:465][972]LogSavePackage: Moving '../../../../../../Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Forest_Auto2EB335D6640756DD797FB46B7C0D3CC6D.tmp' to '../../../../../../Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Autosaves/Game/Levels/Forest_Auto2.umap'
+[2021.04.20-02.59.35:468][972]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Forest' took 0.604
+[2021.04.20-02.59.35:469][972]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.604
+[2021.04.20-02.59.35:469][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gnome_Animated/FallGnome/Fall_Gnome] ([1] browsable assets)...
+[2021.04.20-02.59.35:490][972]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Gnome_Animated/FallGnome/Fall_Gnome.Fall_Gnome]
+[2021.04.20-02.59.35:490][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gnome_Animated/FallGnome/Fall_Gnome]
+[2021.04.20-02.59.35:565][972]LogSavePackage: Moving '../../../../../../Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Fall_Gnome_Auto28235657543261AE94FECDC9FD1786A31.tmp' to '../../../../../../Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Autosaves/Game/Gnome_Animated/FallGnome/Fall_Gnome_Auto2.uasset'
+[2021.04.20-02.59.35:566][972]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dialogue/ElliotDialogue] ([1] browsable assets)...
+[2021.04.20-02.59.35:566][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dialogue/ElliotDialogue]
+[2021.04.20-02.59.35:583][972]LogSavePackage: Moving '../../../../../../Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/ElliotDialogue_Auto245F552C4444C9668854C7B93F546BBFB.tmp' to '../../../../../../Users/jedie/OneDrive/Documents/GitHub/Serotopia V3/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Autosaves/Game/Dialogue/ElliotDialogue_Auto2.uasset'
+[2021.04.20-02.59.35:584][972]LogFileHelpers: Auto-saving content packages took 0.115
