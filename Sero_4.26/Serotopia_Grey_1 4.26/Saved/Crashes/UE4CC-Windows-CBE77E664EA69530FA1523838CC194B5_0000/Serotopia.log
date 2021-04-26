@@ -1,0 +1,1123 @@
+﻿Log file open, 04/26/21 01:03:14
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Serotopia
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.189832
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/Montana/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: H:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.04.26-05.03.15:275][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.04.26-05.03.15:275][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.04.26-05.03.15:275][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.04.26-05.03.15:308][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.26-05.03.15:308][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.26-05.03.15:309][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.26-05.03.15:309][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.26-05.03.15:309][  0]LogHAL: Display: Platform has ~ 16 GB [17096523776 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.26-05.03.15:309][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.26-05.03.15:309][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.26-05.03.15:309][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.26-05.03.15:310][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Config/Windows/Engine.ini]
+[2021.04.26-05.03.15:310][  0]LogInit: Computer: DESKTOP-4E96EQO
+[2021.04.26-05.03.15:310][  0]LogInit: User: Montana
+[2021.04.26-05.03.15:310][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.04.26-05.03.15:310][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.26-05.03.15:310][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.04.26-05.03.15:310][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.26-05.03.15:310][  0]LogMemory: Process Physical Memory: 143.15 MB used, 143.15 MB peak
+[2021.04.26-05.03.15:310][  0]LogMemory: Process Virtual Memory: 131.59 MB used, 131.59 MB peak
+[2021.04.26-05.03.15:310][  0]LogMemory: Physical Memory: 9158.65 MB used,  7145.87 MB free, 16304.52 MB total
+[2021.04.26-05.03.15:310][  0]LogMemory: Virtual Memory: 134202880.00 MB used,  14844.18 MB free, 134217728.00 MB total
+[2021.04.26-05.03.15:663][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.26-05.03.15:702][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.26-05.03.15:706][  0]LogInit: Using OS detected language (en-US).
+[2021.04.26-05.03.15:706][  0]LogInit: Using OS detected locale (en-US).
+[2021.04.26-05.03.15:708][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.04.26-05.03.15:848][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.26-05.03.15:862][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.26-05.03.15:915][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.26-05.03.15:915][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.26-05.03.16:134][  0]LogHMD: Failed to initialize OpenVR with code 117
+[2021.04.26-05.03.16:134][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.26-05.03.16:134][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.26-05.03.16:134][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.26-05.03.16:203][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2021.04.26-05.03.16:203][  0]LogD3D11RHI:       11127/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.04.26-05.03.16:205][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.26-05.03.16:205][  0]LogD3D11RHI:       0/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.26-05.03.16:206][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.26-05.03.16:212][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.26-05.03.16:212][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.26-05.03.16:212][  0]LogWindows: EnumDisplayDevices:
+[2021.04.26-05.03.16:212][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2021.04.26-05.03.16:213][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2021.04.26-05.03.16:213][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2021.04.26-05.03.16:213][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2021.04.26-05.03.16:213][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.04.26-05.03.16:213][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2021.04.26-05.03.16:213][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.04.26-05.03.16:213][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.04.26-05.03.16:213][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2021.04.26-05.03.16:259][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.26-05.03.16:259][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.26-05.03.16:259][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.26-05.03.16:277][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.04.26-05.03.16:278][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.04.26-05.03.16:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.26-05.03.16:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.26-05.03.16:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.26-05.03.16:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.26-05.03.16:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.26-05.03.16:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.26-05.03.16:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.26-05.03.16:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.26-05.03.16:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.26-05.03.16:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.26-05.03.16:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.26-05.03.16:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.26-05.03.16:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.26-05.03.16:581][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.26-05.03.16:587][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.26-05.03.16:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.26-05.03.16:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.26-05.03.16:607][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.26-05.03.16:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.26-05.03.16:621][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.26-05.03.16:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.26-05.03.16:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.26-05.03.16:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.04.26-05.03.16:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.04.26-05.03.16:658][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.04.26-05.03.16:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.04.26-05.03.16:677][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.26-05.03.16:677][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.26-05.03.16:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.26-05.03.16:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.26-05.03.16:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.26-05.03.16:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.26-05.03.16:705][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.26-05.03.16:712][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.26-05.03.16:759][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.04.26-05.03.16:759][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Intermediate/Shaders/WorkingDirectory/23420/).
+[2021.04.26-05.03.16:759][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Montana/AppData/Local/Temp/UnrealShaderWorkingDir/2F4AFBDE4702107A60A29E8209828ADC/'.
+[2021.04.26-05.03.16:759][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.26-05.03.16:759][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.26-05.03.17:360][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.26-05.03.17:409][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/Montana/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.26-05.03.17:409][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Montana/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.04.26-05.03.17:409][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.26-05.03.17:409][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.26-05.03.17:409][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.26-05.03.17:409][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.26-05.03.17:418][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.26-05.03.17:418][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.26-05.03.17:418][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.26-05.03.17:423][  0]LogDerivedDataCache: Speed tests for C:/Users/Montana/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.04.26-05.03.17:423][  0]LogDerivedDataCache: Display: Performance to C:/Users/Montana/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1518.35MBs, RandomWriteSpeed=224.09MBs. Assigned SpeedClass 'Local'
+[2021.04.26-05.03.17:424][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Montana/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.26-05.03.17:424][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.26-05.03.17:424][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.26-05.03.17:462][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.26-05.03.17:462][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.26-05.03.17:484][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2021.04.26-05.03.17:666][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.26-05.03.17:666][  0]LogInit: Active device profile: [0000026F908EFA00][0000026F91045840 49] Windows
+[2021.04.26-05.03.17:666][  0]LogInit: Profiles: [0000026F908EFA00][0000026F91045840 49] Windows, [0000026F90899C00][0000026F91049980 49] WindowsNoEditor, [0000026F908EF700][0000026F91051B00 49] WindowsServer, [0000026F90899200][0000026F91055C80 49] WindowsClient, [0000026F908EEB00][0000026F91058140 49] IOS, [0000026F9089B100][0000026F9105C2C0 49] iPadAir, [0000026F908ED000][0000026F91060440 49] iPadAir2, [0000026F90832A00][0000026F9106E700 49] IPadPro, [0000026F90832B00][0000026F91064740 49] iPadAir3, [0000026F908ECD00][0000026F910788C0 49] iPadAir4, [0000026F90833F00][0000026F9107CA40 49] iPadMini2, [0000026F908EC900][0000026F91080BC0 49] iPadMini3, [0000026F90831C00][0000026F91084D40 49] iPadMini4, [0000026F908EF000][0000026F91088EC0 49] iPadMini5, [0000026F9085A300][0000026F91091180 49] iPhone6, [0000026F9085A400][0000026F9108D1C0 49] iPodTouch6, [0000026F90898600][0000026F91099480 49] iPhone7, [0000026F90898500][0000026F910954C0 49] iPodTouch7, [0000026F9085BC00][0000026F9109D640 49] iPhone5S, [0000026F9089A600][0000026F9104D780 49] iPhone6Plus, [0000026F90859400][0000026F910A18C0 49] iPhone6S, [0000026F9089BD00][0000026F910A5A00 49] iPhone6SPlus, [0000026F90858300][0000026F910ADB80 49] iPhone7Plus, [0000026F90899800][0000026F910B1D00 49] iPhoneSE, [0000026F9085AF00][0000026F910B41C0 49] iPhone8, [0000026F9089A200][0000026F910B8340 49] iPhone8Plus, [0000026F90859900][0000026F910BC4C0 49] iPhoneX, [0000026F9089B800][0000026F910C0640 49] iPhoneXS, [0000026F9085BF00][0000026F910C47C0 49] iPhoneXSMax, [0000026F9089BF00][0000026F910C8940 49] iPhoneXR, [0000026F90859A00][0000026F910CCAC0 49] iPhone11, [0000026F90899300][0000026F910D0C40 49] iPhone11Pro, [0000026F9085B000][0000026F910D4DC0 49] iPhone11ProMax, [0000026F9089A800][0000026F910D8F40 49] iPhoneSE2, [0000026F90858500][0000026F910DD0C0 49] iPhone12Mini, [0000026F9089AB00][0000026F910E1240 49] iPhone12, [0000026F9085A800][0000026F910E53C0 49] iPhone12Pro, [0000026F90898300][0000026F910E9540 49] iPhone12ProMax, [0000026F90859D00][0000026F910ED6C0 49] iPadPro105, [0000026F908EEF00][0000026F910A9800 49] iPadPro129, [0000026F90858F00][0000026F910F1940 49] iPadPro97, [0000026F908EE700][0000026F910F5A80 49] iPadPro2_129, [0000026F9085A900][0000026F910FDC00 49] iPad5, [0000026F908EC500][0000026F911000C0 49] iPad6, [0000026F9085BE00][0000026F91104240 49] iPad7, [0000026F908ED200][0000026F911083C0 49] iPad8, [0000026F90858400][0000026F9110C540 49] iPadPro11, [0000026F908ED900][0000026F911106C0 49] iPadPro2_11, [0000026F90858A00][0000026F91114840 49] iPadPro3_129, [0000026F908EE000][0000026F911189C0 49] iPadPro4_129, [0000026F90858200][0000026F9111CB40 49] AppleTV, [0000026F908EFB00][0000026F91120CC0 49] AppleTV4K, [0000026F9085A200][0000026F91124E40 49] TVOS, [0000026F908EC400][0000026F91128FC0 49] Mac, [0000026F90859000][0000026F9112D140 49] MacClient, [0000026F908EC600][0000026F911312C0 49] MacNoEditor, [0000026F90859100][0000026F91135440 49] MacServer, [0000026F908ED700][0000026F911395C0 49] Linux, [0000026F90859E00][0000026F9113D740 49] LinuxNoEditor, [0000026F908ED400][0000026F910F9880 49] LinuxAArch64NoEditor, [0000026F90859600][0000026F911419C0 49] LinuxClient, [0000026F908EF400][0000026F91145B00 49] LinuxAArch64Client, [0000026F90859500][0000026F91149C40 49] LinuxServer, [0000026F908EEC00][0000026F91150100 49] LinuxAArch64Server, [0000026F90859800][0000026F91154280 49] Android, [0000026F908ED800][0000026F91158400 49] Android_Low, [0000026F90858E00][0000026F9115C580 49] Android_Mid, [0000026F908EE100][0000026F91170700 49] Android_High, [0000026F9085B500][0000026F91174880 49] Android_Default, [0000026F908EDD00][0000026F91178A00 49] Android_Adreno4xx, [0000026F9085A100][0000026F9117CB80 49] Android_Adreno5xx_Low, [0000026F908EE200][0000026F91180D00 49] Android_Adreno5xx, [0000026F90858700][0000026F91184E80 49] Android_Adreno6xx, [0000026F908EDF00][0000026F91189000 49] Android_Adreno6xx_Vulkan, [0000026F90859700][0000026F9118D180 49] Android_Mali_T6xx, [0000026F908EF600][0000026F91191300 49] Android_Mali_T7xx, [0000026F9085A600][0000026F91195480 49] Android_Mali_T8xx, [0000026F908ECE00][0000026F91199600 49] Android_Mali_G71, [0000026F90859C00][0000026F9119D780 49] Android_Mali_G72, [0000026F908EF900][0000026F9114D8C0 49] Android_Mali_G72_Vulkan, [0000026F9085A500][0000026F911A1A00 49] Android_Mali_G76, [0000026F908EC100][0000026F911A5B40 49] Android_Mali_G76_Vulkan, [0000026F9085AC00][0000026F911A9C80 49] Android_Mali_G77, [0000026F908EDC00][0000026F911B0140 49] Android_Mali_G77_Vulkan, [0000026F90859200][0000026F911B42C0 49] Android_Vulkan_SM5, [0000026F90831E00][0000026F911B8440 49] Android_PowerVR_G6xxx, [0000026F90899400][0000026F911BC5C0 49] Android_PowerVR_GT7xxx, [0000026F90830D00][0000026F911C0740 49] Android_PowerVR_GE8xxx, [0000026F90898100][0000026F911C48C0 49] Android_PowerVR_GM9xxx, [0000026F90832300][0000026F911C8A40 49] Android_PowerVR_GM9xxx_Vulkan, [0000026F90898A00][0000026F911CCBC0 49] Android_TegraK1, [0000026F90832000][0000026F911D0D40 49] Android_Unknown_Vulkan, [0000026F9089B300][0000026F911D4EC0 49] Lumin, [0000026F90830F00][0000026F911D9040 49] Lumin_Desktop, [0000026F90899F00][0000026F911DD1C0 49] HoloLens, 
+[2021.04.26-05.03.17:749][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.26-05.03.17:749][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.26-05.03.17:749][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.26-05.03.17:749][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.26-05.03.17:749][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.26-05.03.17:790][  0]LogNetVersion: Serotopia 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1805940841)
+[2021.04.26-05.03.18:142][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.04.26-05.03.18:174][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.031246 seconds
+[2021.04.26-05.03.18:178][  0]LogUObjectArray: 16836 objects as part of root set at end of initial load.
+[2021.04.26-05.03.18:178][  0]LogUObjectAllocator: 4210784 out of 0 bytes used by permanent object pool.
+[2021.04.26-05.03.18:178][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.26-05.03.18:436][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.26-05.03.18:442][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.26-05.03.18:530][  0]SourceControl: Source control is disabled
+[2021.04.26-05.03.18:530][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:530][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.04.26-05.03.18:530][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:530][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.04.26-05.03.18:530][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:530][  0]LogWindows: Warning: URL: C:\Users\Montana\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.04.26-05.03.18:530][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:530][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.04.26-05.03.18:531][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:531][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.04.26-05.03.18:531][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:531][  0]LogWindows: Warning: URL: C:\Users\Montana\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.04.26-05.03.18:531][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:531][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.04.26-05.03.18:533][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:533][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.04.26-05.03.18:534][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:534][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.04.26-05.03.18:534][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:534][  0]LogWindows: Warning: URL: C:\Users\Montana\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.04.26-05.03.18:534][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:534][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.04.26-05.03.18:534][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:534][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.04.26-05.03.18:534][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:534][  0]LogWindows: Warning: URL: C:\Users\Montana\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.04.26-05.03.18:534][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:534][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.04.26-05.03.18:537][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:537][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.04.26-05.03.18:537][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:537][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.04.26-05.03.18:537][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:537][  0]LogWindows: Warning: URL: C:\Users\Montana\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.04.26-05.03.18:537][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:537][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.04.26-05.03.18:537][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:537][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.04.26-05.03.18:537][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:537][  0]LogWindows: Warning: URL: C:\Users\Montana\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.04.26-05.03.18:537][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:537][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.04.26-05.03.18:545][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:545][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.04.26-05.03.18:545][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:545][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.04.26-05.03.18:545][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:545][  0]LogWindows: Warning: URL: C:\Users\Montana\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.04.26-05.03.18:545][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:545][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.04.26-05.03.18:545][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:545][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.04.26-05.03.18:546][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:546][  0]LogWindows: Warning: URL: C:\Users\Montana\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.04.26-05.03.18:546][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.18:546][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.04.26-05.03.18:551][  0]LogUProjectInfo: Found projects:
+[2021.04.26-05.03.18:723][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.26-05.03.18:738][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.26-05.03.18:738][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.26-05.03.18:785][  0]LogCollectionManager: Loaded 0 collections in 0.000526 seconds
+[2021.04.26-05.03.18:803][  0]LogFileCache: Scanning file cache for directory 'H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Collections/' took 0.00s
+[2021.04.26-05.03.18:803][  0]LogFileCache: Scanning file cache for directory 'H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Developers/Montana/Collections/' took 0.00s
+[2021.04.26-05.03.18:803][  0]LogFileCache: Scanning file cache for directory 'H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Collections/' took 0.00s
+[2021.04.26-05.03.18:803][  0]LogOcInput: OculusInput pre-init called
+[2021.04.26-05.03.18:811][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.04.26-05.03.18:811][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.04.26-05.03.18:850][  0]LogEngine: Initializing Engine...
+[2021.04.26-05.03.18:895][  0]LogHMD: Failed to initialize OpenVR with code 117
+[2021.04.26-05.03.18:895][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.26-05.03.18:895][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.04.26-05.03.18:981][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.26-05.03.18:987][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.26-05.03.19:000][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.04.26-05.03.19:003][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.04.26-05.03.19:003][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.04.26-05.03.19:003][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.26-05.03.19:003][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.26-05.03.19:003][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.26-05.03.19:003][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.26-05.03.19:003][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.26-05.03.19:003][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.26-05.03.19:003][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.26-05.03.19:003][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.26-05.03.19:004][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.26-05.03.19:004][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.26-05.03.21:604][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.26-05.03.21:604][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.26-05.03.21:604][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.26-05.03.21:604][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.26-05.03.21:604][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.04.26-05.03.21:604][  0]LogAudioMixer: Display: 5: BackRight
+[2021.04.26-05.03.21:604][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.04.26-05.03.21:604][  0]LogAudioMixer: Display: 7: SideRight
+[2021.04.26-05.03.22:015][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.26-05.03.22:022][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.26-05.03.22:024][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.26-05.03.22:024][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.26-05.03.22:026][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.26-05.03.22:026][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.26-05.03.22:026][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.26-05.03.22:027][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.26-05.03.22:027][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.26-05.03.22:027][  0]LogInit: FAudioDevice initialized.
+[2021.04.26-05.03.22:027][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.04.26-05.03.22:028][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.26-05.03.22:071][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/Montana/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.26-05.03.22:076][  0]LogInit: Texture streaming: Enabled
+[2021.04.26-05.03.22:091][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.04.26-05.03.22:098][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.26-05.03.22:098][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={D43FCC29-49C7-782C-A5E0-1D883243DC77}
+[2021.04.26-05.03.22:098][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.26-05.03.22:102][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.26-05.03.22:144][  0]LogInit: Transaction tracking system initialized
+[2021.04.26-05.03.22:163][  0]BlueprintLog: New page: Editor Load
+[2021.04.26-05.03.22:215][  0]LocalizationService: Localization service is disabled
+[2021.04.26-05.03.22:233][  0]TimingProfiler: Initialize
+[2021.04.26-05.03.22:233][  0]TimingProfiler: OnSessionChanged
+[2021.04.26-05.03.22:233][  0]LoadingProfiler: Initialize
+[2021.04.26-05.03.22:233][  0]LoadingProfiler: OnSessionChanged
+[2021.04.26-05.03.22:233][  0]NetworkingProfiler: Initialize
+[2021.04.26-05.03.22:233][  0]NetworkingProfiler: OnSessionChanged
+[2021.04.26-05.03.22:233][  0]MemoryProfiler: Initialize
+[2021.04.26-05.03.22:233][  0]MemoryProfiler: OnSessionChanged
+[2021.04.26-05.03.22:327][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.04.26-05.03.22:327][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.26-05.03.22:445][  0]LogFileCache: Scanning file cache for directory 'H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/' took 0.04s
+[2021.04.26-05.03.22:598][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.04.26-05.03.22:601][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.22:601][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.04.26-05.03.22:601][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.22:601][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.04.26-05.03.22:601][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.22:601][  0]LogWindows: Warning: URL: C:\Users\Montana\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.04.26-05.03.22:601][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.22:601][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.04.26-05.03.22:601][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.22:601][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.04.26-05.03.22:601][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.22:601][  0]LogWindows: Warning: URL: C:\Users\Montana\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.04.26-05.03.22:601][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.04.26-05.03.22:601][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.04.26-05.03.22:601][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.108
+[2021.04.26-05.03.22:601][  0]Cmd: MAP LOAD FILE="../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Levels/Forest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.26-05.03.22:602][  0]LightingResults: New page: Lighting Build
+[2021.04.26-05.03.22:602][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.26-05.03.22:602][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.26-05.03.22:602][  0]MapCheck: New page: Map Check
+[2021.04.26-05.03.22:602][  0]LightingResults: New page: Lighting Build
+[2021.04.26-05.03.22:608][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.04.26-05.03.22:752][  0]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\Materials\paint2.uasset: Failed to load '/Game/Materials/Textures/T_Splatter_A': Can't find file.
+[2021.04.26-05.03.22:752][  0]LoadErrors: Failed to load /Game/Blueprints/AOE/Projectile/Materials/paint2.paint2 Referenced by Decal_GEN_VARIABLE
+[2021.04.26-05.03.22:753][  0]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\Materials\paint2.uasset: Failed to load '/Game/Materials/Textures/T_Splatter_A': Can't find file.
+[2021.04.26-05.03.22:753][  0]LoadErrors: Failed to load /Game/Blueprints/AOE/Projectile/Materials/paint2.paint2 Referenced by Decal_GEN_VARIABLE
+[2021.04.26-05.03.22:753][  0]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\Materials\paint2.uasset: Failed to load '/Game/Materials/Textures/T_Splatter_A': Can't find file.
+[2021.04.26-05.03.22:753][  0]LoadErrors: Failed to load /Game/Blueprints/AOE/Projectile/Materials/paint2.paint2 Referenced by Decal_GEN_VARIABLE
+[2021.04.26-05.03.22:949][  0]LogBlueprint: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Splatter\AOE_Blue.uasset: [Compiler] On Component Begin Overlap (collider)  does not have a valid matching component!
+[2021.04.26-05.03.24:017][  0]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Blueprints\AOE\Projectile\Materials\paint2.uasset: Failed to load '/Game/Materials/Textures/T_Splatter_A': Can't find file.
+[2021.04.26-05.03.24:017][  0]LoadErrors: Failed to load /Game/Materials/Textures/T_Splatter_A.T_Splatter_A Referenced by MaterialExpressionTextureSample_2
+[2021.04.26-05.03.24:980][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Forest'.
+[2021.04.26-05.03.24:981][  0]LogAIModule: Creating AISystem for world Forest
+[2021.04.26-05.03.24:990][  0]LogMaterial: Display: Material /Game/Mushrooms/MushroomB/alt_HoangMushroomB_lambert1_BaseColor_Mat.alt_HoangMushroomB_lambert1_BaseColor_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2021.04.26-05.03.24:991][  0]LogMaterial: Display: Missing cached shader map for material alt_HoangMushroomB_lambert1_BaseColor_Mat, compiling. 
+[2021.04.26-05.03.25:037][  0]MapCheck: Warning: alt_HoangMushroomB_lambert1_BaseColor_Mat Material /Game/Mushrooms/MushroomB/alt_HoangMushroomB_lambert1_BaseColor_Mat.alt_HoangMushroomB_lambert1_BaseColor_Mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2021.04.26-05.03.25:037][  0]LogMaterial: Display: Material /Game/Mushrooms/MushroomG/HoangMushroomG_lambert1_BaseColor_Mat.HoangMushroomG_lambert1_BaseColor_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2021.04.26-05.03.25:038][  0]LogMaterial: Display: Missing cached shader map for material HoangMushroomG_lambert1_BaseColor_Mat, compiling. 
+[2021.04.26-05.03.25:056][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 42
+[2021.04.26-05.03.25:056][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 38
+[2021.04.26-05.03.25:056][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 34
+[2021.04.26-05.03.25:056][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 30
+[2021.04.26-05.03.25:056][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 26
+[2021.04.26-05.03.25:056][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2021.04.26-05.03.25:056][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2021.04.26-05.03.25:056][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2021.04.26-05.03.25:056][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2021.04.26-05.03.25:056][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2021.04.26-05.03.25:056][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.04.26-05.03.25:056][  0]MapCheck: Warning: HoangMushroomG_lambert1_BaseColor_Mat Material /Game/Mushrooms/MushroomG/HoangMushroomG_lambert1_BaseColor_Mat.HoangMushroomG_lambert1_BaseColor_Mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2021.04.26-05.03.25:056][  0]LogMaterial: Display: Material /Game/Mushrooms/MushroomD/alt_HoangMushroomD_lambert1_BaseColor_Mat.alt_HoangMushroomD_lambert1_BaseColor_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2021.04.26-05.03.25:057][  0]LogMaterial: Display: Missing cached shader map for material alt_HoangMushroomD_lambert1_BaseColor_Mat, compiling. 
+[2021.04.26-05.03.25:082][  0]MapCheck: Warning: alt_HoangMushroomD_lambert1_BaseColor_Mat Material /Game/Mushrooms/MushroomD/alt_HoangMushroomD_lambert1_BaseColor_Mat.alt_HoangMushroomD_lambert1_BaseColor_Mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2021.04.26-05.03.25:185][  0]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 84
+[2021.04.26-05.03.25:185][  0]LogShaderCompilers: Display: Worker (13/13): shaders left to compile 77
+[2021.04.26-05.03.25:185][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.26-05.03.25:186][  0]LogNavigation: Warning: Recreating dtNavMesh instance due mismatch in number of bytes required to store serialized maxTiles (17008, 15 bits) vs calculated maxtiles (11808, 14 bits)
+[2021.04.26-05.03.25:315][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.04.26-05.03.25:319][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.26-05.03.25:319][  0]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 0.223ms to complete.
+[2021.04.26-05.03.25:328][  0]LogFileHelpers: Loading map 'Forest' took 2.727
+[2021.04.26-05.03.25:330][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.837
+[2021.04.26-05.03.25:537][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.26-05.03.25:550][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.26-05.03.25:563][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.26-05.03.25:576][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.26-05.03.25:602][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0183 seconds. Added 3601 classes and 859 folders.
+[2021.04.26-05.03.25:607][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2021.04.26-05.03.25:610][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.26-05.03.25:610][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:610][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.26-05.03.25:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.04.26-05.03.25:611][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.26-05.03.25:611][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:611][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.26-05.03.25:611][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.04.26-05.03.25:612][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.04.26-05.03.25:613][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:613][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.04.26-05.03.25:613][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.04.26-05.03.25:614][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.26-05.03.25:614][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:614][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.26-05.03.25:614][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.04.26-05.03.25:615][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.26-05.03.25:615][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:615][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.26-05.03.25:615][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.04.26-05.03.25:616][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.26-05.03.25:616][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:616][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.26-05.03.25:616][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.04.26-05.03.25:617][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.26-05.03.25:617][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:617][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.26-05.03.25:617][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.04.26-05.03.25:618][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.26-05.03.25:618][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:618][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.26-05.03.25:618][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.04.26-05.03.25:619][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.26-05.03.25:619][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:619][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.26-05.03.25:619][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.04.26-05.03.25:621][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.26-05.03.25:621][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:621][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.26-05.03.25:621][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.04.26-05.03.25:622][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.26-05.03.25:622][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:622][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.26-05.03.25:622][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.04.26-05.03.25:623][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.26-05.03.25:623][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:623][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.26-05.03.25:623][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.04.26-05.03.25:624][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.26-05.03.25:624][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:624][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.26-05.03.25:624][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.04.26-05.03.25:625][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.26-05.03.25:625][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:625][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.26-05.03.25:625][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.04.26-05.03.25:626][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.26-05.03.25:626][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:626][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.26-05.03.25:626][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.04.26-05.03.25:628][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.26-05.03.25:628][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:628][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.26-05.03.25:628][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.04.26-05.03.25:630][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.26-05.03.25:630][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:630][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.26-05.03.25:630][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.04.26-05.03.25:631][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.26-05.03.25:631][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:631][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.26-05.03.25:631][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.04.26-05.03.25:632][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.26-05.03.25:632][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:632][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.26-05.03.25:632][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2021.04.26-05.03.25:633][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.26-05.03.25:633][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:633][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.26-05.03.25:633][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.04.26-05.03.25:634][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.26-05.03.25:634][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:634][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.26-05.03.25:634][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2021.04.26-05.03.25:636][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.26-05.03.25:636][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:636][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.26-05.03.25:636][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2021.04.26-05.03.25:637][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.04.26-05.03.25:637][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:637][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.04.26-05.03.25:637][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2021.04.26-05.03.25:638][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.26-05.03.25:638][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:638][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.26-05.03.25:638][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2021.04.26-05.03.25:640][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.26-05.03.25:640][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:640][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.26-05.03.25:640][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.04.26-05.03.25:641][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.26-05.03.25:641][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-05.03.25:641][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.26-05.03.25:641][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2021.04.26-05.03.25:720][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.04.26-05.03.25:725][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 0 folders.
+[2021.04.26-05.03.25:774][  0]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.26-05.03.25:776][  0]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.26-05.03.25:783][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.26-05.03.26:066][  0]LogRenderer: Reallocating scene render targets to support 1172x556 Format 10 NumSamples 1 (Frame:1).
+[2021.04.26-05.03.26:198][  0]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.26-05.03.26:320][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.04.26-05.03.26:320][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.04.26-05.03.26:320][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.04.26-05.03.26:320][  0]LogLoad: (Engine Initialization) Total time: 11.83 seconds
+[2021.04.26-05.03.26:320][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.26-05.03.26:320][  0]LogInit: First time updating LLM stats...
+[2021.04.26-05.03.26:439][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.26-05.03.26:555][  0]LogSlate: Took 0.000463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.26-05.03.26:739][  2]LogAssetRegistry: Asset discovery search completed in 9.2562 seconds
+[2021.04.26-05.03.26:743][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.04.26-05.03.27:186][  3]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 70
+[2021.04.26-05.03.27:383][ 11]LogSlate: Took 0.000322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.26-05.03.27:897][ 16]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 64
+[2021.04.26-05.03.28:050][ 17]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 58
+[2021.04.26-05.03.28:322][ 33]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 53
+[2021.04.26-05.03.28:443][ 42]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 48
+[2021.04.26-05.03.28:509][ 43]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 43
+[2021.04.26-05.03.28:800][ 54]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 39
+[2021.04.26-05.03.28:883][ 58]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 35
+[2021.04.26-05.03.29:133][ 70]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 32
+[2021.04.26-05.03.29:372][ 87]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 29
+[2021.04.26-05.03.29:519][ 96]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 26
+[2021.04.26-05.03.30:942][179]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 23
+[2021.04.26-05.03.31:048][185]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 21
+[2021.04.26-05.03.31:374][204]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 19
+[2021.04.26-05.03.31:392][205]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 17
+[2021.04.26-05.03.31:575][216]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 15
+[2021.04.26-05.03.31:575][216]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 13
+[2021.04.26-05.03.31:612][218]LogFileCache: Retrieving MD5 hashes for directory 'H:/Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/' took 5.22s
+[2021.04.26-05.03.31:940][237]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 11
+[2021.04.26-05.03.31:970][238]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 10
+[2021.04.26-05.03.32:221][254]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 9
+[2021.04.26-05.03.32:895][290]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2021.04.26-05.03.32:895][290]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2021.04.26-05.03.32:981][295]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2021.04.26-05.03.33:013][297]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2021.04.26-05.03.33:055][300]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2021.04.26-05.03.33:166][307]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2021.04.26-05.03.33:193][309]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2021.04.26-05.03.33:240][312]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.04.26-05.04.18:951][754]LogSlate: Window 'Message Log' being destroyed
+[2021.04.26-05.04.18:956][754]LogSlate: Window 'Message Log' being destroyed
+[2021.04.26-05.04.24:663][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.04.26-05.04.26:411][297]LogSlate: Window 'Save Content' being destroyed
+[2021.04.26-05.04.26:443][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Forest" FILE="../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Levels/Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.26-05.04.26:450][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.04.26-05.04.26:966][297]LogSavePackage: Moving '../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Forest3308AAEE4B13F26E4F5294832C7A8334.tmp' to '../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Levels/Forest.umap'
+[2021.04.26-05.04.26:983][297]LogFileHelpers: Saving map 'Forest' took 0.541
+[2021.04.26-05.04.27:791][297]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Bubble_House2\BH-Variation_2\mesh\Bubble_House_Combined.uasset: Failed to load '/Game/Bubble_House2/BH-Variation_2/Materials/BH_BaseV2Mat': Can't find file.
+[2021.04.26-05.04.27:792][297]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Bubble_House2\BH-Variation_2\mesh\Bubble_House_Combined.uasset: Failed to load '/Game/Bubble_House2/BH-Variation_2/Materials/BH_BaseV2Mat': Can't find file.
+[2021.04.26-05.04.27:792][297]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Bubble_House2\BH-Variation_2\mesh\Bubble_House_Combined.uasset: Failed to load '/Game/Bubble_House2/BH-Variation_2/Materials/BH_TopV2Mat': Can't find file.
+[2021.04.26-05.04.27:792][297]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Bubble_House2\BH-Variation_2\mesh\Bubble_House_Combined.uasset: Failed to load '/Game/Bubble_House2/BH-Variation_2/Materials/BH_TopV2Mat': Can't find file.
+[2021.04.26-05.04.27:792][297]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Bubble_House2\BH-Variation_2\mesh\Bubble_House_Combined.uasset: Failed to load '/Game/Bubble_House2/BH-Variation_2/Materials/BH_BaseV2Mat': Can't find file.
+[2021.04.26-05.04.27:792][297]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Bubble_House2\BH-Variation_2\mesh\Bubble_House_Combined.uasset: Failed to load '/Game/Bubble_House2/BH-Variation_2/Materials/BH_TopV2Mat': Can't find file.
+[2021.04.26-05.04.27:798][297]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\BubbleTurbine\BubbleTurbine.uasset: Failed to load '/Game/BubbleTurbine/bubbleTurbine1': Can't find file.
+[2021.04.26-05.04.27:798][297]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\BubbleTurbine\BubbleTurbine.uasset: Failed to load '/Game/BubbleTurbine/bubbleTurbine1': Can't find file.
+[2021.04.26-05.04.27:798][297]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\BubbleTurbine\BubbleTurbine.uasset: Failed to load '/Game/BubbleTurbine/bubbleTurbine1': Can't find file.
+[2021.04.26-05.04.27:971][297]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\BubbleTurbine\BubbleTurbine.uasset: Failed to load '/Game/BubbleTurbine/bubbleTurbine1': Can't find file.
+[2021.04.26-05.04.27:971][297]LoadErrors: Failed to load /Game/BubbleTurbine/bubbleTurbine1.bubbleTurbine1 Referenced by BubbleTurbine
+[2021.04.26-05.04.27:971][297]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\BubbleTurbine\BubbleTurbine.uasset: Failed to load '/Game/BubbleTurbine/bubbleTurbine1': Can't find file.
+[2021.04.26-05.04.27:975][297]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Bubble_House2\BH-Variation_2\mesh\Bubble_House_Combined.uasset: Failed to load '/Game/Bubble_House2/BH-Variation_2/Materials/BH_BaseV2Mat': Can't find file.
+[2021.04.26-05.04.27:975][297]LoadErrors: Failed to load /Game/Bubble_House2/BH-Variation_2/Materials/BH_BaseV2Mat.BH_BaseV2Mat Referenced by Bubble_House_Combined
+[2021.04.26-05.04.27:975][297]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Bubble_House2\BH-Variation_2\mesh\Bubble_House_Combined.uasset: Failed to load '/Game/Bubble_House2/BH-Variation_2/Materials/BH_TopV2Mat': Can't find file.
+[2021.04.26-05.04.27:975][297]LoadErrors: Failed to load /Game/Bubble_House2/BH-Variation_2/Materials/BH_TopV2Mat.BH_TopV2Mat Referenced by Bubble_House_Combined
+[2021.04.26-05.04.27:975][297]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Bubble_House2\BH-Variation_2\mesh\Bubble_House_Combined.uasset: Failed to load '/Game/Bubble_House2/BH-Variation_2/Materials/BH_BaseV2Mat': Can't find file.
+[2021.04.26-05.04.27:975][297]LogLinker: Warning: [AssetLog] H:\Serotopia2021\Serotopia\Sero_4.26\Serotopia_Grey_1 4.26\Content\Bubble_House2\BH-Variation_2\mesh\Bubble_House_Combined.uasset: Failed to load '/Game/Bubble_House2/BH-Variation_2/Materials/BH_TopV2Mat': Can't find file.
+[2021.04.26-05.04.28:461][297]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Bubbleopolis.Bubbleopolis
+[2021.04.26-05.04.28:461][297]Cmd: MAP LOAD FILE="../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Content/Levels/Bubbleopolis.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.26-05.04.28:461][297]LightingResults: New page: Lighting Build
+[2021.04.26-05.04.28:461][297]LoadErrors: New page: Loading map: Bubbleopolis.umap
+[2021.04.26-05.04.28:465][297]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Levels/Forest.Forest:PersistentLevel.ReactivePlant_2.ExclamSprite)
+[2021.04.26-05.04.28:471][297]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2021.04.26-05.04.28:471][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.26-05.04.28:472][297]MapCheck: New page: Map Check
+[2021.04.26-05.04.28:472][297]LightingResults: New page: Lighting Build
+[2021.04.26-05.04.28:485][297]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.26-05.04.28:503][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.04.26-05.04.28:509][297]LogAudio: Display: Audio Device (ID: 1) registered with world 'Bubbleopolis'.
+[2021.04.26-05.04.28:626][297]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.26-05.04.28:626][297]LogAIModule: Creating AISystem for world Bubbleopolis
+[2021.04.26-05.04.28:703][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.04.26-05.04.28:717][297]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.26-05.04.28:718][297]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.178ms to complete.
+[2021.04.26-05.04.28:718][297]LogFileHelpers: Loading map 'Bubbleopolis' took 0.256
+[2021.04.26-05.04.28:746][297]AssetCheck: New page: Asset Save: Forest
+[2021.04.26-05.04.28:746][297]LogContentValidation: Display: Validating World /Game/Levels/Forest.Forest
+[2021.04.26-05.04.37:346][110]LogEditorViewport: Clicking on Actor (LMB): ToyBoatYellow2_Blueprint_C (ToyBoatYellow2_Blueprint)
+[2021.04.26-05.04.38:431][223]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.26-05.04.40:382][437]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BubbleopolisBPs/ToyBoatYellow2_Blueprint.ToyBoatYellow2_Blueprint
+[2021.04.26-05.04.40:551][437]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.04.26-05.04.41:420][437]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.26-05.04.57:013][809]LogContentBrowser: Attempting asset rename: CutsceneLvl3 -> CutsceneLvl3
+[2021.04.26-05.05.08:087][971]BlueprintLog: New page: Compile ToyBoatYellow2_Blueprint
+[2021.04.26-05.05.08:169][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.04.26-05.05.15:577][754]LogEditorViewport: Clicking on Actor (LMB): BubbleMan_BP_BoatDude1_C (BubbleMan_BP_BoatDude1)
+[2021.04.26-05.05.28:996][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bubble_Gate_LP__1_3)
+[2021.04.26-05.05.35:863][565]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bubble_Gate_LP__1_3)
+[2021.04.26-05.05.46:138][372]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Bubbleopolis.Bubbleopolis:PersistentLevel.Bubbleopolis
+[2021.04.26-05.06.18:392][352]Cmd: TRANSACTION UNDO
+[2021.04.26-05.06.18:392][352]LogEditorTransaction: Undo Rotate Actors
+[2021.04.26-05.10.00:036][576]LogEditorViewport: Clicking on Actor (LMB): SceneFinish_Actor_C (SceneFinish_Actor)
+[2021.04.26-05.11.11:100][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bubble_Gate_LP__1_3)
+[2021.04.26-05.11.24:523][810]Cmd: TRANSACTION UNDO
+[2021.04.26-05.11.24:523][810]LogEditorTransaction: Undo Move Actors
+[2021.04.26-05.11.25:708][877]Cmd: TRANSACTION UNDO
+[2021.04.26-05.11.25:708][877]LogEditorTransaction: Undo Move Actors
+[2021.04.26-05.11.26:237][918]Cmd: TRANSACTION UNDO
+[2021.04.26-05.11.26:237][918]LogEditorTransaction: Undo Rotate Actors
+[2021.04.26-05.11.28:216][ 57]Cmd: EDIT COPY
+[2021.04.26-05.11.28:484][ 76]Cmd: EDIT PASTE
+[2021.04.26-05.11.45:966][289]Cmd: EDIT COPY
+[2021.04.26-05.11.46:194][305]Cmd: EDIT PASTE
+[2021.04.26-05.12.04:578][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bubble_Gate_LP__1_5)
+[2021.04.26-05.12.39:036][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bubble_Gate_LP__1_6)
+[2021.04.26-05.12.45:246][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bubble_Gate_LP__1_5)
+[2021.04.26-05.14.24:929][177]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.04.26-05.14.25:185][177]LogSavePackage: Moving '../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Bubbleopolis_Auto1696454E2458FD62C7A9763A3536F564B.tmp' to '../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Autosaves/Game/Levels/Bubbleopolis_Auto1.umap'
+[2021.04.26-05.14.25:186][177]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Bubbleopolis' took 0.287
+[2021.04.26-05.14.25:186][177]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.287
+[2021.04.26-05.14.25:187][177]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BubbleopolisBPs/ToyBoatYellow2_Blueprint] ([1] browsable assets)...
+[2021.04.26-05.14.25:187][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/BubbleopolisBPs/ToyBoatYellow2_Blueprint]
+[2021.04.26-05.14.25:195][177]LogSavePackage: Moving '../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/ToyBoatYellow2_Blueprint_Auto1B122E86F401DD218F41FD1BF8F5E48D1.tmp' to '../../../../Serotopia2021/Serotopia/Sero_4.26/Serotopia_Grey_1 4.26/Saved/Autosaves/Game/BubbleopolisBPs/ToyBoatYellow2_Blueprint_Auto1.uasset'
+[2021.04.26-05.14.25:196][177]LogFileHelpers: Auto-saving content packages took 0.009
+[2021.04.26-05.18.55:200][ 36]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2021.04.26-05.18.56:347][ 93]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2021.04.26-05.18.56:886][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bubble_Gate_LP__1_6)
+[2021.04.26-05.19.02:222][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bubble_Gate_LP__1_4)
+[2021.04.26-05.19.25:287][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BubsLandIDMap2)
+[2021.04.26-05.19.30:924][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bubble_Gate_LP__1_6)
+[2021.04.26-05.19.54:264][557]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2021.04.26-05.20.08:374][809]BlueprintLog: New page: Compile Bubbleopolis
+[2021.04.26-05.20.08:453][809]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.04.26-05.20.10:175][941]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.26-05.20.10:185][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.26-05.20.10:185][941]PIE: New page: PIE session: Bubbleopolis (Apr 25, 2021, 9:20:10 PM)
+[2021.04.26-05.20.10:186][941]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.26-05.20.10:187][941]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.26-05.20.10:187][941]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bubbleopolis
+[2021.04.26-05.20.10:258][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070008s)
+[2021.04.26-05.20.10:258][941]LogAIModule: Creating AISystem for world Bubbleopolis
+[2021.04.26-05.20.10:259][941]LogPlayLevel: PIE: World Init took: (0.001069s)
+[2021.04.26-05.20.10:259][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bubbleopolis.Bubbleopolis to /Game/Levels/UEDPIE_0_Bubbleopolis.Bubbleopolis (0.071269s)
+[2021.04.26-05.20.10:284][941]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.04.26-05.20.10:285][941]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.04.26-05.20.10:285][941]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.26-05.20.10:285][941]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.26-05.20.10:285][941]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.26-05.20.10:285][941]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.26-05.20.10:285][941]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.26-05.20.10:285][941]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.26-05.20.10:285][941]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.26-05.20.10:285][941]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.26-05.20.10:285][941]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.26-05.20.10:285][941]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.26-05.20.10:292][941]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.26-05.20.10:292][941]LogAudioMixer: Display: 1: FrontRight
+[2021.04.26-05.20.10:292][941]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.26-05.20.10:292][941]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.26-05.20.10:292][941]LogAudioMixer: Display: 4: BackLeft
+[2021.04.26-05.20.10:292][941]LogAudioMixer: Display: 5: BackRight
+[2021.04.26-05.20.10:292][941]LogAudioMixer: Display: 6: SideLeft
+[2021.04.26-05.20.10:292][941]LogAudioMixer: Display: 7: SideRight
+[2021.04.26-05.20.10:331][941]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.26-05.20.10:331][941]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.26-05.20.10:331][941]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.26-05.20.10:331][941]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.26-05.20.10:331][941]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.26-05.20.10:331][941]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.26-05.20.10:331][941]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.26-05.20.10:344][941]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.26-05.20.10:344][941]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.26-05.20.10:344][941]LogInit: FAudioDevice initialized.
+[2021.04.26-05.20.10:344][941]LogAudio: Display: Audio Device (ID: 2) registered with world 'Bubbleopolis'.
+[2021.04.26-05.20.10:354][941]LogLoad: Game class is 'Mechanic_Test_C'
+[2021.04.26-05.20.10:371][941]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bubbleopolis.Bubbleopolis up for play (max tick rate 0) at 2021.04.26-01.20.10
+[2021.04.26-05.20.10:374][941]LogWorld: Bringing up level for play took: 0.020315
+[2021.04.26-05.20.10:376][941]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.04.26-05.20.10:397][941]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.04.26-05.20.10:399][941]Cmd: disableallscreenmessages
+[2021.04.26-05.20.10:399][941]LogEngine: Onscreen warnings/messages are now DISABLED
+[2021.04.26-05.20.10:399][941]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.04.26-05.20.10:400][941]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_Bubbleopolis.Bubbleopolis:PersistentLevel.Bubble_Gate_LP__1_173 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.04.26-05.20.10:400][941]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_Bubbleopolis.Bubbleopolis:PersistentLevel.Bubble_Gate_LP__1_173 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.04.26-05.20.10:400][941]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_Bubbleopolis.Bubbleopolis:PersistentLevel.Bubble_Gate_LP__1_4 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.04.26-05.20.10:400][941]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_Bubbleopolis.Bubbleopolis:PersistentLevel.Bubble_Gate_LP__1_4 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.04.26-05.20.10:400][941]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Levels/Bubbleopolis.Bubbleopolis_C:ExecuteUbergraph_Bubbleopolis'!
+[2021.04.26-05.20.10:400][941]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Bubbleopolis_C /Game/Levels/UEDPIE_0_Bubbleopolis.Bubbleopolis:PersistentLevel.Bubbleopolis_C_0
+	Function /Game/Levels/Bubbleopolis.Bubbleopolis_C:ExecuteUbergraph_Bubbleopolis:0DC7
+[2021.04.26-05.20.10:400][941]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Bubbleopolis Function:  Execute Ubergraph Bubbleopolis Graph:  EventGraph Node:  Remove from Parent
+[2021.04.26-05.20.10:437][941]PIE: Server logged in
+[2021.04.26-05.20.10:438][941]PIE: Play in editor total start time 0.255 seconds.
+[2021.04.26-05.20.14:698][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.26-05.20.14:698][335]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bubbleopolis
+[2021.04.26-05.20.14:711][335]LogOutputDevice: Warning: 
+
+Script Stack (2 frames):
+Bubbleopolis_C.ExecuteUbergraph_Bubbleopolis
+Bubbleopolis_C.OnStop_Event_0
+
+[2021.04.26-05.20.15:618][335]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.907 s
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: === Handled ensure: ===
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: 
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: Ensure condition failed: !World->bIsTearingDown [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/UMG/Private/UserWidget.cpp] [Line: 1961]
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: Widget Class CrosshairWid_C - Attempting to be created while tearing down the world 'Bubbleopolis'
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: Stack: 
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff8057cc3b5 UE4Editor-UMG.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff80566b902 UE4Editor-UMG.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff8055cd65b UE4Editor-UMG.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff8056666a5 UE4Editor-UMG.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff8057710cc UE4Editor-UMG.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff806d026a4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff806f78207 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff806f8f843 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff806fbd57f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff806f9238d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff806f66bfa UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff806f91f84 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff806f9238d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff806f91794 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff806d026a4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff806f90ef3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff80139c125 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ffffc6f6fab UE4Editor-MovieScene.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ffffc75bc60 UE4Editor-MovieScene.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff83f3c0a8f UE4Editor-LevelSequence.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff8013a9388 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007fffff24c93b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007fffff20f351 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ffffecaa662 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007fffff5c4206 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff648df9bda UE4Editor.exe!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff648e111ac UE4Editor.exe!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff648e1128a UE4Editor.exe!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff648e252ed UE4Editor.exe!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff648e2801a UE4Editor.exe!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff87e657034 KERNEL32.DLL!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: [Callstack] 0x00007ff87f0a2651 ntdll.dll!UnknownFunction []
+[2021.04.26-05.20.15:618][335]LogOutputDevice: Error: 
